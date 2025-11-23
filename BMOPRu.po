@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-23 17:15+0300\n"
+"PO-Revision-Date: 2025-11-23 18:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18142,7 +18142,7 @@ msgid ""
 "underground- I have other tasks for you."
 msgstr ""
 "Не то слово, Тоа. Я надеюсь, что ты посетишь меня как только я буду в своём привычном "
-"месте под землей – у меня есть другие дела для тебя."
+"месте под землёй – у меня есть другие дела для тебя."
 
 #. Key:	DL_WhenuaDefault1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaDefault1.Default__DL_WhenuaDefault1_C.DialogueText
