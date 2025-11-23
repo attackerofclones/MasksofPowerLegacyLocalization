@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-23 10:33+0300\n"
+"PO-Revision-Date: 2025-11-23 17:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9122,7 +9122,7 @@ msgstr "То есть вы хотите, чтобы я вошёл в Та-Кин
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostRescueTahu2.Default__DL_VakamaPostRescueTahu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_VakamaPostRescueTahu2_PlayerResponse_1"
 msgid "Who?"
-msgstr "Кто?"
+msgstr "Кого?"
 
 #. Key:	DL_VakamaPostRescueTahu3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostRescueTahu3.Default__DL_VakamaPostRescueTahu3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
