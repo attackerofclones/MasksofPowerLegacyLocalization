@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-25 20:49+0300\n"
+"PO-Revision-Date: 2025-11-25 21:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21621,7 +21621,7 @@ msgstr "Поговорите с Матау."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheTuragaOfEarth_Objective_1"
 msgid "Find Whenua and Speak to him."
-msgstr "Найдите Венуа и Поговорите с ним."
+msgstr "Найдите Венуа и поговорите с ним."
 
 #. Key:	Quest_TheTuragaOfEarth_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheTuragaOfEarth.Default__Quest_TheTuragaOfEarth_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
