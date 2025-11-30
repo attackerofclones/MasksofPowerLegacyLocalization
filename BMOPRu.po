@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-25 21:22+0300\n"
+"PO-Revision-Date: 2025-11-30 10:16+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -176,7 +176,7 @@ msgid ""
 "if you find yourself overwhelmed while in battle."
 msgstr ""
 "Гали – добрая и заботливая Тоа Воды. Нередко именно она разрешает споры, возникающие "
-"между другими Тоа. Она берёт на себя ответственность в сплочении команды, оставаясь "
+"между другими Тоа. Она берёт на себя бремя сплочения команды, оставаясь "
 "сконцентрированной на трёх добродетелях, даже если ей самой хочется поддаться гневу. "
 "Именно она держит Тоа едиными и сфокусированными на задаче по уничтожению Макуты. Атака "
 "её стихии заключается в использовании силы воды, отталкивающей врагов со всех сторон. "
@@ -1903,7 +1903,7 @@ msgstr "Ты в порядке? Ты выглядишь... Странно."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man2_PlayerResponse_1"
 msgid "Okay, I guess I'll leave you to it then."
-msgstr "Ладно, оставлю это на твоей совести."
+msgstr "Ладно, я оставлю это на твоей совести."
 
 #. Key:	DL_420man_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2147,7 +2147,7 @@ msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFFindHimDoor_PlayerResponse_1
 msgid "Alright, I'll find him for you... But what do you want me to do when I do find him?"
 msgstr ""
 "Хорошо, я найду его для тебя... Но что ты хочешь, чтобы я {G}|gender(сделал, сделала), "
-"когда я всё же найду его?"
+"когда всё же найду его?"
 
 #. Key:	DL_Allknowingmatoran_WDYFLiar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiar.Default__DL_Allknowingmatoran_WDYFLiar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2691,15 +2691,14 @@ msgid ""
 "<Lie> Indeed, however I was unable to clear the blockage. The beast proved too strong "
 "for even me."
 msgstr ""
-"<Ложь> Действительно, но мне не удалось расчистить завалы. Зверь оказался сильным даже "
-"для меня."
+"<Ложь> Да, но мне не удалось расчистить завалы. Зверь оказался сильным даже для меня."
 
 #. Key:	DL_DamemoLose_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoLose_PlayerResponse_2"
 msgid "<Truth> Yes, however you cannot stay here."
-msgstr "<Правда> Да, но тебе нельзя там оставаться."
+msgstr "<Правда> Да, но тебе нельзя тут оставаться."
 
 #. Key:	DL_DamemoRuki_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRuki.Default__DL_DamemoRuki_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
