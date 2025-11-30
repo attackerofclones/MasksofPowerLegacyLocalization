@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-11-30 10:23+0300\n"
+"PO-Revision-Date: 2025-11-30 12:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -6253,14 +6253,14 @@ msgstr "Прежде чем я её собью, вам лучше отойти �
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaPohatuQuest2.Default__DL_OnewaPohatuQuest2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_OnewaPohatuQuest2_PlayerResponse_1"
 msgid "Again?"
-msgstr "Опять?"
+msgstr "Вновь?"
 
 #. Key:	DL_OnewaPohatuQuest2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaPohatuQuest2.Default__DL_OnewaPohatuQuest2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaPohatuQuest2.Default__DL_OnewaPohatuQuest2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_OnewaPohatuQuest2_PlayerResponse_2"
 msgid "Again?"
-msgstr "Опять?"
+msgstr "Вновь?"
 
 #. Key:	DL_OnewaPohatuQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Turaga/DL_OnewaPohatuQuest.Default__DL_OnewaPohatuQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9306,7 +9306,7 @@ msgstr "В каком смысле?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua2.Default__DL_WhenuaOnua2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WhenuaOnua2_PlayerResponse_1"
 msgid "What do you mean “again”?"
-msgstr "В каком смысле «снова»?"
+msgstr "Что вы имеете в виду под «снова»?"
 
 #. Key:	DL_WhenuaOnua3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua3.Default__DL_WhenuaOnua3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -13953,7 +13953,7 @@ msgid ""
 "When you- Oh! Pardon me, The last time *WE* attempted to enter the Ga-Kini. A group of "
 "the Ga-Koro Guard were chased out by the Rahi inside- Rahi which you will have to defeat."
 msgstr ""
-"Когда ты... Ой! Извиняюсь, в последний раз, когда *МЫ* пытались попасть в Га-Кини. На "
+"Когда ты... Ой! Извиняюсь, в последний раз, когда *МЫ* пытались попасть в Га-Кини, на "
 "группу стражей Га-Коро напали находившиеся внутри Рахи. Рахи, которых тебе придётся "
 "одолеть."
 
@@ -21747,7 +21747,7 @@ msgstr "Не в этот раз!"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line17"
 msgid "What? Stop! What are you doing?"
-msgstr "Что? Стой! Что ты делаешь?"
+msgstr "Что? Стой! Что ты делаешь?!"
 
 #. Key:	MakutaExplode_Line18
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -25823,7 +25823,7 @@ msgstr "Гель Вахе Мата:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Ручн. Сохранение"
+msgstr "Ручное Сохранение"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
