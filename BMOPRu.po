@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-05 11:23+0300\n"
+"PO-Revision-Date: 2025-12-05 11:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20344,7 +20344,8 @@ msgstr "Нажмите кнопку взаимодействия в меню к�
 #: Config/DefaultGame.ini:113
 msgctxt "LoadingTip_Text,Tip_ObjectivesAkaku"
 msgid "Quest objectives can be seen in the world when using the Akaku."
-msgstr "Квестовые задачи можно увидеть в мире при использовании Акаку."
+msgstr ""
+"Задачи и предметы для квестов можно увидеть в игровом мире при использовании Акаку."
 
 #. Key:	Tip_Save
 #. SourceLocation:	Config/DefaultGame.ini:113
