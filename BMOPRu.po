@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-09 18:25+0300\n"
+"PO-Revision-Date: 2025-12-09 18:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26180,8 +26180,8 @@ msgstr "Медная маска победы, найденная в По-хра�
 msgctxt "UIText_Description_Cosmetics,Cosmetics_CrystalMask_Description"
 msgid "A Nearly Clear mask Made out of Ice, Why does it work, who made it, Who knows?"
 msgstr ""
-"Практически Прозрачная маска, сделанная из льда. Почему она работает? Кто её создал? Кто "
-"знает?"
+"Практически прозрачная маска, сделанная изо льда. Почему она работает? Кто её создал? "
+"Кто знает?"
 
 #. Key:	Cosmetics_FestiveHat_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
@@ -26406,7 +26406,7 @@ msgid ""
 "Toggle a compass that will lead you directly towards your objective. \r\n"
 "For the directionally challenged."
 msgstr ""
-"Включите компас, который приведёт вас к цели задания. \r\n"
+"Включает компас, который приведёт вас прямо к цели задания. \r\n"
 "Для тех, у кого проблемы с ориентированием."
 
 #. Key:	PausedDisplaySettings_Language_Tooltip
