@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-10 09:44+0300\n"
+"PO-Revision-Date: 2025-12-10 10:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21783,7 +21783,7 @@ msgstr "Не... совсем."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line5"
 msgid "Give up, You've been defeated!"
-msgstr "Сдавайся, ты побеждён!"
+msgstr "Сдавайся! Ты побеждён!"
 
 #. Key:	MakutaExplode_Line6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
