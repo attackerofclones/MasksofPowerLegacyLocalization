@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-09 19:17+0300\n"
+"PO-Revision-Date: 2025-12-10 09:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17526,7 +17526,7 @@ msgstr "Ваше время подошло к концу, Тоа. Вы наве�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta3.Default__DL_TutCorruptedMakuta3_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutCorruptedMakuta3"
 msgid "Hmph. If you cannot see your own destiny, then perhaps I will need to show you."
-msgstr "Хмпф. Если вы не можете увидеть свою судьбу, то… может, мне стоит её вам показать."
+msgstr "Хмпф. Если вы не можете увидеть свою судьбу, то… может, мне стоит вам её показать."
 
 #. Key:	DL_TutFinalDialouge1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge1.Default__DL_TutFinalDialouge1_C.DialogueText
@@ -17802,8 +17802,8 @@ msgid ""
 "say that I suspected it might have been hidden inside the Ta-Kini."
 msgstr ""
 "Пока ты и остальные Тоа ищете свои маски, я должен признаться, что тоже ищу одну. Хотя "
-"боюсь, что не могу подробно об этом рассказать, я могу предположить, что она, возможно, "
-"спрятана внутри Та-Кини."
+"боюсь, что не могу сейчас подробно об этом рассказать, я могу озвучить предположение, "
+"что она, возможно, спрятана внутри Та-Кини."
 
 #. Key:	DL_VakamaPostRescueTahu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaPostRescueTahu2.Default__DL_VakamaPostRescueTahu2_C.DialogueText
