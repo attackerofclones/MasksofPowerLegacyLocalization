@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-10 20:30+0300\n"
+"PO-Revision-Date: 2025-12-10 20:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22004,8 +22004,8 @@ msgid ""
 "So it seems you've found me... You cannot stop my crusade, your time will come toa... "
 "For I am THE PROPHET OF THE MAKUTA!"
 msgstr ""
-"Видимо, вам удалось меня найти... Вы не сможете остановить мои цели, ваше время придёт, "
-"Тоа… Ведь я – ПРОРОК МАКУТЫ!"
+"Видимо, вам удалось меня найти... Вы не сможете остановить мою миссию... Ваше время "
+"придёт, Тоа… Ведь я – ПРОРОК МАКУТЫ!"
 
 #. Key:	POTM_Line10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22060,7 +22060,7 @@ msgstr "Как вам удалось найти это место?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line5"
 msgid "A Matoran told me where it was. Why?"
-msgstr "Маторан сказал мне где оно. А что?"
+msgstr "Маторан сказал мне, где оно. А что?"
 
 #. Key:	POTM_Line6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
