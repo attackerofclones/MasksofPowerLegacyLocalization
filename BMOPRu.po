@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-10 20:47+0300\n"
+"PO-Revision-Date: 2025-12-11 16:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18819,7 +18819,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
 msgctxt "InvItem_Description,Item_ResearchNotes_Desc"
 msgid "A collection of research notes from a curious Matoran."
-msgstr "Коллекция исследовательских записей от любопытного Маторана."
+msgstr "Коллекция записей исследования от любопытного Маторана."
 
 #. Key:	Item_RestorationGel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
@@ -19060,8 +19060,7 @@ msgid ""
 "A strange orange substance that pulsates with power. Perhaps it can be used with "
 "something?"
 msgstr ""
-"Странная масса оранжевого цвета, излучающая силу. Возможно, её можно с чем-то "
-"использовать?"
+"Странная масса оранжевого цвета, излучающая силу. Может, её можно с чем-то использовать?"
 
 #. Key:	Item_WhakaNui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_WhakaNui.Item_WhakaNui.Description
@@ -20065,7 +20064,7 @@ msgid ""
 "\r\n"
 "I will elaborate on this potential conclusion tomorrow, as for now I must retire."
 msgstr ""
-"Исследовательские записи Коматы – Артефакт\r\n"
+"Записи исследования Коматы – Артефакт\r\n"
 "\r\n"
 "Запись 1 –\r\n"
 "Я купил странную каменную скульптуру у знакомого, которого я встретил в По-Коро во время "
