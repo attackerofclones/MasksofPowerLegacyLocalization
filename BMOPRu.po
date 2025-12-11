@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-11 19:46+0300\n"
+"PO-Revision-Date: 2025-12-11 19:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10209,7 +10209,7 @@ msgid ""
 msgstr ""
 "Как? А, я понял, вы... вы всё же узнали об этом... Да, мы ловим розовохвостых Руки, "
 "находящихся вне закона в По, Ону, Га и Та-Коро. Я основал это место, чтобы выбраться из-"
-"под юрисдикции Ону-Коро на их ловлю."
+"под юрисдикции закона Ону-Коро на их вылов."
 
 #. Key:	DL_DamemoRukiDanger
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRukiDanger.Default__DL_DamemoRukiDanger_C.DialogueText
