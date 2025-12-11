@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-11 16:08+0300\n"
+"PO-Revision-Date: 2025-12-11 19:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9554,7 +9554,7 @@ msgid ""
 "stock!"
 msgstr ""
 "Ну, ты же наверняка {G}|gender(слышал, слышала)! На мои Кометы сейчас очень высокий "
-"спрос, они продаются настолько быстро, что мне пришлось поднять на них цены, пока я жду "
+"спрос. Они продаются настолько быстро, что мне пришлось поднять на них цены, пока я жду "
 "запасы!"
 
 #. Key:	DL_Akamar
@@ -18319,7 +18319,7 @@ msgid ""
 "What is WRONG with you! I could have been hurt! ...But thank you for getting me down "
 "from there. That rock looks much taller from the top of it."
 msgstr ""
-"Да что с тобой НЕ ТАК?! Я мог бы пострадать! ...Но спасибо за то, что {G}|"
+"Да что с тобой НЕ ТАК!? Я мог бы пострадать! ...Но спасибо за то, что {G}|"
 "gender(спустил, спустила) меня оттуда. Эта скала кажется гораздо выше, если смотреть "
 "вниз с её вершины."
 
@@ -18819,7 +18819,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_ResearchNotes.Item_ResearchNotes.Description
 msgctxt "InvItem_Description,Item_ResearchNotes_Desc"
 msgid "A collection of research notes from a curious Matoran."
-msgstr "Коллекция записей исследования от любопытного Маторана."
+msgstr "Коллекция записей различных исследований от любопытного Маторана."
 
 #. Key:	Item_RestorationGel_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Consumables/Item_RestorationGel.Item_RestorationGel.Description
