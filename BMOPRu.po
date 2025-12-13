@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-13 10:39+0300\n"
+"PO-Revision-Date: 2025-12-13 10:52+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10673,8 +10673,8 @@ msgid ""
 "But he had already left by then. The discussion was heated and he decided that he'd get "
 "more food from Onu-Koro before out stores ran dry."
 msgstr ""
-"Но он к тому моменту ушёл. Обсуждение было бурным, он решил достать немного еды из Ону-"
-"Коро, пока у нас не иссякли запасы."
+"Но он к тому моменту ушёл. Обсуждение было бурным, поэтому он решил достать немного еды "
+"из Ону-Коро, пока у нас не иссякли запасы."
 
 #. Key:	DL_GreavingMatoran6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran6.Default__DL_GreavingMatoran6_C.DialogueText
@@ -10707,14 +10707,15 @@ msgid ""
 "turned him over I knew who it was, even without a mask I could tell it was my brother."
 msgstr ""
 "Спустя день я вернулся на этот остров и обнаружил Маторана на песке. Когда я перевернул "
-"его, то сразу узнал его. Даже без маски я мог сказать, что это был мой брат."
+"его, то сразу же узнал его. Даже без маски я мог сказать, что это был мой брат."
 
 #. Key:	DL_GreavingMatoran9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran9"
 msgid "He is burried down the path behind me, pay your respects if you wish."
-msgstr "Он похоронен на тропе позади меня, если будет желание – отдайте ему дань памяти."
+msgstr ""
+"Он похоронен на тропе позади меня, если у вас будет желание – отдайте ему дань памяти."
 
 #. Key:	DL_Grinch
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch.Default__DL_Grinch_C.DialogueText
@@ -10784,7 +10785,7 @@ msgid ""
 "Yes I know, that's just what it's called. Jala decided we needed a quicker way to deploy "
 "troops, plus there's too many of us to all stay in Ta-Koro ourselves."
 msgstr ""
-"Да, я знаю, он просто так называется. Джала считает, что нам нужен более быстрый способ "
+"Да, я знаю, просто он так называется. Джала считает, что нам нужен более быстрый способ "
 "отправки войск, да и нас слишком много, чтобы находиться непосредственно в Та-Коро."
 
 #. Key:	DL_GuardCampWhere
@@ -10839,7 +10840,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.DialogueText
 msgctxt "Dialogue_Text,DL_GuardPickingSheildsTahu"
 msgid "Wait what? I thought these where shields! Why do they all have to look the same!"
-msgstr "Стоп, что? Я думал, что это щиты! Почему они должны выглядеть одинаково?!"
+msgstr "Стоп, что? Я думал, что это щиты! Почему они должны выглядеть одинаково!?"
 
 #. Key:	DL_Hahli1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli1.Default__DL_Hahli1_C.DialogueText
