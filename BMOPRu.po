@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-12 14:25+0300\n"
+"PO-Revision-Date: 2025-12-13 10:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2935,7 +2935,7 @@ msgstr "Что ты делаешь на такой высоте?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Exilon/DL_ExilonSpeak.Default__DL_ExilonSpeak_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ExilonSpeak_PlayerResponse_2"
 msgid "Why are you up here? The Nui-Rama could quick-snatch you!"
-msgstr "Почему ты тут? Нуи-Рама сможет тебя быстро схватить!"
+msgstr "Почему ты тут? Нуи-Рама сможет тебя быстро-схватить!"
 
 #. Key:	DL_GeneralKokoranbyprotopool_2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool_2.Default__DL_GeneralKokoranbyprotopool_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5196,7 +5196,8 @@ msgstr "Что в этом храме такого особенного?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroLewa3.Default__DL_MatauKoroLewa3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatauKoroLewa3_PlayerResponse_1"
 msgid "No worries, Turaga. I’ll quick-snatch that stone before you know it!"
-msgstr "Не волнуйтесь, Турага. Я заберу этот камень до того, как вы об этом узнаете!"
+msgstr ""
+"Не волнуйтесь, Турага. Я быстро-заберу этот камень до того, как вы об этом узнаете!"
 
 #. Key:	DL_MatauKoroPostKini_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauKoroPostKini.Default__DL_MatauKoroPostKini_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -15018,7 +15019,7 @@ msgid ""
 "long!"
 msgstr ""
 "Это... это не ловушка, я клянусь! Если бы я действительно хотел подвергнуть вас "
-"опасности, я бы прибежал прямо к вам, а не мёрзнул со своей маской в Ко-Коро дух знает "
+"опасности, я бы прибежал прямо к вам, а не отмораживал себе маску в Ко-Коро дух знает "
 "сколько!"
 
 #. Key:	DL_PoduRacePohatu
@@ -16163,7 +16164,7 @@ msgid ""
 "Well since you're a Toa, you get around better than us Matoran. You must get to see so "
 "many cool creatures!"
 msgstr ""
-"Ну, так как вы являетесь Тоа, вы справляетесь со всем лучше, чем мы Матораны. Вы "
+"Ну, так как вы Тоа, вы бываете в таких местах, куда нам, Маторанам, не добраться. Вы "
 "наверняка встречаете множество крутых существ!"
 
 #. Key:	DL_Seltra4
@@ -17125,7 +17126,7 @@ msgstr "Тоа, п-приветствую! Мы давно не общались
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru1.Default__DL_Tamaru1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru1"
 msgid "Yes, we talked about my height-dread. You don't remember your friend Tamaru?"
-msgstr "Да, мы говорили о моей боязни высоты. Разве вы не помните своего друга Тамару?"
+msgstr "Да, мы говорили о моей высото-боязни. Разве вы не помните своего друга Тамару?"
 
 #. Key:	DL_Tamaru2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru2.Default__DL_Tamaru2_C.DialogueText
@@ -19985,8 +19986,8 @@ msgid ""
 msgstr ""
 "Талок: Баллада о Та-Коро, Часть 1\r\n"
 "\r\n"
-"Ущелье Лавы, великий город стоит один в её объятиях. Огонь рвётся вверх, чтобы брызнуть "
-"собой его чёрные стены. \r\n"
+"Ущелье Лавы, великий город стоит один в её объятиях. Огонь рвётся вверх, омывая собой "
+"его чёрные стены. \r\n"
 "\r\n"
 "-Талок, Поэт-Нуи"
 
