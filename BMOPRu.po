@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-13 10:52+0300\n"
+"PO-Revision-Date: 2025-12-15 17:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9609,7 +9609,7 @@ msgid ""
 "I'm currently packing for my trip home, I was just here to help Akamar with Po-Koro. He "
 "won't need me for his next job... *Grumbles*"
 msgstr ""
-"Я готовлюсь к возвращению домой, я был тут, дабы помочь Акамару с По-Коро. Для следующей "
+"Я готовлюсь к возвращению домой. Я был тут, дабы помочь Акамару с По-Коро. Для следующей "
 "работы я ему не нужен... *Ворчит*"
 
 #. Key:	DL_AkamarBuddy3
@@ -9686,7 +9686,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_Komaru_Reward"
 msgid "Wait! I found armor set during my travels, perhaps you could make use of it?"
 msgstr ""
-"Постойте! Я нашёл комплект брони во время моих странствий. Быть может, вам она "
+"Постойте! Я нашёл комплект брони во время своих странствий. Быть может, вам она "
 "пригодится?"
 
 #. Key:	DL_Allknowingmatoran_Komaru_Thanks
@@ -11103,7 +11103,7 @@ msgstr "Уйди от меня!! Макута, спаси меня!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_Jala1.Default__DL_Jala1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Jala1"
 msgid "Welcome to Ta-Koro, Toa $T. Is there anything you need?"
-msgstr "Добро пожаловать в Та-Коро, Тоа $T. Что-то нужно?"
+msgstr "Добро пожаловать в Та-Коро, Тоа $T. Вам что-то нужно?"
 
 #. Key:	DL_JalaReport
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaReport.Default__DL_JalaReport_C.DialogueText
@@ -18600,7 +18600,7 @@ msgstr "Небольшая золотая фигурка рыбы Руки."
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenStatue.Item_GoldenStatue.Description
 msgctxt "InvItem_Description,Item_GoldenStatue_Desc"
 msgid "A statue of Mata-Nui, made of solid gold."
-msgstr "Статуя Мата Нуи, сделанная из чистого золота."
+msgstr "Статуэтка Мата Нуи, сделанная из чистого золота."
 
 #. Key:	Item_GoldenUssal_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenUssal.Item_GoldenUssal.Description
@@ -22005,7 +22005,7 @@ msgid ""
 "So it seems you've found me... You cannot stop my crusade, your time will come toa... "
 "For I am THE PROPHET OF THE MAKUTA!"
 msgstr ""
-"Видимо, вам удалось меня найти... Вы не сможете остановить мою миссию... Ваше время "
+"Видимо, тебе удалось меня найти... Ты не сможешь остановить мою миссию... Ваше время "
 "придёт, Тоа… Ведь я – ПРОРОК МАКУТЫ!"
 
 #. Key:	POTM_Line10
@@ -22034,7 +22034,7 @@ msgstr "Разрушение... Созидание... Мир... "
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line2"
 msgid "What is this crusade? And what would you have to gain from siding with the Makuta? "
-msgstr "Что это за цели? И что ты получишь, встав на одну сторону с Макутой? "
+msgstr "Что это за миссия? И что ты получишь, встав на одну сторону с Макутой?"
 
 #. Key:	POTM_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22054,7 +22054,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line4"
 msgid "How did you find this place?"
-msgstr "Как вам удалось найти это место?"
+msgstr "Как тебе удалось найти это место?"
 
 #. Key:	POTM_Line5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22068,7 +22068,7 @@ msgstr "Маторан сказал мне, где оно. А что?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line6"
 msgid "Impossible! No one knows where it is! Except for..."
-msgstr "Невозможно! Никто этого не знает! Кроме..."
+msgstr "Невозможно! Этого никто не знает! Кроме..."
 
 #. Key:	POTM_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
