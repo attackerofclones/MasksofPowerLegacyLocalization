@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-15 22:17+0300\n"
+"PO-Revision-Date: 2025-12-15 22:19+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10186,7 +10186,7 @@ msgstr "Тоа, вы вернулись! Ещё и {G}|gender(живым, жив
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose1.Default__DL_DamemoLose1_C.DialogueText
 msgctxt "Dialogue_Text,DL_DamemoLose1"
 msgid "Too strong for a Toa? Oh my..."
-msgstr "Слишком силён для Тоа? О боже..."
+msgstr "Слишком сильным для Тоа? О боже..."
 
 #. Key:	DL_DamemoLose2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose2.Default__DL_DamemoLose2_C.DialogueText
