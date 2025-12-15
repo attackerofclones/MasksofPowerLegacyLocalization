@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-15 21:53+0300\n"
+"PO-Revision-Date: 2025-12-15 22:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17428,8 +17428,8 @@ msgid ""
 "Well it's still on the drawing board, per se... It's going to be a statue of Onua riding "
 "a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
 msgstr ""
-"Ну, это пока ещё лишь в проекте, в общем-то... Это будет статуя Онуа верхом на Уссале… "
-"сражающимся с Кане-Ра. Или... всё-таки с Муакой?"
+"Ну, это пока ещё лишь в проекте, в общем-то... Это будет статуя Онуа, сидящего верхом на "
+"Уссале… и сражающегося с Кане-Ра. Или... всё-таки с Муакой?"
 
 #. Key:	DL_Thuei3Onua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.DialogueText
@@ -17439,8 +17439,8 @@ msgid ""
 "Well it's still on the drawing board, per se... It's going to be a statue of you riding "
 "a giant Ussal... fighting a Kane-Ra. Or... maybe it should be a Muaka?"
 msgstr ""
-"Ну, это пока ещё лишь в проекте, в общем-то... Это будет статуя, где вы сидите верхом "
-"верхом на Уссале… сражающимся с Кане-Ра. Или... всё-таки с Муакой?"
+"Ну, это пока ещё лишь в проекте, в общем-то... Это будет статуя, где вы сидите верхом на "
+"Уссале… и сражаетесь с Кане-Ра. Или... всё-таки с Муакой?"
 
 #. Key:	DL_ThueiFinish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinish.Default__DL_ThueiFinish_C.DialogueText
