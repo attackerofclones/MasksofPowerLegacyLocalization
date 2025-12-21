@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-16 13:50+0300\n"
+"PO-Revision-Date: 2025-12-21 19:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9497,7 +9497,7 @@ msgstr "Я оставлю тебя в покое."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.DialogueText
 msgctxt "Dialogue_Text,DL_420man"
 msgid "Huh? Oh you won't hurt me. You won't hurt me right?"
-msgstr "А? Ой, вы же меня не будете бить. Не будете бить, да?"
+msgstr "А? Ой, вы же меня не будете бить. Не будете же бить, да?"
 
 #. Key:	DL_420man1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man1.Default__DL_420man1_C.DialogueText
@@ -9543,7 +9543,7 @@ msgid ""
 "... Well that would be my proprietary speed gel of course! It helps reduce friction on "
 "the ball."
 msgstr ""
-"...Ну, это мой секретный скоростной гель, конечно! Он позволяет снизить трение мяча."
+"...Ну, это мой секретный скоростной гель, конечно же! Он позволяет уменьшить трение мяча."
 
 #. Key:	DL_Ahkmou3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ahkmou3.Default__DL_Ahkmou3_C.DialogueText
