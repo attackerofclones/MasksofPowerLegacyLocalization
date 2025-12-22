@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-22 09:37+0300\n"
+"PO-Revision-Date: 2025-12-22 11:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26415,8 +26415,7 @@ msgstr ""
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.ComboBox_Languages.ToolTipText
 msgctxt "UIText_ToolTip,PausedDisplaySettings_Language_Tooltip"
 msgid "Which language should the game be displayed in? (This option may require a restart)"
-msgstr ""
-"На каком языке должна отображаться игра? (Данная опция может потребовать перезапуска)"
+msgstr "На каком языке должна отображаться игра? (Может потребоваться перезапуск)"
 
 #. Key:	PausedDisplaySettings_Resolution_Tooltip
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.BmopComboBoxSetting_Resolution.ToolTipText
