@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-22 11:30+0300\n"
+"PO-Revision-Date: 2025-12-22 11:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2691,7 +2691,8 @@ msgid ""
 "<Lie> Indeed, however I was unable to clear the blockage. The beast proved too strong "
 "for even me."
 msgstr ""
-"<Ложь> Да, но мне не удалось расчистить завалы. Зверь оказался сильным даже для меня."
+"<Ложь> Да, но мне не удалось расчистить завалы. Зверь оказался слишком сильным даже для "
+"меня."
 
 #. Key:	DL_DamemoLose_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLose.Default__DL_DamemoLose_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
