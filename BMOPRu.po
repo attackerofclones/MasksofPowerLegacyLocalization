@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-23 12:14+0300\n"
+"PO-Revision-Date: 2025-12-23 14:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -136,7 +136,7 @@ msgid ""
 "Wahi, this temple houses a Makoki Stone- a fragment of a key needed to access the lair "
 "of Makuta. It seems that only Turaga Nokama knows the secret to unlocking it."
 msgstr ""
-"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, храм хранит в себе Камень "
+"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, храм хранит в себе камень "
 "Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. По всей видимости, "
 "только Турага Нокама знает секрет его открытия."
 
@@ -948,7 +948,7 @@ msgid ""
 "of Makuta."
 msgstr ""
 "Ону-Кини – храм Земли. Хотя он располагается на поверхности Ону-Вахи, храм по-прежнему "
-"подвержен толчкам, происходящим в пещерах под поверхностью. Храм хранит в себе Камень "
+"подвержен толчкам, происходящим в пещерах под поверхностью. Храм хранит в себе камень "
 "Макоки – фрагмент ключа, необходимого для доступа в логово Макуты."
 
 #. Key:	CodexPage_OnuTemple_Desc
@@ -18178,7 +18178,7 @@ msgid ""
 "never mind. Please just help me down!"
 msgstr ""
 "Хмпф. Предполагаю, ты думаешь, что это смешно? Я уж надеялся, что у Тоа вроде тебя будет "
-"куда больше уважения к Турага, но нет. А вот в моё время было... ладно, проехали. "
+"куда больше уважения к Турагам, но нет. А вот в моё время было... ладно, проехали. "
 "Пожалуйста, просто помоги мне спуститься!"
 
 #. Key:	DL_WhenuaKoro
@@ -20173,7 +20173,7 @@ msgstr ""
 "Посреди этих трёх мечей стоял странный, высокий Ко-Маторан. Он произнёс всего одно "
 "слово: «Пахту». \r\n"
 "\r\n"
-"Конечно, я не уверен насчёт произношения, но я сегодня обращусь к Турага, а также к "
+"Конечно, я не уверен насчёт произношения, но я сегодня обращусь к Тураге, а также к "
 "стене предсказаний – дабы расшифровать значение этого видения, а также выяснить кто или "
 "что такое «Пахту»."
 
@@ -20479,8 +20479,8 @@ msgid ""
 "Turaga Nokama has tasked you to find an ancient relic refered to as the Makoki Stone, "
 "one of six pieces used to unlock the makuta's domain."
 msgstr ""
-"Турага Нокама просит вас найти древний артефакт, известный как «Камень Макоки», один из "
-"шести фрагментов которого позволит открыть логово Макуты."
+"Турага Нокама просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
+"шести фрагментов, которые позволят открыть логово Макуты.."
 
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
@@ -20508,8 +20508,8 @@ msgid ""
 "Matoro has informed you of an ancient relic refered to as the Makoki Stone, one of six "
 "pieces used to unlock the makuta's domain."
 msgstr ""
-"Маторо рассказал вам о древнем артефакте, известном как «Камень Макоки», один из шести "
-"фрагментов которого позволит открыть логово Макуты."
+"Маторо рассказал вам о древнем артефакте, известном как «Камень Макоки» – одном из шести "
+"фрагментов, которые позволят открыть логово Макуты.."
 
 #. Key:	Quest_Kopaka_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Description
@@ -20530,8 +20530,8 @@ msgid ""
 "Matau has informed you of an ancient relic refered to as the Makoki Stone, one of six "
 "pieces used to unlock the makuta's domain."
 msgstr ""
-"Матау рассказал вам о древнем артефакте, известном как «Камень Макоки», один из шести "
-"фрагментов которого позволит открыть логово Макуты."
+"Матау рассказал вам о древнем артефакте, известном как «Камень Макоки» – одном из шести "
+"фрагментов, которые позволят открыть логово Макуты.."
 
 #. Key:	Quest_LeTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Description
@@ -20602,8 +20602,8 @@ msgid ""
 "Turaga Whenua has tasked you to find an ancient relic refered to as the Makoki Stone, "
 "one of six pieces used to unlock the makuta's domain."
 msgstr ""
-"Турага Венуа просит вас найти древний артефакт, известный как «Камень Макоки», один из "
-"шести фрагментов которого позволит открыть логово Макуты."
+"Турага Венуа просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
+"шести фрагментов, которые позволят открыть логово Макуты.."
 
 #. Key:	Quest_Pohatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Description
@@ -20624,8 +20624,8 @@ msgid ""
 "Turaga Onewa has tasked you to find an ancient relic refered to as the Makoki Stone, one "
 "of six pieces used to unlock the makuta's domain."
 msgstr ""
-"Турага Онева просит вас найти древний артефакт, известный как «Камень Макоки», один из "
-"шести фрагментов которого позволит открыть логово Макуты."
+"Турага Онева просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
+"шести фрагментов, которые позволят открыть логово Макуты."
 
 #. Key:	Quest_PoTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Description
@@ -22610,7 +22610,7 @@ msgstr "Средний Блок"
 #: /Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
 msgctxt "ST_GeneralLocalization,Gen_ObtaintheMakokiStone"
 msgid "Obtain the Makoki Stone."
-msgstr "Достаньте Камень Макоки."
+msgstr "Достаньте камень Макоки."
 
 #. Key:	Gen_Open
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_GeneralLocalization.ST_GeneralLocalization
