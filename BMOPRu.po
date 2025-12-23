@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-23 11:39+0300\n"
+"PO-Revision-Date: 2025-12-23 12:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -285,7 +285,7 @@ msgid ""
 "groups when they do. If you find a group of them, make sure you’re prepared to deal with "
 "them all."
 msgstr ""
-"Скорпионоподобные Рахи, управляемые Макутой. Белую их разновидность можно найти "
+"Скорпионообразные Рахи, управляемые Макутой. Белую их разновидность можно найти "
 "преимущественно в Ко-Вахи. Хотя они появляются не очень часто, они, как правило, "
 "появляются в достаточно больших стаях. Если вы увидели их стаю, будьте готовы "
 "разобраться со всеми."
@@ -882,7 +882,7 @@ msgstr ""
 "товары. Что же до самих Ону-Маторанов, они добывают в шахтах Протодермис и Камни Света, "
 "а потому проводят большую часть времени под землёй. Здесь нередко встречаются Крабы "
 "Уссалы, используемые как Уссальской Гвардией, так и Маторанами для перевозки вещей, а "
-"также спорта."
+"также для спорта."
 
 #. Key:	CodexPage_Onu-Wahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Onu-Wahi.Default__LocationEntry_Onu-Wahi_C.Location Description
@@ -1903,7 +1903,7 @@ msgstr "Ты в порядке? Ты выглядишь... Странно."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man2_PlayerResponse_1"
 msgid "Okay, I guess I'll leave you to it then."
-msgstr "Ладно, я оставлю это на твоей совести."
+msgstr "Ладно, тогда не буду тебе мешать."
 
 #. Key:	DL_420man_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man.Default__DL_420man_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10715,8 +10715,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran9.Default__DL_GreavingMatoran9_C.DialogueText
 msgctxt "Dialogue_Text,DL_GreavingMatoran9"
 msgid "He is burried down the path behind me, pay your respects if you wish."
-msgstr ""
-"Он похоронен на тропе позади меня. Если у вас будет желание, отдайте ему дань памяти."
+msgstr "Он похоронен на тропе позади меня. Отдайте ему дань памяти, если будет желание."
 
 #. Key:	DL_Grinch
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch.Default__DL_Grinch_C.DialogueText
@@ -10786,8 +10785,9 @@ msgid ""
 "Yes I know, that's just what it's called. Jala decided we needed a quicker way to deploy "
 "troops, plus there's too many of us to all stay in Ta-Koro ourselves."
 msgstr ""
-"Да, я знаю, просто он так называется. Джала считает, что нам нужен более быстрый способ "
-"отправки войск, да и нас слишком много, чтобы находиться непосредственно в Та-Коро."
+"Да, я знаю, просто он так называется. Джала решил, что нам нужен более быстрый способ "
+"развёртывания войск. Да и нас слишком много, чтобы всем находиться непосредственно в Та-"
+"Коро."
 
 #. Key:	DL_GuardCampWhere
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_GuardCampWhere.Default__DL_GuardCampWhere_C.DialogueText
@@ -10815,8 +10815,8 @@ msgid ""
 "What? Oh Hello $T, I was just trying to decide what staff to pick, because I defenently "
 "didn't forget which one is mine heheh..."
 msgstr ""
-"Что? О, приветствую, $T, я лишь пытаюсь выбрать себе посох, ведь я точно не забыл какой "
-"из них мой, хехе..."
+"Что? О, приветствую, $T. Я как раз думаю, какой мне выбрать посох... ведь я точно не "
+"забыл, какой из них мой, хе-хе..."
 
 #. Key:	DL_GuardPickingSheilds
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheilds.Default__DL_GuardPickingSheilds_C.DialogueText
@@ -10833,8 +10833,8 @@ msgid ""
 "HAH Really? From left to right, Scarlet, Vermilion, and Ruby. I suppose I look JUST Red "
 "to you too?"
 msgstr ""
-"ХА, серьёзно? Слева направо: Алый, Киноварь и Рубиновый. Полагаю, что и я для вас ПРОСТО "
-"Красный?"
+"ХА, вы серьёзно? Слева направо: Алый, Киноварь и Рубиновый. Полагаю, что и я для вас "
+"ПРОСТО Красный?"
 
 #. Key:	DL_GuardPickingSheildsTahu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.DialogueText
@@ -18520,7 +18520,7 @@ msgid ""
 "The hypnotising material on the surface of the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая неким чёрным веществом. Она в трещинах и не функционирует. "
-"Очаровывающий материал на поверхности маски медленно пульсирует, как будто дышит... "
+"Завораживающий материал на поверхности маски медленно пульсирует, как будто дышит... "
 
 #. Key:	Item_BrothersNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
@@ -20086,8 +20086,8 @@ msgstr ""
 "\r\n"
 "Запись 3 –\r\n"
 "Проконсультировавшись с провидцами из Ко-Коро, мне кажется, что мы нашли связь этой "
-"окаменелости со странными серыми скульптурами на Мата Нуи. Я не знаю что это за связь, "
-"но провидцы уверили меня, что звёзды об этом точно скажут.\r\n"
+"окаменелости со странными серыми скульптурами на Мата Нуи. Я не знаю точно, что это за "
+"связь, но провидцы уверили меня, что звёзды об этом точно скажут.\r\n"
 "\r\n"
 "Запись 4 –\r\n"
 "Я прибыл к кругу упомянутых скульптур в степях Ону-Вахи. На первый взгляд, они кажутся "
