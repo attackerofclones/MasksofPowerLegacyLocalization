@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-24 18:26+0300\n"
+"PO-Revision-Date: 2025-12-24 18:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -75,8 +75,8 @@ msgid ""
 msgstr ""
 "Эти доки позволят вам путешествовать между различными точками на Мата Нуи. Они "
 "чрезвычайно полезны для перемещения по огромному острову, так что обязательно ищите их. "
-"Марка, начальница дока, не особо любит давать кому-то свои лодки, поэтому лучше передать "
-"управление ей."
+"Марка, начальница дока, не особо любит давать кому-то свои лодки, так что лучше просто "
+"позволить ей стоять у штурвала."
 
 #. Key:	CodexPage_Drifts_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location Description
@@ -179,8 +179,8 @@ msgstr ""
 "между другими Тоа. Она берёт на себя бремя сплочения команды, оставаясь "
 "сконцентрированной на трёх добродетелях, даже если ей самой хочется поддаться гневу. "
 "Именно она держит Тоа едиными и сфокусированными на задаче по уничтожению Макуты. Атака "
-"её стихии заключается в использовании силы воды, отталкивающей врагов со всех сторон. "
-"Она полезна, если вас окружили в ходе боя."
+"её стихии заключается в использовании силы воды, которая отталкивает врагов со всех "
+"сторон. Она полезна, если вас окружили в ходе боя."
 
 #. Key:	CodexPage_GalisLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GalisLanding.Default__LocationEntry_GalisLanding_C.Location Description
@@ -316,7 +316,7 @@ msgid ""
 "speeds. It’s perfect for exploring the vast island of Mata Nui, and for getting around "
 "quickly. Just take care to not accidentally run off a cliff."
 msgstr ""
-"Канохи Какама: Великая Маска Скорости. Эта маска позволит вам бежать на высоких "
+"Канохи Какама: Великая Маска Скорости. Эта маска позволит вам бежать на сверхвысоких "
 "скоростях. Она хорошо подходит для исследования обширного острова Мата Нуи, а также для "
 "быстрого перемещения. Но будьте осторожны, дабы случайно не сорваться с обрыва."
 
@@ -399,7 +399,8 @@ msgstr ""
 "очень много достопримечательностей. Тихий, созерцательный характер Ко-Маторанов "
 "проявляется и в скудности их деревни. Им нужно немного для собственного благополучия, а "
 "своё уединение они используют для размышлений о воле Великого Духа в Санктуме – "
-"священном здании, которое хранит пророчества, а также тех, кто решится их расшифровать."
+"священном здании, которое хранит пророчества, а также служит пристанищем для тех, кто "
+"решится их расшифровать."
 
 #. Key:	CodexPage_Komau_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Komau.Default__LocationEntry_Komau_C.Location Description
@@ -479,11 +480,11 @@ msgid ""
 "strength, challenging the harsh environment simply because it exists to be challenged."
 msgstr ""
 "Ко-Вахи – опасное место, которое лишь немногие пытаются пройти. Сильные ветры, крутые "
-"горы и холодный климат делают местность непроходимой. Вдобавок к этому, свирепые Рахи "
-"вроде Муаки бороздят холодные горы, что ещё сильнее демотивирует неготовых "
-"путешественников. Но те, кто всё же отважится покорить холодные ветра, воспринимают это "
-"как испытание на прочность и вызов окружающей среде. Просто потому, что это место "
-"существует для того, чтобы его покорили."
+"горы и холодный климат делают местность практически непроходимой. Вдобавок к этому "
+"свирепые Рахи вроде Муаки бороздят холодные горы, что служит предостережением для "
+"неподготовленных путешественников. Но те, кто всё же отважится покорить холодные ветра, "
+"воспринимают это как испытание на прочность и вызов окружающей среде. Просто потому, что "
+"это место существует для того, чтобы его покорили."
 
 #. Key:	CodexPage_LavaTarakava_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LavaTarakava.Default__LocationEntry_LavaTarakava_C.Location Description
@@ -20480,7 +20481,7 @@ msgid ""
 "one of six pieces used to unlock the makuta's domain."
 msgstr ""
 "Турага Нокама просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
-"шести фрагментов, которые позволят открыть логово Макуты.."
+"шести фрагментов ключа, который позволит открыть логово Макуты.."
 
 #. Key:	Quest_Infestation_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Infestation.Default__Quest_Infestation_C.Description
@@ -20509,7 +20510,7 @@ msgid ""
 "pieces used to unlock the makuta's domain."
 msgstr ""
 "Маторо рассказал вам о древнем артефакте, известном как «Камень Макоки» – одном из шести "
-"фрагментов, которые позволят открыть логово Макуты.."
+"фрагментов ключа, который позволит открыть логово Макуты."
 
 #. Key:	Quest_Kopaka_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Kopaka.Default__Quest_Kopaka_C.Description
@@ -20531,7 +20532,7 @@ msgid ""
 "pieces used to unlock the makuta's domain."
 msgstr ""
 "Матау рассказал вам о древнем артефакте, известном как «Камень Макоки» – одном из шести "
-"фрагментов, которые позволят открыть логово Макуты.."
+"фрагментов ключа, который позволит открыть логово Макуты."
 
 #. Key:	Quest_LeTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.Description
@@ -20603,7 +20604,7 @@ msgid ""
 "one of six pieces used to unlock the makuta's domain."
 msgstr ""
 "Турага Венуа просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
-"шести фрагментов, которые позволят открыть логово Макуты.."
+"шести фрагментов ключа, который позволит открыть логово Макуты."
 
 #. Key:	Quest_Pohatu_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Pohatu.Default__Quest_Pohatu_C.Description
@@ -20625,7 +20626,7 @@ msgid ""
 "of six pieces used to unlock the makuta's domain."
 msgstr ""
 "Турага Онева просит вас найти древний артефакт, известный как «Камень Макоки» – один из "
-"шести фрагментов, которые позволят открыть логово Макуты."
+"шести фрагментов ключа, который позволит открыть логово Макуты."
 
 #. Key:	Quest_PoTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_PoTemple.Default__Quest_PoTemple_C.Description
