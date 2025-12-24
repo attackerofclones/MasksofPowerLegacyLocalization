@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-24 18:57+0300\n"
+"PO-Revision-Date: 2025-12-24 19:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13272,7 +13272,7 @@ msgid ""
 msgstr ""
 "Я возвращался со встречи вместе с Турагой Нуджу и мы решили срезать через барханы, чтобы "
 "сэкономить время. Однако во время метели я отделился от него! Нам нужно провести поиски, "
-"но пересечь сугробы не так уж и просто, у нас ничего не получилось."
+"но пересечь барханы не так уж и просто, у нас ничего не получилось."
 
 #. Key:	DL_Matoro4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_Matoro4.Default__DL_Matoro4_C.DialogueText
