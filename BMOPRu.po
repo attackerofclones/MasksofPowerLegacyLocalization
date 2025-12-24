@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-24 21:21+0300\n"
+"PO-Revision-Date: 2025-12-24 21:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3289,7 +3289,7 @@ msgstr "Я думаю, попытка – не пытка."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan5.Default__DL_HalloweenMan5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_HalloweenMan5_PlayerResponse_1"
 msgid "No, not really."
-msgstr "Да нет, ничего такого."
+msgstr "Да нет, ничего особенного."
 
 #. Key:	DL_HalloweenMan6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan6.Default__DL_HalloweenMan6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
