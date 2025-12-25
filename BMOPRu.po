@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-25 19:53+0300\n"
+"PO-Revision-Date: 2025-12-25 22:51+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17002,8 +17002,8 @@ msgid ""
 "Your poems don't even rhyme, and don't start telling again me about those- Uhh, the- "
 "Hai... Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
 msgstr ""
-"Ваши поэмы даже не имеют рифмы, не нужно мне говорить про... Эмм... Ха... Хайку! Да, не "
-"говорите мне о том, что «Хайку» не должны рифмоваться!"
+"Твои поэмы даже не имеют рифмы, не нужно мне говорить про... Эмм... Ха... Хайку! Да, не "
+"говори мне о том, что «Хайку» не должны рифмоваться!"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
@@ -22408,7 +22408,7 @@ msgstr "Что это?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,WhatYouHave"
 msgid "I'd like to see what you have."
-msgstr "Мне хотелось бы посмотреть, что у вас есть."
+msgstr "Мне хотелось бы посмотреть, что у тебя есть."
 
 #. Key:	Wheretogo
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -25365,7 +25365,7 @@ msgstr "Закат"
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.HintText
 msgctxt "UIText_Description,NewGame_EnterSaveName"
 msgid "Enter Save Name Here"
-msgstr "Введите тут название cохранения"
+msgstr "Название cохранения"
 
 #. Key:	NewGame_SaveName
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
