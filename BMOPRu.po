@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-25 18:20+0300\n"
+"PO-Revision-Date: 2025-12-25 18:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25693,21 +25693,21 @@ msgstr "Разрешение:"
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_4.Text
 msgctxt "UIText_Description,PausedDisplaySettings_ResolutionRenderPercent"
 msgid "Res Percent:"
-msgstr "Процент Разрешения:"
+msgstr "Процент разрешения:"
 
 #. Key:	PausedDisplaySettings_ResolutionUpscaling
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock.Text
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,PausedDisplaySettings_ResolutionUpscaling"
 msgid "Resolution Upscaling:"
-msgstr "Масштабирование Разрешения:"
+msgstr "Масштабирование разрешения:"
 
 #. Key:	PausedDisplaySettings_TrueRenderResolution
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_2.Text
 #: /Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Description,PausedDisplaySettings_TrueRenderResolution"
 msgid "True Resolution:"
-msgstr "Истинное Разрешение:"
+msgstr "Истинное разрешение:"
 
 #. Key:	PausedDisplaySettings_WindowMode
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedDisplaySettings.Widget_PausedDisplaySettings_C:WidgetTree.TextBlock_1.Text
@@ -25721,14 +25721,14 @@ msgstr "Режим окна:"
 #: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt "UIText_Description,PausedGraphicsSettings_AntiAliasingQuality"
 msgid "Anti-Alias Quality:"
-msgstr "Качество Сглаживания:"
+msgstr "Качество сглаживания:"
 
 #. Key:	PausedGraphicsSettings_AntiAliasingType
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_8.Text
 #: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_8.Text
 msgctxt "UIText_Description,PausedGraphicsSettings_AntiAliasingType"
 msgid "Anti-Alias Type:"
-msgstr "Тип Сглаживания:"
+msgstr "Тип сглаживания:"
 
 #. Key:	PausedGraphicsSettings_ColorBlindnessSeverity
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_6.Text
@@ -25742,7 +25742,7 @@ msgstr "Степень:"
 #: /Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock.Text
 msgctxt "UIText_Description,PausedGraphicsSettings_ColorBlindnessType"
 msgid "Color Deficiency:"
-msgstr "Цветовая Слепота:"
+msgstr "Цветовая слепота:"
 
 #. Key:	PausedGraphicsSettings_EffectsQuality
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedGraphicsSettings.Widget_PausedGraphicsSettings_C:WidgetTree.TextBlock_5.Text
@@ -25827,14 +25827,14 @@ msgstr "Гель Вахе Мата:"
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.Text
 msgctxt "UIText_Description,SaveGame_NameInput"
 msgid "Player Save"
-msgstr "Ручное Сохранение"
+msgstr "Ручное сохранение"
 
 #. Key:	SaveGame_NameInputHint
 #. SourceLocation:	/Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
 #: /Game/BluePrints/UI/Widget_SaveGame.Widget_SaveGame_C:WidgetTree.NewSaveName.HintText
 msgctxt "UIText_Description,SaveGame_NameInputHint"
 msgid "Enter Save Name Here"
-msgstr "Введите тут название Сохранения"
+msgstr "Введите тут название сохранения"
 
 #. Key:	Saves_Auto
 #. SourceLocation:	/Game/BluePrints/Classes/Saving/TypeSave.TypeSave.DisplayNameMap(0 - Value).DisplayNameMap
@@ -25871,21 +25871,21 @@ msgstr "Прочее:"
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_15.Text
 msgctxt "UIText_Description,StatsMenu_Misc_CodexPagesGained"
 msgid "Codex Pages Gained:"
-msgstr "Страниц Кодекса Получено:"
+msgstr "Страниц Кодекса получено:"
 
 #. Key:	StatsMenu_Misc_CosmeticsGained
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_9.Text
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_9.Text
 msgctxt "UIText_Description,StatsMenu_Misc_CosmeticsGained"
 msgid "Cosmetics Gained:"
-msgstr "Аксессуаров Получено:"
+msgstr "Аксессуаров получено:"
 
 #. Key:	StatsMenu_Misc_ItemsGotten
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_7.Text
 #: /Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_7.Text
 msgctxt "UIText_Description,StatsMenu_Misc_ItemsGotten"
 msgid "Items Gathered:"
-msgstr "Предметов Получено:"
+msgstr "Предметов получено:"
 
 #. Key:	StatsMenu_Misc_MasksPowered
 #. SourceLocation:	/Game/BluePrints/UI/Stats.Stats_C:WidgetTree.LocationName_17.Text
@@ -26442,8 +26442,8 @@ msgid ""
 "loss.\r\n"
 "(Note: You must lower the Res Percent bar for this effect to work)"
 msgstr ""
-"Технология AMD FSR: повышает число кадров (FPS) при незначительном снижении качества "
-"изображения.\r\n"
+"Технология AMD FSR: повышает число кадров (FPS) и масштабирует изображение при "
+"незначительном снижении его качества.\r\n"
 "(Внимание: Вы должны понизить полоску \"Процент разрешения\", чтобы этот эффект сработал)"
 
 #. Key:	PausedDisplaySettings_WindowMode_Tooltip
