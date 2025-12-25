@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-25 10:57+0300\n"
+"PO-Revision-Date: 2025-12-25 18:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26224,7 +26224,7 @@ msgid ""
 "Some poison from a Nui-jaga's stinger has gotten on your mask! (There is no drawback to "
 "wearing this)"
 msgstr ""
-"Немного яда из жала Нуи-Джаги попало на вашу маску! (Никакого вреда при их ношении нет)"
+"Немного яда из жала Нуи-Джаги попало на вашу маску! (Никакого вреда при её ношении нет)"
 
 #. Key:	Cosmetics_JackOLantern_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
