@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-25 23:04+0300\n"
+"PO-Revision-Date: 2025-12-25 23:45+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4890,14 +4890,14 @@ msgstr "Я могу помочь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster1.Default__DL_LightstoneCaveMaster1_C.Responses(3).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LightstoneCaveMaster1_PlayerResponse_4"
 msgid "Thank you supervisor."
-msgstr "Спасибо, супервайзер."
+msgstr "Спасибо, инспектор."
 
 #. Key:	DL_LightstoneCaveMaster_DataPad_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_DataPad.Default__DL_LightstoneCaveMaster_DataPad_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_DataPad.Default__DL_LightstoneCaveMaster_DataPad_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LightstoneCaveMaster_DataPad_PlayerResponse_1"
 msgid "Goodbye Supervisor."
-msgstr "До свидания, супервайзер."
+msgstr "До свидания, инспектор."
 
 #. Key:	DL_LightstoneCaveMaster_Doing_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Supervisor/DL_LightstoneCaveMaster_DOing.Default__DL_LightstoneCaveMaster_Doing_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -15102,7 +15102,7 @@ msgid ""
 "Why only the best treatment for all alements, Wahae-Mata Gel! It can cure everything "
 "from joint pain to a cracked mask!"
 msgstr ""
-"С единственным средством от всех болезней – Гелем Вахе-Мата! Он может устранить всё – от "
+"Единственное средство от всех болезней – Гель Вахе-Мата! Он может устранить всё – от "
 "болей в суставах до трещин в масках!"
 
 #. Key:	DL_Poekae2
@@ -16104,7 +16104,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade.Default__DL_SellerTrade_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerTrade"
 msgid "Yes, let's trade!"
-msgstr "Да, давай торговаться!"
+msgstr "Да, давайте торговаться!"
 
 #. Key:	DL_SellerTrade2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade2.Default__DL_SellerTrade2_C.DialogueText
@@ -26028,7 +26028,7 @@ msgstr "Потратить: {Amount}"
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Продавец продаёт это по цене <Key>{Ниже/Выше}</> обычного)"
+msgstr "(Продавец продаёт это по цене <Key>{ниже/выше}</> обычного)"
 
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -26036,7 +26036,7 @@ msgstr "(Продавец продаёт это по цене <Key>{Ниже/В�
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemSellValue"
 msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Продавец купит это по цене <Key>{Ниже/Выше}</> обычного)"
+msgstr "(Продавец купит это по цене <Key>{ниже/выше}</> обычного)"
 
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
