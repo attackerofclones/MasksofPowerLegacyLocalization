@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-25 23:45+0300\n"
+"PO-Revision-Date: 2025-12-26 10:01+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22832,7 +22832,7 @@ msgstr "Включено"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIEpic"
 msgid "Epic"
-msgstr "Эпичный"
+msgstr "Эпичное"
 
 #. Key:	UIExit
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22860,7 +22860,7 @@ msgstr "Полноэкранный"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIHigh"
 msgid "High"
-msgstr "Высокий"
+msgstr "Высокое"
 
 #. Key:	UIHigher
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22895,7 +22895,7 @@ msgstr "(Закрыто)"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UILow"
 msgid "Low"
-msgstr "Низкий"
+msgstr "Низкое"
 
 #. Key:	UILower
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22919,7 +22919,7 @@ msgstr "Точка Медитации"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIMedium"
 msgid "Medium"
-msgstr "Средний"
+msgstr "Среднее"
 
 #. Key:	UIMouse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -26028,7 +26028,7 @@ msgstr "Потратить: {Amount}"
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Продавец продаёт это по цене <Key>{ниже/выше}</> обычного)"
+msgstr "(Предложение продажи у продавца: <Key>{Low/High}</> относительно обычного)"
 
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -26036,7 +26036,7 @@ msgstr "(Продавец продаёт это по цене <Key>{ниже/в�
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemSellValue"
 msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Продавец купит это по цене <Key>{ниже/выше}</> обычного)"
+msgstr "(Предложение покупки у продавца: <Key>{Low/High}</> относительно обычного)"
 
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
