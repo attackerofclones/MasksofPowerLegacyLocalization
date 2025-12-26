@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-26 10:01+0300\n"
+"PO-Revision-Date: 2025-12-26 10:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22867,7 +22867,7 @@ msgstr "Высокое"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIHigher"
 msgid "Higher"
-msgstr "Выше"
+msgstr "Более высокое"
 
 #. Key:	UILMB
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -22902,7 +22902,7 @@ msgstr "Низкое"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UILower"
 msgid "Lower"
-msgstr "Ниже"
+msgstr "Более низкое"
 
 #. Key:	UIMeditationPoint
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23059,7 +23059,7 @@ msgstr "Левый и Правый Триггеры"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIUnlimited"
 msgid "Unlimited"
-msgstr "Неограниченный"
+msgstr "Без ограничений"
 
 #. Key:	UIUse
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
