@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-27 13:31+0300\n"
+"PO-Revision-Date: 2025-12-27 13:36+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -76,7 +76,7 @@ msgstr ""
 "Эти доки позволят вам путешествовать между различными точками на Мата Нуи. Они "
 "чрезвычайно полезны для перемещения по огромному острову, так что обязательно ищите их. "
 "Марка, начальница дока, не особо любит давать кому-то свои лодки, так что лучше просто "
-"позволить ей стоять у штурвала."
+"передать штурвал ей."
 
 #. Key:	CodexPage_Drifts_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Drifts.Default__LocationEntry_Drifts_C.Location Description
