@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-27 12:25+0300\n"
+"PO-Revision-Date: 2025-12-27 12:29+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26029,7 +26029,8 @@ msgstr "Потратить: {Amount}"
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemBuyValue"
 msgid "(Seller sells this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Предложение продавца по цене продажи: <Key>{Low/High}</> относительно обычного)"
+msgstr ""
+"(Предложение продавца по цене продажи: <Key>{Low/High}</> относительно обычной стоимости)"
 
 #. Key:	TradeMenu_ItemSellValue
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_InventoryItemSmall.UI_InventoryItemSmall_C:ExecuteUbergraph_UI_InventoryItemSmall [Script Bytecode]
@@ -26037,7 +26038,8 @@ msgstr "(Предложение продавца по цене продажи: <
 #: [Script Bytecode]
 msgctxt "UIText_Description,TradeMenu_ItemSellValue"
 msgid "(Seller will buy this at a <Key>{Low/High}</> price than normal)"
-msgstr "(Предложение продавца по цене покупки: <Key>{Low/High}</> относительно обычного)"
+msgstr ""
+"(Предложение продавца по цене покупки: <Key>{Low/High}</> относительно обычной стоимости)"
 
 #. Key:	TradeMenu_SellAmount
 #. SourceLocation:	/Game/BluePrints/UI/TradeMenu.Default__TradeMenu_C.SellFor
