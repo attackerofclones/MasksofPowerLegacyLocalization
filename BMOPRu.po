@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-26 21:37+0300\n"
+"PO-Revision-Date: 2025-12-27 12:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11114,7 +11114,8 @@ msgctxt "Dialogue_Text,DL_JalaReport"
 msgid ""
 "*Huff* I don't report to you Toa, you are entirely superfluous to our operation here!"
 msgstr ""
-"*Хмпф* Я не отчитываюсь перед вами, Тоа! Вы – абсолютно лишнее звено в нашей операции!"
+"*Хмпф* Я не обязан отчитываться перед вами, Тоа! Вы – абсолютно лишнее звено в нашей "
+"операции!"
 
 #. Key:	DL_JalaReport1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaReport1.Default__DL_JalaReport1_C.DialogueText
