@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-31 11:11+0300\n"
+"PO-Revision-Date: 2025-12-31 22:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3450,7 +3450,7 @@ msgstr "Спасибо за информацию."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaTakoro.Default__DL_JalaTakoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JalaTakoro_PlayerResponse_1"
 msgid "Remind me, Who are you?"
-msgstr "Напомни мне, Кто ты?"
+msgstr "Напомни мне: кто ты?"
 
 #. Key:	DL_JalaWho_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaWho.Default__DL_JalaWho_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -11162,7 +11162,7 @@ msgid ""
 "Are... are you serious? I’m Jala, Captain of the Ta-Koro Guard and right hand to Turaga "
 "Vakama. I would assume that Mata Nui’s chosen heroes wouldn’t be this forgetful..."
 msgstr ""
-"Вы... вы сейчас серьёзно? Я Джала, Капитан стражи Та-Коро и правая рука Тураги Вакамы. Я "
+"Вы... вы сейчас серьёзно? Я Джала, капитан стражи Та-Коро и правая рука Тураги Вакамы. Я "
 "уж думал, что у избранных героев Мата Нуи не будет проблем с памятью..."
 
 #. Key:	DL_JobmasterIntro
@@ -20499,7 +20499,7 @@ msgid ""
 "You have recovered all the Makoki stones, Retrieve the remaining Golden masks - Then "
 "join the other Toa at the Kini-Nui for the final battle. ($G/6 Gold Masks)"
 msgstr ""
-"Вы заполучили все камни Макоки, Достаньте оставшиеся Золотые маски, затем встретьтесь с "
+"Вы заполучили все камни Макоки. Достаньте оставшиеся Золотые маски, затем встретьтесь с "
 "другими Тоа в Кини-Нуи для последнего сражения. ($G/6 Золотых Масок)"
 
 #. Key:	Quest_KoMakokiStone_Desc
