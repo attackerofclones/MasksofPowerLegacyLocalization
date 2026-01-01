@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-01 11:08+0300\n"
+"PO-Revision-Date: 2026-01-01 11:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3331,7 +3331,7 @@ msgstr "Могу ли я что-то сделать?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Huki6_PlayerResponse_1"
 msgid "Uhh, Map?"
-msgstr "Эээ, Карту?"
+msgstr "Эээ, карту?"
 
 #. Key:	DL_Huki6_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10955,7 +10955,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan5.Default__DL_HalloweenMan5_C.DialogueText
 msgctxt "Dialogue_Text,DL_HalloweenMan5"
 msgid "Soooo... Do you feel anything?"
-msgstr "Тааак… Есть какие-то ощущения?"
+msgstr "Тааак… Есть ли какие-то ощущения?"
 
 #. Key:	DL_HalloweenMan6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Halloween/DL_HalloweenMan6.Default__DL_HalloweenMan6_C.DialogueText
@@ -10965,7 +10965,7 @@ msgid ""
 "Hmm, very well then. Perhaps they're just decorative then? Ahh, either way you can keep "
 "that one $T."
 msgstr ""
-"Хм, ладно. Может, это просто украшения? Эээ, в любом случае, вы можете оставить одну "
+"Хм, ладно. Значит, это просто украшения? Эээ, в любом случае, вы можете оставить одну "
 "себе, $T."
 
 #. Key:	DL_Huki1
@@ -10981,7 +10981,7 @@ msgstr "Тоа $T! Наконец-то!"
 msgctxt "Dialogue_Text,DL_Huki2"
 msgid ""
 "I was tasked to wait for you to return, The Turaga has been missing for far too long."
-msgstr "Мне было поручено ждать вашего возвращения, Турага очень давно пропал."
+msgstr "Мне было поручено ждать вашего возвращения. Турага очень давно пропал..."
 
 #. Key:	DL_Huki3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki3.Default__DL_Huki3_C.DialogueText
@@ -11005,7 +11005,8 @@ msgid ""
 "Right, the elder of the village. He went to a meeting with the other Turaga, and hasn't "
 "come back!"
 msgstr ""
-"Да, старейшина деревни. Он отправился на встречу с другими Турага, но так и не вернулся!"
+"А, да, старейшина деревни. Он отправился на встречу с другими Турага, но так и не "
+"вернулся!"
 
 #. Key:	DL_Huki6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.DialogueText
@@ -11129,7 +11130,7 @@ msgid ""
 msgstr ""
 "Недавно выросло число нападений Рахи… они кажутся куда более организованными, в "
 "сравнении с тем, что нам доводилось видеть в прошлом. Я не знаю всех деталей, но один из "
-"бегунов сообщил мне, что другим Турага не удалось безопасно вернуться в их деревни. По-"
+"бегунов сообщил мне, что другим Турага не удалось безопасно вернуться в свои деревни. По-"
 "видимому, Вакама был везунчиком..."
 
 #. Key:	DL_JalaReportTahu
@@ -11181,9 +11182,9 @@ msgid ""
 "tower construction project, the Turaga went and disappeared, and on top of all that, my "
 "shipment is late. What a day."
 msgstr ""
-"Что? А, извиняюсь. Я лишь подумал о том, что у меня не только не хватает работников для "
-"проекта по строительству башни, но ещё и Турага пропал без вести, а в дополнение к этому "
-"мой груз задержали. Что за день."
+"Что? А, извиняюсь. Я лишь подумал, что у меня мало того что не хватает работников для "
+"строительства башни, так ещё и Турага куда-то взял и пропал. А в дополнение ко всему "
+"этому мой груз задерживается. Что за денёк..."
 
 #. Key:	DL_JobmasterJob1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJob1.Default__DL_JobmasterJob1_C.DialogueText
@@ -11239,8 +11240,8 @@ msgid ""
 "They fetch a very high price where they have been outlawed. I have debts to pay, and I "
 "need the money - Every so often I have them imported from a small fishing village."
 msgstr ""
-"Они заламывают цены в местах, где их запретили. Мне ещё нужно платить по долгам, мне "
-"позарез нужны деньги. Иногда я импортирую их из небольшой рыбацкой деревушки."
+"Они приносят кучу денег в местах, где они под запретом. Мне ещё нужно платить по долгам, "
+"и мне позарез нужны деньги. Иногда я доставляю их из небольшой рыбацкой деревушки."
 
 #. Key:	DL_JobmasterReturn3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn3.Default__DL_JobmasterReturn3_C.DialogueText
@@ -11257,22 +11258,22 @@ msgid ""
 "Did you not hear me when I said I was in debt! Ahh Fine whatever, here's your 350 "
 "widgets."
 msgstr ""
-"Вы разве не слышали, когда я сказал, что весь в долгах?! Ай, ладно, вот ваши 350 "
-"виджетов."
+"Вы что, оглохли?! Я же сказал, что весь в долгах! Ай, ладно, чёрт с вами. Вот ваши 350 "
+"виджетов!"
 
 #. Key:	DL_JobmasterReturnFinal
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterReturnFinal"
 msgid "Please don't speak to me Toa."
-msgstr "Пожалуйста, не разговаривайте со мной, Тоа."
+msgstr "Прошу, не разговаривайте со мной, Тоа."
 
 #. Key:	DL_JobmasterShipment
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipment.Default__DL_JobmasterShipment_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipment.Default__DL_JobmasterShipment_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterShipment"
 msgid "A collection of materials - for the carvers and the construction workers, you know."
-msgstr "Собрание материалов – всё для резчиков и строителей, сами понимаете."
+msgstr "Различные материалы – для резчиков и строителей, сами понимаете."
 
 #. Key:	DL_JobmasterShipmentGiveQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentGiveQuest.Default__DL_JobmasterShipmentGiveQuest_C.DialogueText
@@ -11287,7 +11288,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentJob.Default__DL_JobmasterShipmentJob_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterShipmentJob"
 msgid "A collection of materials - for the carvers and the construction workers, you know."
-msgstr "Коллекция материалов – всё для резчиков и строителей, сами понимаете."
+msgstr "Различные материалы – для резчиков и строителей, сами понимаете."
 
 #. Key:	DL_JobmasterShipmentQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentQuest.Default__DL_JobmasterShipmentQuest_C.DialogueText
