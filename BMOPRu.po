@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2025-12-31 22:49+0300\n"
+"PO-Revision-Date: 2026-01-01 11:08+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3331,7 +3331,7 @@ msgstr "Могу ли я что-то сделать?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Huki6_PlayerResponse_1"
 msgid "Uhh, Map?"
-msgstr "Эээ, Карта?"
+msgstr "Эээ, Карту?"
 
 #. Key:	DL_Huki6_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki6.Default__DL_Huki6_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
