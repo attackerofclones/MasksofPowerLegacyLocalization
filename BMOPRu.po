@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-05 22:09+0300\n"
+"PO-Revision-Date: 2026-01-05 22:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16260,7 +16260,7 @@ msgid ""
 "like that?"
 msgstr ""
 "*Держит глаза закрытыми.* Хорошо. Съешь меня. Погоди-ка... Таракавы обычно не "
-"разговаривают со своей добычей... *Открывает свои глаза.* Тоа! За что вы так со мной?"
+"разговаривают со своей добычей... *Открывает свои глаза.* Тоа! За что вы так со мной!?"
 
 #. Key:	DL_ShipperIntroRahi_Toa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntroRahi_Toa.Default__DL_ShipperIntroRahi_Toa_C.DialogueText
@@ -21119,7 +21119,7 @@ msgstr "Передайте Комеке Комету."
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_DangerOnTheHorizon_Objective_1"
 msgid "Defeat the Tarakava guarding the Temple."
-msgstr "Одолейте Таракаву, охраняющую Храм."
+msgstr "Одолейте Таракав, охраняющих Храм."
 
 #. Key:	Quest_FindKumo_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
