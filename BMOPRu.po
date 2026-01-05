@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-05 21:09+0300\n"
+"PO-Revision-Date: 2026-01-05 21:24+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -362,7 +362,7 @@ msgid ""
 "hidden in the other Kinis across the island."
 msgstr ""
 "Кини-Нуи – великий храм Мата Нуи. Он считается священным и особенным местом, хранящим "
-"высокую духовную важность для Маторанов. Но он также имеет и более злое предназначение, "
+"высокую духовную ценность для Маторанов. Но он также имеет и более злое предназначение, "
 "служа входом в Мангайю – логово Макуты. Вход в Мангайю можно открыть только при наличии "
 "всех шести камней Макоки, спрятанных в других Кини по всему острову."
 
@@ -21802,7 +21802,7 @@ msgstr "Что происходит?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line7"
 msgid "He’s going to bring all of Mangaia down on us!"
-msgstr "Он собирается обрушить всю Мангайю на нас!"
+msgstr "Он собирается обрушить всю Мангайю прямо на нас!"
 
 #. Key:	MakutaExplode_Line8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21881,7 +21881,7 @@ msgstr "Мы не позволим тебе снова сбросить нас!"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line16"
 msgid "...Yes... I believe you are correct."
-msgstr "...Да... Я думаю, ты прав."
+msgstr "...Да... Я думаю, вы правы."
 
 #. Key:	MakutaIntro_Line17
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
