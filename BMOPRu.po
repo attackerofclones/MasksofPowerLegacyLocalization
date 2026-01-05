@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-05 12:12+0300\n"
+"PO-Revision-Date: 2026-01-05 21:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21704,7 +21704,7 @@ msgstr "Вы все в порядке? Хорошо."
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line10"
 msgid "Makuta used this to reset us to when we first arrived. Do you think…?"
 msgstr ""
-"Макута использовал это, чтобы вернуть нас в момент, когда мы впервые прибыли. Думаешь...?"
+"Макута использовал это, чтобы вернуть нас в момент, когда мы впервые прибыли. Думаете...?"
 
 #. Key:	MakutaExplode_Line11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
