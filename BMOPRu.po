@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-05 21:24+0300\n"
+"PO-Revision-Date: 2026-01-05 22:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -136,9 +136,9 @@ msgid ""
 "Wahi, this temple houses a Makoki Stone- a fragment of a key needed to access the lair "
 "of Makuta. It seems that only Turaga Nokama knows the secret to unlocking it."
 msgstr ""
-"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, храм хранит в себе камень "
-"Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. По всей видимости, "
-"только Турага Нокама знает секрет его открытия."
+"Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, этот храм скрывает в себе "
+"камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. По всей "
+"видимости, только Турага Нокама знает секрет того, как его открыть."
 
 #. Key:	CodexPage_Gakoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gakoro.Default__LocationEntry_Gakoro_C.Location Description
@@ -377,9 +377,9 @@ msgid ""
 "needed to access the lair of Makuta. Only Nuju and his translator, Matoro, know the "
 "secret to unlocking it."
 msgstr ""
-"Ко-Кини – храм Льда. Он расположен вдали от Ко-Коро и является труднодостижимым местом. "
-"Храм хранит в себе камень Макоки – фрагмент ключа, необходимого для доступа в логово "
-"Макуты. Только Нуджу и его переводчик Маторо знают то, как его открыть."
+"Ко-Кини – храм Льда. Он расположен вдали от Ко-Коро и добраться туда не очень просто. В "
+"храме хранится камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. "
+"Только Нуджу и его переводчик Маторо знают, как его открыть."
 
 #. Key:	CodexPage_Kokoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kokoro.Default__LocationEntry_Kokoro_C.Location Description
@@ -512,8 +512,8 @@ msgid ""
 "temple, discouraging Matoran from visiting this sacred site. The temple houses a Makoki "
 "Stone- a fragment of a key needed to access the lair of Makuta."
 msgstr ""
-"Ле-Кини – храм Воздуха. Известно, что Рахи часто атакуют этот удалённый храм, не давая "
-"Маторанам посетить эту святыню. Храм хранит в себе камень Макоки – фрагмент ключа, "
+"Ле-Кини – храм Воздуха. Известно, что Рахи часто атакуют этот удалённый храм, отпугивая "
+"Маторанов от посещения этой святыни. Храм скрывает камень Макоки – фрагмент ключа, "
 "необходимого для доступа в логово Макуты."
 
 #. Key:	CodexPage_Lekoro_Desc
@@ -949,7 +949,7 @@ msgid ""
 "of Makuta."
 msgstr ""
 "Ону-Кини – храм Земли. Хотя он располагается на поверхности Ону-Вахи, храм по-прежнему "
-"подвержен толчкам, происходящим в пещерах под поверхностью. Храм хранит в себе камень "
+"подвержен толчкам, происходящим в пещерах под поверхностью. Стены храма скрывают камень "
 "Макоки – фрагмент ключа, необходимого для доступа в логово Макуты."
 
 #. Key:	CodexPage_OnuTemple_Desc
@@ -1062,9 +1062,9 @@ msgid ""
 "houses a Makoki Stone- a fragment of a key needed to access the lair of Makuta. Turaga "
 "Onewa seems to know the secret to unlocking the temple."
 msgstr ""
-"По-Кини – храм Камня. Спрятанный в глубине суровой пустыни Мотара, этот храм хранит в "
-"себе камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. Турага "
-"Онева, по всей видимости, знает секрет его открытия."
+"По-Кини – храм Камня. Спрятанный в глубине суровой пустыни Мотара, этот храм хранит "
+"камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. Турага Онева, "
+"по всей видимости, знает секрет того, как его открыть."
 
 #. Key:	CodexPage_Pokoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Pokoro.Default__LocationEntry_Pokoro_C.Location Description
@@ -1285,10 +1285,10 @@ msgid ""
 "to access the lair of Makuta. Few Matoran come to visit it, but there are those that are "
 "intrigued by the mysteries the temple holds."
 msgstr ""
-"Та-Кини – храм Огня. Он располагается в стороне от вулкана Мангаи, рядом с лавой, "
-"которая поддерживает его. Храм хранит в себе камень Макоки – фрагмент ключа, "
-"необходимого для доступа в логово Макуты. Немногие Матораны решаются посетить его, но "
-"есть те, кого завораживают тайны, которые хранит данный храм."
+"Та-Кини – храм Огня. Он располагается на склоне вулкана Мангаи, рядом с лавой, которая "
+"поддерживает и питает его. В храме хранится камень Макоки – фрагмент ключа, необходимого "
+"для доступа в логово Макуты. Немногие Матораны решаются посетить его, но есть те, кого "
+"завораживают тайны, хранимые в стенах храма."
 
 #. Key:	CodexPage_Takoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Takoro.Default__LocationEntry_Takoro_C.Location Description
@@ -18673,7 +18673,7 @@ msgid ""
 "Blackmask. 1/4"
 msgstr ""
 "Карта, предположительно ведущая к сокровищам, спрятанным легендарным Га-Матораном – "
-"моряком Чёрной маской. 1/4"
+"моряком по прозвищу «Чёрная Маска». 1/4"
 
 #. Key:	Item_MarenMap2_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap2.Item_MarenMap2.Description
@@ -18684,7 +18684,7 @@ msgid ""
 "Blackmask. 2/4"
 msgstr ""
 "Карта, предположительно ведущая к сокровищам, спрятанным легендарным Га-Матораном – "
-"моряком Чёрной маской. 2/4"
+"моряком по прозвищу «Чёрная Маска». 2/4"
 
 #. Key:	Item_MarenMap3_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap3.Item_MarenMap3.Description
@@ -18695,7 +18695,7 @@ msgid ""
 "Blackmask. 3/4"
 msgstr ""
 "Карта, предположительно ведущая к сокровищам, спрятанным легендарным Га-Матораном – "
-"моряком Чёрной маской. 3/4"
+"моряком по прозвищу «Чёрная Маска». 3/4"
 
 #. Key:	Item_MarenMap4_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_MarenMap4.Item_MarenMap4.Description
@@ -18706,7 +18706,7 @@ msgid ""
 "Blackmask. 4/4"
 msgstr ""
 "Карта, предположительно ведущая к сокровищам, спрятанным легендарным Га-Матораном – "
-"моряком Чёрной маской. 4/4"
+"моряком по прозвищу «Чёрная Маска». 4/4"
 
 #. Key:	Item_MaskFinder_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskFinder.Item_MaskFinder.Description
@@ -23341,7 +23341,7 @@ msgstr "Нуи-Джага Хука"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_IceTarakava"
 msgid "Haka Tarakava"
-msgstr "Ледяной Таракава"
+msgstr "Таракава Хака"
 
 #. Key:	Names_InsaneMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
