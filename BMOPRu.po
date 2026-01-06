@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-05 22:25+0300\n"
+"PO-Revision-Date: 2026-01-06 11:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21898,8 +21898,8 @@ msgid ""
 "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to "
 "fail again, and again, and again. But I believe... that time has passed."
 msgstr ""
-"Я наигрался с вами, Тоа. Наблюдал за тем, как вы бьётесь над моими испытаниями и "
-"проваливаете их раз за разом. Но мне кажется... то время уже прошло."
+"Я наигрался с вами, Тоа. Наблюдал за тем, как вы бьётесь над моими испытаниями, лишь для "
+"того, чтобы проваливать их раз за разом. Но мне кажется... то время уже прошло."
 
 #. Key:	MakutaIntro_Line19
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21978,7 +21978,7 @@ msgstr "...Да?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaReturn_Line1"
 msgid "Why must you persist? Can you not see how futile your struggle is?"
-msgstr "Почему вы упорствуете? Разве вы не видите, насколько ваша борьба бесполезна!?"
+msgstr "Почему вы так упорствуете? Разве вы не видите, насколько тщетна ваша борьба!?"
 
 #. Key:	MakutaReturn_Line2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
