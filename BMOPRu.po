@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-06 11:47+0300\n"
+"PO-Revision-Date: 2026-01-06 12:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25367,7 +25367,7 @@ msgstr "Закат"
 #: /Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.EditableTextBox_143.HintText
 msgctxt "UIText_Description,NewGame_EnterSaveName"
 msgid "Enter Save Name Here"
-msgstr "Название cохранения"
+msgstr "Введите имя cохранения"
 
 #. Key:	NewGame_SaveName
 #. SourceLocation:	/Game/BluePrints/UI/MainMenu/Widget_NewGame.Widget_NewGame_C:WidgetTree.TextBlock_0.Text
