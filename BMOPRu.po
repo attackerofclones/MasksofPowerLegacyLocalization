@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-08 16:01+0300\n"
+"PO-Revision-Date: 2026-01-08 16:16+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18529,7 +18529,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
 msgctxt "InvItem_Description,Item_BrothersNote_Desc"
 msgid "A poorly written note telling the tale of two Matoran."
-msgstr "Неграмотно написанная записка, повествующая о приключениях двух Маторанов."
+msgstr "Неграмотно написанная записка, рассказывающая историю двух Маторанов."
 
 #. Key:	Item_Candle_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Candle.Item_Candle.Description
