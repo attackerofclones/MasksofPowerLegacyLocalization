@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-08 17:08+0300\n"
+"PO-Revision-Date: 2026-01-08 18:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18192,7 +18192,7 @@ msgid ""
 "compensation for the incident at the great mine..."
 msgstr ""
 "Действительно. Шахты, где добывают камни Света, увеличили свою продуктивность, в "
-"качестве компенсации за инцидент в большой шахте..."
+"качестве компенсации за инцидент в великой шахте..."
 
 #. Key:	DL_WhenuaLost1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaLost1.Default__DL_WhenuaLost1_C.DialogueText
