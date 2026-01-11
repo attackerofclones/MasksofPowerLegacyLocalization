@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-08 20:45+0300\n"
+"PO-Revision-Date: 2026-01-11 23:19+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21694,7 +21694,7 @@ msgstr "Найдите Нокаму и поговорите с ней."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line1"
 msgid "Everyone's alright? Good."
-msgstr "Вы все в порядке? Хорошо."
+msgstr "Вы все в порядке? Это хорошо."
 
 #. Key:	MakutaExplode_Line10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
