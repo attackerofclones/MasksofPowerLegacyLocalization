@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-12 21:35+0300\n"
+"PO-Revision-Date: 2026-01-12 21:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -22909,9 +22909,6 @@ msgstr "Ниже"
 #. Key:	UIMeditationPoint
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
-#, fuzzy
-#| msgctxt "ST_Names,Names_MeditationPoint"
-#| msgid "Meditation Point"
 msgctxt "ST_Localization,UIMeditationPoint"
 msgid "Meditation Point"
 msgstr "Точка Медитации"
@@ -25049,9 +25046,6 @@ msgstr "Очень Крутая Шапка™"
 #. Key:	4D5674834AEA963B60A20793D52469E1
 #. SourceLocation:	/Game/BluePrints/UI/Widget_OverwriteSaveModal.Widget_OverwriteSaveModal_C:WidgetTree.RichTextBlock_55.Text
 #: /Game/BluePrints/UI/Widget_OverwriteSaveModal.Widget_OverwriteSaveModal_C:WidgetTree.RichTextBlock_55.Text
-#, fuzzy
-#| msgctxt "UIText_Description,SaveGame_Overwrite"
-#| msgid "There is already a savefile with that name, do you want to Overwrite?"
 msgctxt "UIText_Description,4D5674834AEA963B60A20793D52469E1"
 msgid "There is already a savefile with that name, do you want to Overwrite?"
 msgstr "Сохранение с данным именем уже существует, вы хотите перезаписать его?"
@@ -25443,9 +25437,6 @@ msgstr "Движение Назад:"
 #. Key:	PausedControls_ConsumableSlot1
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_15.Text
-#, fuzzy
-#| msgctxt "UIText_Description,PausedControls_ConsumeSlot1"
-#| msgid "Consumable Slot 1:"
 msgctxt "UIText_Description,PausedControls_ConsumableSlot1"
 msgid "Consumable Slot 1:"
 msgstr "Расходник в Слоте 1:"
@@ -25453,9 +25444,6 @@ msgstr "Расходник в Слоте 1:"
 #. Key:	PausedControls_ConsumableSlot2
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_40.Text
-#, fuzzy
-#| msgctxt "UIText_Description,PausedControls_ConsumeSlot2"
-#| msgid "Consumable Slot 2:"
 msgctxt "UIText_Description,PausedControls_ConsumableSlot2"
 msgid "Consumable Slot 2:"
 msgstr "Расходник в Слоте 2:"
@@ -25624,9 +25612,6 @@ msgstr "Бег:"
 #. Key:	PausedControls_SwapMasksBackward
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_38.Text
-#, fuzzy
-#| msgctxt "UIText_Description,PausedControls_SwapMasksBack"
-#| msgid "Swap Masks Backward:"
 msgctxt "UIText_Description,PausedControls_SwapMasksBackward"
 msgid "Swap Masks Backward:"
 msgstr "Переключить на Предыдущую Маску:"
@@ -25655,9 +25640,6 @@ msgstr "Колесо Тоа:"
 #. Key:	PausedControls_ToggleHUD
 #. SourceLocation:	/Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
 #: /Game/BluePrints/UI/Widget_PausedControls.Widget_PausedControls_C:WidgetTree.TextBlock_23.Text
-#, fuzzy
-#| msgctxt "UIText_Description,PausedControls_ToggleHud"
-#| msgid "Toggle HUD:"
 msgctxt "UIText_Description,PausedControls_ToggleHUD"
 msgid "Toggle HUD:"
 msgstr "Включить/выключить HUD:"
