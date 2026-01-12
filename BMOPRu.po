@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-12 10:12+0300\n"
+"PO-Revision-Date: 2026-01-12 10:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14918,7 +14918,7 @@ msgstr "...Ага, конечно."
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRace1.Default__DL_PoduRace1_C.DialogueText
 msgctxt "Dialogue_Text,DL_PoduRace1"
 msgid "It’s a lot… c-c-colder here than it is in Po-Koro…"
-msgstr "Здесь... гор-р-раздо холоднее, чем в По-Коро…"
+msgstr "Здесь... гор-р-раздо х-х-холоднее, чем в По-Коро…"
 
 #. Key:	DL_PoduRace2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_PoduRace2.Default__DL_PoduRace2_C.DialogueText
