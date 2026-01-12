@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-12 18:14+0300\n"
+"PO-Revision-Date: 2026-01-12 18:29+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11195,8 +11195,8 @@ msgid ""
 "me with my shipment issue."
 msgstr ""
 "А, Река. Глупыш, скучный, озабочен Колхи – прям как половина деревни, я полагаю. Если он "
-"вас послал сюда, то вам нужно немножко виджетов, да? Думаю, вы можете мне помочь с моим "
-"грузом."
+"вас послал сюда, то вам наверняка нужно немножко виджетов, да? Думаю, вы можете мне "
+"помочь с моим грузом."
 
 #. Key:	DL_JobmasterJobSneak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.DialogueText
@@ -11566,7 +11566,7 @@ msgid ""
 msgstr ""
 "Ну, я долгое время жил в Ле-Коро, но я там чувствовал себя чужаком... Надо мной всегда "
 "смеялись, потому что я не знаю, как качаться на лиане или не умею прыгать по деревьям, "
-"как остальные. Однажды я ушёл... позже я забрёл в Вагну, там люди добрые, и я "
+"как остальные. Однажды я ушёл... а чуть позже я забрёл в Вагну. Там люди добрые, и я "
 "почувствовал себя как дома."
 
 #. Key:	DL_KoFishSeller4
