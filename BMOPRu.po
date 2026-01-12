@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-11 23:19+0300\n"
+"PO-Revision-Date: 2026-01-12 10:12+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -379,7 +379,7 @@ msgid ""
 msgstr ""
 "Ко-Кини – храм Льда. Он расположен вдали от Ко-Коро и добраться туда не очень просто. В "
 "храме хранится камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. "
-"Только Нуджу и его переводчик Маторо знают, как его открыть."
+"Только Нуджу и его переводчик Маторо знают то, как его открыть."
 
 #. Key:	CodexPage_Kokoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kokoro.Default__LocationEntry_Kokoro_C.Location Description
