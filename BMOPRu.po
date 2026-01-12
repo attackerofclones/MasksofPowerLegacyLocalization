@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-12 18:42+0300\n"
+"PO-Revision-Date: 2026-01-12 20:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9735,7 +9735,7 @@ msgid ""
 "there."
 msgstr ""
 "Мне нужно, чтобы вы нашли этого Маторана, Тоа. Если у вас этого не получится, это может "
-"означать конец Мата Нуи… Я знаю про непримечательный холм у берегов Ко-Вахи, он может "
+"означать конец Мата Нуи… Я знаю про неприметный холм у берегов Ко-Вахи, он может "
 "прятаться там."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim2
@@ -9748,8 +9748,8 @@ msgid ""
 "I know of, he may be hiding there."
 msgstr ""
 "У нас нет на это времени, Тоа. Мне нужно, чтобы вы нашли этого Маторана. Если у вас "
-"этого не получится, это может означать конец Мата Нуи… Я знаю про непримечательный холм "
-"у берегов Ко-Вахи, он может прятаться там."
+"этого не получится, это может означать конец Мата Нуи… Я знаю про неприметный холм у "
+"берегов Ко-Вахи, он может прятаться там."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHimDoor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHimDoor.Default__DL_Allknowingmatoran_WDYFFindHimDoor_C.DialogueText
