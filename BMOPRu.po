@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-12 10:27+0300\n"
+"PO-Revision-Date: 2026-01-12 18:14+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20574,7 +20574,7 @@ msgid ""
 "face the ultimate test. Fight your way through the Makuta's beasts and defeat him once "
 "and for all."
 msgstr ""
-"Вы собрали все свои Маски Силы, вы нашли все камни Макоки, а теперь пришло время для "
+"Вы собрали все свои Маски Силы. Вы нашли все камни Макоки. А теперь пришло время для "
 "финального испытания. Прорвитесь через чудищ Макуты и одолейте его раз и навсегда."
 
 #. Key:	Quest_OnTheLine_Desc
@@ -20671,7 +20671,7 @@ msgid ""
 "Quater Master Niidok has gotten the wrong shipment of staves, he has requested that you "
 "speak to Takar the staff seller about this. He has a shop just outside Ta-koro."
 msgstr ""
-"Квартирмейстер Ниидок получил неправильный груз посохов, он попросил вас обсудить этот "
+"Квартирмейстер Ниидок получил неправильный груз посохов и попросил вас обсудить этот "
 "вопрос с Такаром, продавцом посохов. У него есть магазин недалеко от Та-Коро."
 
 #. Key:	Quest_Tahu_Desc
@@ -21271,14 +21271,14 @@ msgstr "Верните записи Килме."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_1"
 msgid "Fight through the Mangaia."
-msgstr "Пробейтесь через Мангайю."
+msgstr "Прорвитесь через Мангайю."
 
 #. Key:	Quest_Mangaia_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Mangaia_Objective_2"
 msgid "Fight through the Mangaia."
-msgstr "Пробейтесь через Мангайю."
+msgstr "Прорвитесь через Мангайю."
 
 #. Key:	Quest_Mangaia_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Mangaia.Default__Quest_Mangaia_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
