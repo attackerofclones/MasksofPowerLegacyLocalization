@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-13 13:43+0300\n"
+"PO-Revision-Date: 2026-01-14 21:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -918,10 +918,10 @@ msgstr ""
 "Онуа – мудрый и терпеливый Тоа Земли. На первый взгляд может показаться, что он "
 "абстрагирован от других Тоа, что не так уж и далеко от истины. Онуа говорит только "
 "тогда, когда, по его мнению, есть что сказать. А когда он говорит, его слова оказывают "
-"сильное влияние на команду Тоа в целом. Онуа заметно короче других Тоа, поскольку его "
-"голова находится несколько в другом месте, в сравнении со строением других Тоа. Атака "
-"его стихии заключается в броске куска земли с шипами, что полезно для удержания "
-"дистанции в битвах с врагами."
+"сильное влияние на команду Тоа в целом. Онуа заметно ниже других Тоа, поскольку его "
+"голова посажена чуточку иначе, в сравнении со строением остальных Тоа. Атака его стихии "
+"заключается в броске куска земли с шипами, что полезно для удержания дистанции в битвах "
+"с врагами."
 
 #. Key:	CodexPage_OnuasLanding_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_OnuasLanding.Default__LocationEntry_OnuasLanding_C.Location Description
@@ -11768,7 +11768,7 @@ msgid ""
 "the flag trade has stopped. But other than that not much at all. "
 msgstr ""
 "Ну, не особо много нового. Нуджу давно пропал... Последний раз его видели покупающим "
-"кучу флагов у создателя флагов из Га-Коро. Может, поэтому продажа флагов остановилась? "
+"кучу флагов у создателя флагов из Га-Коро. Может, поэтому продажа флагов прекратилась? "
 "Но кроме этого... ничего особенного. "
 
 #. Key:	DL_KokoroGuardProtodermis
@@ -14445,9 +14445,9 @@ msgid ""
 "it to your collection and make full use of it's powers."
 msgstr ""
 "Хотя она возвращает присущие им способности, наши, Маторанские маски, не похожи на ваши, "
-"Тоа – они не имеют никаких способностей, в сравнении с вашими. Если вы засунете одну из "
-"наших «незаряженных» масок в эту машину и помажете немного Геля Вахе-Мата, вы сможете "
-"воспользоваться её силами и добавить её в свою коллекцию."
+"Тоа – у них нет способностей, как у ваших. Если вы засунете одну из наших «незаряженных» "
+"масок в эту машину и помажете немного Геля Вахе-Мата, вы сможете воспользоваться её "
+"силами и добавить её в свою коллекцию."
 
 #. Key:	DL_Okin1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Okin1.Default__DL_Okin1_C.DialogueText
@@ -19703,7 +19703,8 @@ msgid ""
 msgstr ""
 "Дорогой Коха.\r\n"
 "\r\n"
-"Мне жаль, брат. Я осуждаю этот спор, я был виноват. Но тебе не стоило уходить.\r\n"
+"Мне жаль, брат. Я признаю ошибку в этом споре, я был виноват. Но тебе не стоило уходить."
+"\r\n"
 "\r\n"
 "Я буду размышлять о тебе и стараться вспоминать хорошие времена."
 
@@ -21718,7 +21719,7 @@ msgstr "Это наш единственный шанс."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line12"
 msgid "This is the only way to dispel his influence over us. Over the whole island!"
-msgstr "Это единственный способ избавиться от его влияния над нами. Над всем островом!"
+msgstr "Это единственный способ избавиться от его власти над нами. Над всем островом!"
 
 #. Key:	MakutaExplode_Line13
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21732,7 +21733,7 @@ msgstr "Значит, это то, что мы должны сделать."
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line14"
 msgid "...I can only hope we'll do better next time."
-msgstr "...Я надеюсь, что в следующий раз мы справимся лучше."
+msgstr "...Мне остаётся лишь надеяться, что в следующий раз мы справимся лучше."
 
 #. Key:	MakutaExplode_Line15
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
