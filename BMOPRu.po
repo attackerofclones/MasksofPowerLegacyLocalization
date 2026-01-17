@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-14 21:29+0300\n"
+"PO-Revision-Date: 2026-01-17 10:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -138,7 +138,7 @@ msgid ""
 msgstr ""
 "Га-Кини – храм Воды. Частично погружённый в воды Га-Вахи, этот храм скрывает в себе "
 "камень Макоки – фрагмент ключа, необходимого для доступа в логово Макуты. По всей "
-"видимости, только Турага Нокама знает секрет того, как его открыть."
+"видимости, только Турага Нокама знает секрет его открытия."
 
 #. Key:	CodexPage_Gakoro_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Gakoro.Default__LocationEntry_Gakoro_C.Location Description
@@ -303,8 +303,8 @@ msgid ""
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
 "свою добычу. Белая разновидность с шипами встречается преимущественно в Ко-Вахи. Суровый "
-"климат закалил Таракав и превратил их в ужасных зверей. Они более быстрые и более "
-"сильные, особенно в сравнении с обычными Таракавами."
+"климат закалил Таракав и превратил их в ужасных зверей. Они быстрее и сильнее, особенно "
+"в сравнении с обычными Таракавами."
 
 #. Key:	CodexPage_Kakama_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Kakama.Default__LocationEntry_Kakama_C.Location Description
@@ -13426,9 +13426,9 @@ msgid ""
 "I... hope that Nuju can forgive me for this, but this must be done. I cannot allow "
 "Nuju’s skepticism to prevent it."
 msgstr ""
-"Я буду сопровождать вас. Храм остаётся закрытым, а я знаю то, как его открыть. Я... "
-"надеюсь, что Нуджу сможет простить меня за это, но это нужно сделать. Я не могу "
-"позволить скептицизму Нуджу помешать этому."
+"Я буду сопровождать вас. Храм всё ещё заперт, а я знаю, как его открыть. Я... надеюсь, "
+"что Нуджу сможет простить меня за этот поступок, но это нужно сделать. Я не могу "
+"позволить скептицизму Нуджу помешать нам."
 
 #. Key:	DL_MatoroKiniKopaka1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniKopaka1.Default__DL_MatoroKiniKopaka1_C.DialogueText
