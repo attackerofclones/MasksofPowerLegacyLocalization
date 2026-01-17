@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-17 11:07+0300\n"
+"PO-Revision-Date: 2026-01-17 16:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -2122,7 +2122,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYF2.Default__DL_Allknowingmatoran_WDYF2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYF2_PlayerResponse_2"
 msgid "There was a dark room with carvings of the six great masks."
-msgstr "Была тёмная комната с резными формами шести великих масок."
+msgstr "Была тёмная комната с резными ликами шести великих масок."
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim2.Default__DL_Allknowingmatoran_WDYFFindHim2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2130,8 +2130,7 @@ msgstr "Была тёмная комната с резными формами ш
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_WDYFFindHim2_PlayerResponse_1"
 msgid ""
 "Is there anything else I need to know? Wait, how did you know there was a Matoran there?"
-msgstr ""
-"Есть ли что-то ещё, что мне нужно знать? Постой, а откуда ты знаешь, что там был Маторан?"
+msgstr "Нужно ли мне знать что-то ещё? Постой, а откуда ты знаешь, что там был Маторан?"
 
 #. Key:	DL_Allknowingmatoran_WDYFFindHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFFindHim.Default__DL_Allknowingmatoran_WDYFFindHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9759,8 +9758,8 @@ msgid ""
 "There should be a rock door with three spinning rocks on it, The order is Faith, "
 "Creation, then Peace"
 msgstr ""
-"Там должна быть каменная дверь с тремя вращающимися камнями на ней. Порядок такой: Вера, "
-"Созидание, а затем Мир."
+"Там должна быть каменная дверь с тремя вращающимися камнями на ней. Порядок такой: "
+"«Вера», «Созидание», а затем «Мир»."
 
 #. Key:	DL_Allknowingmatoran_WDYFLiar
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFLiar.Default__DL_Allknowingmatoran_WDYFLiar_C.DialogueText
