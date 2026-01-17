@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-17 19:59+0300\n"
+"PO-Revision-Date: 2026-01-17 20:10+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3567,7 +3567,7 @@ msgstr "Напомни мне, что это за груз?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn1.Default__DL_JobmasterReturn1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_JobmasterReturn1_PlayerResponse_1"
 msgid "Why were you having them imported?"
-msgstr "Для чего ты их импортируешь?"
+msgstr "Для чего ты их поставляешь?"
 
 #. Key:	DL_JobmasterReturn2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn2.Default__DL_JobmasterReturn2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -11238,8 +11238,8 @@ msgid ""
 "They fetch a very high price where they have been outlawed. I have debts to pay, and I "
 "need the money - Every so often I have them imported from a small fishing village."
 msgstr ""
-"Они приносят кучу денег в местах, где они под запретом. Мне ещё нужно платить по долгам, "
-"и мне позарез нужны деньги. Иногда я доставляю их из небольшой рыбацкой деревушки."
+"За них можно выручить немалые деньги в местах, где они под запретом. Я в долгах, мне "
+"нужно за них расплатиться. Иногда я достаю их из небольшой рыбацкой деревушки."
 
 #. Key:	DL_JobmasterReturn3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn3.Default__DL_JobmasterReturn3_C.DialogueText
