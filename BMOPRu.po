@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-17 20:10+0300\n"
+"PO-Revision-Date: 2026-01-17 20:36+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11469,7 +11469,7 @@ msgstr "Приветствую, Тоа-Герой, хотите прокатит
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_KewaMaster2.Default__DL_KewaMaster2_C.DialogueText
 msgctxt "Dialogue_Text,DL_KewaMaster2"
 msgid "Kahu are for the ever-brave Le-Koro Airforce only!"
-msgstr "Каху только для бравых войск Воздушной Обороны Ле-Коро!"
+msgstr "Каху только для ультра-бравых войск Воздушной Обороны Ле-Коро!"
 
 #. Key:	DL_Kieve
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Kieve.Default__DL_Kieve_C.DialogueText
@@ -11540,7 +11540,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSeller.Default__DL_KoFishSeller_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoFishSeller"
 msgid "$T! Oh my, umm, welcome to my shop!"
-msgstr "$T! Ой, эмм, добро пожаловать в мой магазин!"
+msgstr "$T! Ой, эмм, добро пожаловать в мою лавку!"
 
 #. Key:	DL_KoFishSeller2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSeller2.Default__DL_KoFishSeller2_C.DialogueText
@@ -11829,7 +11829,7 @@ msgid ""
 "been lost? Strange."
 msgstr ""
 "Ну, я летучий по ветру и катающийся на Каху Конгу, конечно же! Хех, неужто вы потеряли "
-"свою мысле-память? Странно."
+"свою мысле-память? Это странно."
 
 #. Key:	DL_Kongu2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu2.Default__DL_Kongu2_C.DialogueText
@@ -12063,7 +12063,8 @@ msgstr "Ха-ха! Я сделал это!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered2.Default__DL_KoTownKohiProtosteelDiscovered2_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelDiscovered2"
 msgid "Ahh Hello Toa! Yes indeed I have, although I'm not entirely sure what I did."
-msgstr "А, здравствуй, Тоа! Да, я сделал, но я не до конца уверен что именно я сделал."
+msgstr ""
+"А, приветствую, Тоа! Да, мне удалось, но я не до конца уверен в том, что именно я сделал."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered3.Default__DL_KoTownKohiProtosteelDiscovered3_C.DialogueText
@@ -12154,7 +12155,7 @@ msgid ""
 "Why sell it of course! Kohi's Tools & Armory will be the best and only provider of "
 "Protosteel Armaments!"
 msgstr ""
-"Конечно же, чтобы продавать их! Лавка инструментов и оружия Кохи станет единственным и "
+"Продавать, естественно! «Лавка инструментов и доспехов у Кохи» станет единственным и "
 "лучшим поставщиком снаряжения из Протостали!"
 
 #. Key:	DL_KoTownKohiProtosteelQuestion
@@ -12166,9 +12167,9 @@ msgid ""
 "said, it's a shame and I hope every one's alright, but there's no reason for you to be "
 "blaming me when I wasn't even there!"
 msgstr ""
-"Вы обвиняете меня, Тоа? *Хмпф* Нет, $T, я с этим никак не связан. Как я сказал, мне "
-"жаль, и я надеюсь, что никто не пострадал, но это не значит, что меня можно обвинять! "
-"Особенно когда меня там не было!"
+"Вы обвиняете меня, Тоа? *Фыркает* Нет, $T, я тут ни при чём. Как я и сказал, ситуация "
+"печальная, и я надеюсь, что никто не пострадал... но это не значит, что меня можно "
+"обвинять! Особенно когда меня там не было!"
 
 #. Key:	DL_KoTownKohiProtosteelWaitingfor
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWaitingfor.Default__DL_KoTownKohiProtosteelWaitingfor_C.DialogueText
