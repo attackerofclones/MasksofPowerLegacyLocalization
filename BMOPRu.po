@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-17 16:13+0300\n"
+"PO-Revision-Date: 2026-01-17 19:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10285,8 +10285,8 @@ msgid ""
 "used to before I started fishing."
 msgstr ""
 "Ну, поскольку вся эта афера с рыбой потерпела крах, я принял решение вернуться в Ко-"
-"Коро… В ближайшее время. А пока я иду туда, я решил насладиться видами, как я когда-то "
-"делал до того, как начал рыбачить."
+"Коро… Рано или поздно я доберусь туда. А пока иду, я решил насладиться видами, как когда-"
+"то делал до того, как начал рыбачить."
 
 #. Key:	DL_DameoReturn
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoReturn.Default__DL_DameoReturn_C.DialogueText
@@ -10523,7 +10523,7 @@ msgctxt "Dialogue_Text,DL_Gali2"
 msgid ""
 "Have you not sensed that there is something off about all this? Something is not as it "
 "should be."
-msgstr "Ты не почувствовал чего-то странного? Что-то здесь не так, как оно должно быть."
+msgstr "Ты не почувствовал чего-то странного? Что-то здесь не так, как должно быть."
 
 #. Key:	DL_GeneralKokoranbyprotopool
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranbyprotopool.Default__DL_GeneralKokoranbyprotopool_C.DialogueText
