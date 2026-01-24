@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-24 15:53+0300\n"
+"PO-Revision-Date: 2026-01-24 18:37+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24909,7 +24909,7 @@ msgstr "Статистика"
 #: /Game/BluePrints/UI/Skip.Skip_C:WidgetTree.RichTextBlock_71.Text
 msgctxt "UIText_Button,Skip_Description"
 msgid "Press any key to skip"
-msgstr "Нажмите любую клавишу, чтобы пропустить"
+msgstr "Нажмите любую клавишу для пропуска"
 
 #. Key:	TabMenu_CodexTabButton
 #. SourceLocation:	/Game/BluePrints/UI/Widget_TabMenu.Widget_TabMenu_C:WidgetTree.TextBlock_0.Text
