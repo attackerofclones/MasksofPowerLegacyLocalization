@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-24 15:39+0300\n"
+"PO-Revision-Date: 2026-01-24 15:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5340,7 +5340,7 @@ msgstr "Эээ, кто ты?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_Matoro3.Default__DL_Matoro3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Matoro3_PlayerResponse_1"
 msgid "You want me to look for this Turaga?"
-msgstr "Ты хочешь, чтобы я его {G}|gender(нашёл, нашла)?"
+msgstr "Ты хочешь, чтобы я {G}|gender(нашёл, нашла) твоего Турагу?"
 
 #. Key:	DL_Matoro4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_Matoro4.Default__DL_Matoro4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5410,7 +5410,7 @@ msgstr "Нуджу сомневается во мне? Он сомневаетс
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation4.Default__DL_MatoroKiniExplanation4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoroKiniExplanation4_PlayerResponse_1"
 msgid "What things have been happening to cause him to doubt us?"
-msgstr "Что заставило его усомниться в нас?"
+msgstr "Что именно заставило его усомниться в нас?"
 
 #. Key:	DL_MatoroKiniExplanation5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniExplanation5.Default__DL_MatoroKiniExplanation5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5467,7 +5467,7 @@ msgstr "Я {G}|gender(понял, поняла). Я тогда поговорю 
 msgctxt "Dialogue_Response,DL_MatoroKiniReturn_PlayerResponse_1"
 msgid "Thank you for your help Matoro. I could not have completed this without you."
 msgstr ""
-"Спасибо за помощь, Маторо. Я без тебя не {G}|gender(справился, справилась) бы с этим."
+"Спасибо за помощь, Маторо. Без тебя я не {G}|gender(справился, справилась) бы с этим."
 
 #. Key:	DL_MatoroKiniReturnMine_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_MatoroKiniReturnMine.Default__DL_MatoroKiniReturnMine_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
