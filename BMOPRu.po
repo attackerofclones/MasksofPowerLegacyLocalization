@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-17 20:36+0300\n"
+"PO-Revision-Date: 2026-01-24 15:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24478,7 +24478,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
 msgctxt "Tutorial_Text,Tut_OpenMap"
 msgid "Press <Key>{Action1}</> To open the map"
-msgstr "Нажмите <Key>{Action1}</>, чтобы открыть карту"
+msgstr "Нажмите <Key>{Action1}</> для того, чтобы открыть карту"
 
 #. Key:	Tut_ProtoRefill
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ProtoRefill.Tut_ProtoRefill.Text
@@ -24508,7 +24508,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_Sprint.Tut_Sprint.Text
 msgctxt "Tutorial_Text,Tut_Sprint"
 msgid "Press <Key>{Action1}</> to Sprint"
-msgstr "Нажмите <Key>{Action1}</>, чтобы Бежать"
+msgstr "Нажмите <Key>{Action1}</> для Бега"
 
 #. Key:	Tut_ToaSwitching
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_ToaSwitching.Tut_ToaSwitching.Text
@@ -24533,14 +24533,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_ToaWheel.Tut_ToaWheel.Text
 msgctxt "Tutorial_Text,Tut_ToaWheel"
 msgid "Hold <Key>{Action1}</> to open the Toa Wheel"
-msgstr "Удерживайте <Key>{Action1}</>, чтобы открыть Колесо Тоа"
+msgstr "Удерживайте <Key>{Action1}</> для того, чтобы открыть Колесо Тоа"
 
 #. Key:	Tut_UseMask
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_UseMask.Tut_UseMask.Text
 msgctxt "Tutorial_Text,Tut_UseMask"
 msgid "Press <Key>{Action1}</> to use the mask"
-msgstr "Нажмите <Key>{Action1}</>, чтобы использовать маску"
+msgstr "Нажмите <Key>{Action1}</> для использования маски"
 
 #. Key:	Tut_UseMaskWheel
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_UseMaskWheel.Tut_UseMaskWheel.Text
@@ -24550,7 +24550,7 @@ msgid ""
 "Hold <Key>{Action1}</> to bring up the mask wheel and \r\n"
 "Release <Key>{Action1}</> when hovering over the icon of your new mask."
 msgstr ""
-"Удерживайте <Key>{Action1}</>, чтобы открыть колесо масок и \r\n"
+"Удерживайте <Key>{Action1}</> для того, чтобы открыть колесо масок и \r\n"
 "Отпустите <Key>{Action1}</> после наведения на значок вашей новой маски."
 
 #. Key:	Tut_UseVahi
@@ -24558,14 +24558,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_UseVahi.Tut_UseVahi.Text
 msgctxt "Tutorial_Text,Tut_UseVahi"
 msgid "Press <Key>{Action1}</> to use the Vahi"
-msgstr "Нажмите <Key>{Action1}</>, чтобы использовать Вахи"
+msgstr "Нажмите <Key>{Action1}</> для использования Вахи"
 
 #. Key:	Tut_WASD
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
 #: /Game/BluePrints/Classes/Tutorial/Tut_WASD.Tut_WASD.Text
 msgctxt "Tutorial_Text,Tut_WASD"
 msgid "Press <Key>{Action1} {Action2} {Action3} {Action4}</> to move"
-msgstr "Нажмите <Key>{Action1} {Action2} {Action3} {Action4}</>, чтобы передвигаться"
+msgstr "Нажмите <Key>{Action1} {Action2} {Action3} {Action4}</> для передвижения"
 
 #. Key:	SaveConversionLoading_Text
 #. SourceLocation:	/Game/BluePrints/UI/Loading.Loading_C:WidgetTree.TextBlock_4.Text
