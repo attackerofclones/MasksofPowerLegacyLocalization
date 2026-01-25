@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-24 18:37+0300\n"
+"PO-Revision-Date: 2026-01-25 12:40+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -11278,8 +11278,7 @@ msgstr "Различные материалы – для резчиков и с�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentGiveQuest.Default__DL_JobmasterShipmentGiveQuest_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterShipmentGiveQuest"
 msgid "You know what, I believe there is. There'd be some widgets in it if you accept."
-msgstr ""
-"А знаете, я думаю, что есть. Там точно будет несколько виджетов, если вы согласитесь."
+msgstr "А знаете, я думаю, что есть. Если вы согласитесь, я дам вам немножко виджетов."
 
 #. Key:	DL_JobmasterShipmentJob
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipmentJob.Default__DL_JobmasterShipmentJob_C.DialogueText
@@ -19917,7 +19916,7 @@ msgstr ""
 "глубокого сна.\r\n"
 "\r\n"
 "На следующий день я похоронил Натти в пещере вместе с оставшимся золотом. Я поставил эту "
-"ужасную чёрную маску на могиле в качестве маркера. Я также оставлю здесь эту последнюю "
+"ужасную чёрную маску на её могиле в качестве метки. Я также оставлю здесь эту последнюю "
 "запись из журнала. \r\n"
 "\r\n"
 "Если вы нашли эту запись, вы также нашли и маску. Что бы ни случилось, ни в коем случае "
@@ -21754,7 +21753,7 @@ msgstr "Не в этот раз!"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line17"
 msgid "What? Stop! What are you doing?"
-msgstr "Что? Стой! Что ты делаешь?!"
+msgstr "Что? Стой! Что ты делаешь!?"
 
 #. Key:	MakutaExplode_Line18
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
