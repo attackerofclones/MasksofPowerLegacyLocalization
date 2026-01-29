@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-29 11:27+0300\n"
+"PO-Revision-Date: 2026-01-29 16:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18062,7 +18062,7 @@ msgid ""
 "I... I don't think we should stay, I'm sorry Taphal, but there's just too much work for "
 "just you and us."
 msgstr ""
-"Я... Я не думаю, что нам стоит оставаться. Мне жаль, Тафал, но здесь слишком много "
+"Я... Я не думаю, что нам стоит оставаться. Мне очень жаль, Тафал, но здесь слишком много "
 "работы для нас двоих."
 
 #. Key:	DL_WhagnaMeeting_Tafall6
@@ -20427,7 +20427,7 @@ msgctxt "Quest_Description,Quest_DangerOnTheHorizon_Desc"
 msgid ""
 "A small temple near Ga-koro has been taken over by a Tarakava, the matoran would like it "
 "back."
-msgstr "Небольшой храм у Га-Коро захвачен Таракавами, Матораны хотели бы его вернуть."
+msgstr "Небольшой храм у Га-Коро захвачен Таракавами. Матораны хотели бы его вернуть."
 
 #. Key:	Quest_FindKumo_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Description
@@ -20722,7 +20722,7 @@ msgctxt "Quest_Description,Quest_TheTuragaOfAir_Desc"
 msgid ""
 "Turaga Matau has been missing for a while, Find him and help him get back to Le-koro."
 msgstr ""
-"Турага Матау пропал некоторое время назад, найдите его и помогите ему добраться обратно "
+"Турага Матау пропал некоторое время назад. Найдите его и помогите ему добраться обратно "
 "в Ле-Коро."
 
 #. Key:	Quest_TheTuragaOfEarth_Desc
@@ -20732,7 +20732,7 @@ msgctxt "Quest_Description,Quest_TheTuragaOfEarth_Desc"
 msgid ""
 "Turaga Whenua has been missing for a while, Find him and help him get back to Onu-koro."
 msgstr ""
-"Турага Венуа пропал некоторое время назад, найдите его и помогите ему добраться обратно "
+"Турага Венуа пропал некоторое время назад. Найдите его и помогите ему добраться обратно "
 "в Ону-Коро."
 
 #. Key:	Quest_TheTuragaOfIce_Desc
@@ -20743,7 +20743,7 @@ msgid ""
 "Turaga Nuju got lost when passing through the drifts, find him and help him get back to "
 "Ko-koro."
 msgstr ""
-"Турага Нуджу потерялся во время перехода через барханы, найдите его и помогите ему "
+"Турага Нуджу потерялся во время перехода через барханы. Найдите его и помогите ему "
 "добраться обратно в Ко-Коро."
 
 #. Key:	Quest_TheTuragaOfStone_Desc
@@ -20753,7 +20753,7 @@ msgctxt "Quest_Description,Quest_TheTuragaOfStone_Desc"
 msgid ""
 "Turaga Onewa has been missing for a while, Find him and help him get back to Po-koro."
 msgstr ""
-"Турага Онева пропал некоторое время назад, найдите его и помогите ему добраться обратно "
+"Турага Онева пропал некоторое время назад. Найдите его и помогите ему добраться обратно "
 "в По-Коро."
 
 #. Key:	Quest_TheTuragaOfWater_Desc
@@ -20762,7 +20762,7 @@ msgstr ""
 msgctxt "Quest_Description,Quest_TheTuragaOfWater_Desc"
 msgid "Turaga Nokama has been missing for a while, Find her and ensure her safety."
 msgstr ""
-"Турага Нокама пропала некоторое время назад, найдите её и обеспечьте её безопасность."
+"Турага Нокама пропала некоторое время назад. Найдите её и обеспечьте её безопасность."
 
 #. Key:	Quest_Amongsttheburnttrees
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.QuestName
