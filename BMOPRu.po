@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-29 10:27+0300\n"
+"PO-Revision-Date: 2026-01-29 10:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10840,7 +10840,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.DialogueText
 msgctxt "Dialogue_Text,DL_GuardPickingSheildsTahu"
 msgid "Wait what? I thought these where shields! Why do they all have to look the same!"
-msgstr "Стоп, что? Я думал, что это щиты! Почему они все должны выглядеть одинаково!?"
+msgstr "Чего? Я думал, что это щиты! Почему они все должны выглядеть одинаково!?"
 
 #. Key:	DL_Hahli1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli1.Default__DL_Hahli1_C.DialogueText
