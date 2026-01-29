@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-27 14:44+0300\n"
+"PO-Revision-Date: 2026-01-29 10:27+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -25797,7 +25797,7 @@ msgstr "Вертикальная синхронизация:          "
 #: [Script Bytecode]
 msgctxt "UIText_Description,Powermask_Cost"
 msgid "Powering this mask requires: <Key>{Cost}</>  Wahae Mata Gel."
-msgstr "Для зарядки данной маски потребуется: <Key>{Cost}</>  единиц Геля Вахе Мата."
+msgstr "Для зарядки данной маски потребуется: <Key>{Cost}</> единиц Геля Вахе Мата."
 
 #. Key:	PowerMask_Gel_ToolTip
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/UI_FilteredUse.UI_FilteredUse_C:WidgetTree.ItemName.Text
