@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 15:07+0300\n"
+"PO-Revision-Date: 2026-01-31 15:15+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10208,9 +10208,9 @@ msgid ""
 "illegal in Po, Onu, Ga, and Ta-Koro. I started this town to get out of the jurisdiction "
 "of Onu-Koro law on their collection."
 msgstr ""
-"Как? А, я понял, вы... вы всё же узнали об этом... Да, мы ловим розовохвостых Руки, "
-"находящихся вне закона в По, Ону, Га и Та-Коро. Я основал это место, чтобы выбраться из-"
-"под юрисдикции закона Ону-Коро на их вылов."
+"Как? А, я понял, вы... вы всё же узнали об этом... Да, мы ловим Розовохвостых Руки, что "
+"запрещено в По, Ону, Га и Та-Коро. Я основал это место, чтобы выбраться из-под "
+"юрисдикции закона Ону-Коро на их вылов."
 
 #. Key:	DL_DamemoRukiDanger
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRukiDanger.Default__DL_DamemoRukiDanger_C.DialogueText
@@ -15762,7 +15762,8 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_ScaredConvo8"
 msgid ""
 "Wait, Pink tailed Ruki? They're illegal in Po-Koro, why were we transporting this there?"
-msgstr "Подожди, Розовохвостые Руки? Они же вне закона в По-Коро, почему мы их везём сюда?"
+msgstr ""
+"Подожди, Розовохвостые Руки? Их ловля же запрещена в По-Коро, почему мы их везём сюда?"
 
 #. Key:	DL_ScaredConvo9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
