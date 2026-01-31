@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 15:43+0300\n"
+"PO-Revision-Date: 2026-01-31 15:53+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -15909,7 +15909,7 @@ msgid ""
 "I mean, there is a chance that they would consider him too boring to hunt, but you never "
 "know what goes on in the heads of the Nui-Jaga, Nui-Rama, and... *gulp* F-Fikou-Nui..."
 msgstr ""
-"Нет, конечно, есть вероятность, что они посчитают его слишком скучным для охоты, но "
+"Нет, конечно, есть вероятность, что они посчитают его слишком скучным для охоты... но "
 "никогда не знаешь, что на уме у Нуи-Джаги, Нуи-Рамы и... *ик* Ф-Фику-Нуи…"
 
 #. Key:	DL_SellerConsumablesHewtiniiKapura4
@@ -23612,7 +23612,7 @@ msgstr "Нуи-Джага Ахи"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LavaTarakava"
 msgid "Poak Tarakava"
-msgstr "Лавовая Таракава"
+msgstr "Таракава Пок"
 
 #. Key:	Names_Le-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
