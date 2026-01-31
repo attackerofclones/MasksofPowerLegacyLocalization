@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 15:15+0300\n"
+"PO-Revision-Date: 2026-01-31 15:36+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13874,7 +13874,7 @@ msgid ""
 "that Tarakava you encountered and dragged down here."
 msgstr ""
 "Турага и я... проводили встречу. На обратном пути в Га-Коро на меня напала эта Таракава, "
-"с которой тебе пришлось сразиться, и затащила меня вниз."
+"с которой тебе довелось столкнуться, и затащила меня вниз."
 
 #. Key:	DL_NokamaBase1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaBase1.Default__DL_NokamaBase1_C.DialogueText
@@ -15686,7 +15686,7 @@ msgid ""
 "maybe it's worth something?"
 msgstr ""
 "Эээ, возможно, я могу дать вам... Эмм... Вот это! Нашёл это лежащим где-то недалеко от "
-"По-Коро. Быть может, оно что-то стоит?"
+"По-Коро. Быть может, оно чего-то стоит?"
 
 #. Key:	DL_ScaredConvo1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.DialogueText
@@ -15717,7 +15717,7 @@ msgid ""
 "The Tarakava down there sprinted at us from across the Pillar lands. Luckily, Me and "
 "Laru made it up here before they attacked - I think they wanted our cargo."
 msgstr ""
-"Таракава оттуда рванул к нам со стороны Столбовых земель. К счастью, мне и Лару удалось "
+"Таракава оттуда рванула к нам со стороны Столбовых земель. К счастью, мне и Лару удалось "
 "забраться сюда до их атаки. Мне кажется, что им был нужен наш груз."
 
 #. Key:	DL_ScaredConvo4
@@ -15736,7 +15736,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo5.Default__DL_ScaredConvo5_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo5"
 msgid "They're after me, THEY'RE AFTER MY MASK!"
-msgstr "Они идут за мной, ОНИ ИДУТ ЗА МОЕЙ МАСКОЙ!"
+msgstr "Они идут за мной... ОНИ ИДУТ ЗА МОЕЙ МАСКОЙ!"
 
 #. Key:	DL_ScaredConvo6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo6.Default__DL_ScaredConvo6_C.DialogueText
@@ -15763,14 +15763,14 @@ msgctxt "Dialogue_Text,DL_ScaredConvo8"
 msgid ""
 "Wait, Pink tailed Ruki? They're illegal in Po-Koro, why were we transporting this there?"
 msgstr ""
-"Подожди, Розовохвостые Руки? Их ловля же запрещена в По-Коро, почему мы их везём сюда?"
+"Подожди, Розовохвостые Руки? Их ловля же запрещена в По-Коро! Почему мы их везём сюда?"
 
 #. Key:	DL_ScaredConvo9
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo9"
 msgid "Well, yes that's what it said on the order form. You know him?"
-msgstr "Ну... да, так было записано в форме заказа. Ты знаешь его?"
+msgstr "Ну... да, так было записано в бланке заказа. Ты знаешь его?"
 
 #. Key:	DL_ScaredConvoWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
