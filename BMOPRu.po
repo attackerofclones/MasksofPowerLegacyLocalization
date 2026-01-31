@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 20:02+0300\n"
+"PO-Revision-Date: 2026-01-31 20:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -15770,14 +15770,14 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo9.Default__DL_ScaredConvo9_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvo9"
 msgid "Well, yes that's what it said on the order form. You know him?"
-msgstr "Ну... да, так было записано в бланке заказа. Ты знаешь его?"
+msgstr "Ну... да, так было записано в бланке заказа. Вы знаете его?"
 
 #. Key:	DL_ScaredConvoWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvoWho"
 msgid "WHAT DO YOU MEAN? Omak didn't send you? Gah!"
-msgstr "В СМЫСЛЕ? Тебя прислал не Омак? Блин!"
+msgstr "В СМЫСЛЕ? Вас прислал не Омак? Блин!"
 
 #. Key:	DL_Scholar1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Scholar1.Default__DL_Scholar1_C.DialogueText
