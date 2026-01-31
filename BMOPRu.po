@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 09:48+0300\n"
+"PO-Revision-Date: 2026-01-31 09:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12175,7 +12175,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWaitingfor.Default__DL_KoTownKohiProtosteelWaitingfor_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelWaitingfor"
 msgid "Well? What are you waiting for Toa, pull it from the stone!"
-msgstr "Ну? Чего же вы ждёте, Тоа, вытащите его из камня!"
+msgstr "Ну? Чего же вы ждёте, Тоа? Вытащите его из камня!"
 
 #. Key:	DL_KoTownKohiProtosteelWhagnaattacked
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelWhagnaattacked.Default__DL_KoTownKohiProtosteelWhagnaattacked_C.DialogueText
@@ -12286,8 +12286,8 @@ msgid ""
 "faster than before... Turns out people in Onu-Koro need pickaxes, who could've imagined."
 msgstr ""
 "Потому что я переехал вместе с лавкой, конечно же! Я всё ещё перевожу свои товары, хотя, "
-"наверное, чуточку быстрее, чем раньше... Как оказалось, жителям Ону-Коро нужны кирки, "
-"кто бы мог подумать."
+"наверное, чуточку быстрее, чем раньше... Как оказалось, жителям Ону-Коро нужны кирки. "
+"Кто бы мог подумать..."
 
 #. Key:	DL_KoTownSellerAbandonedLewa
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAbandonedLewa.Default__DL_KoTownSellerAbandonedLewa_C.DialogueText
@@ -12315,8 +12315,8 @@ msgid ""
 "I-I don't know, it was so fast. I remember the sound of an engine, a white flash, fire, "
 "maybe... Maybe they came from the ocean?"
 msgstr ""
-"Я... я не знаю, это прошло быстро. Я помню звук двигателя, белую вспышку, огонь, "
-"возможно... Возможно, они пришли из океана?"
+"Я... я не знаю, всё произошло очень быстро. Я помню звук двигателя, белую вспышку, "
+"огонь... Возможно... Возможно, они пришли из океана?"
 
 #. Key:	DL_KoTownSellerFixed1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixed1.Default__DL_KoTownSellerFixed1_C.DialogueText
@@ -15581,7 +15581,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerCompleteQuest.Default__DL_SadKolhiiPlayerCompleteQuest_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerCompleteQuest"
 msgid "Thank you so much for this Toa, I am forever indebted to you!"
-msgstr "Спасибо большое за это, Тоа! Я перед вами в долгу!"
+msgstr "Огромное спасибо за это, Тоа! Я перед вами в долгу!"
 
 #. Key:	DL_SadKolhiiPlayerExplain
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplain.Default__DL_SadKolhiiPlayerExplain_C.DialogueText
@@ -15593,10 +15593,10 @@ msgid ""
 "the price got raised! As much as I want to, I can't blame Ahkmou, they are in very high "
 "demand."
 msgstr ""
-"Я... Я не могу купить Комету... Я усердно работал, экономил на всём, мне даже пришлось "
-"продать свой старый мяч для Колхи, чтобы накопить достаточно! Но как только я захотел "
-"его купить, цены взлетели! Как бы я ни хотел, я не могу винить Акму – на них установлен "
-"очень высокий спрос."
+"Я... Я не могу купить Комету... Я усердно работал, экономил на всём... мне даже пришлось "
+"продать свой старый мяч для Колхи, чтобы накопить достаточно! Но как только я собрался "
+"его купить, цены взлетели! Как бы я ни хотел, я не могу винить в этом Акму – на них "
+"нынче очень высокий спрос."
 
 #. Key:	DL_SadKolhiiPlayerExplainAgain
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerExplainAgain.Default__DL_SadKolhiiPlayerExplainAgain_C.DialogueText
