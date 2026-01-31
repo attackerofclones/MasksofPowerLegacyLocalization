@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 09:56+0300\n"
+"PO-Revision-Date: 2026-01-31 13:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -192,7 +192,7 @@ msgid ""
 "it has come from. A village floating on the water can be seen in the distance, with a "
 "monument to a mask that is somehow… familiar."
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
 "Вдалеке видна деревня, стоящая на воде, а рядом с ней – монумент маске, которая "
 "кажется... весьма знакомой."
 
@@ -445,7 +445,7 @@ msgid ""
 "it has come from. The land ahead seems cold and desolate, offering a challenge of "
 "strength and will to anyone willing to travel through it."
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
 "Территория впереди кажется холодной и пустынной, предлагая испытание силы и воли для "
 "тех, кто хочет её пересечь."
 
@@ -607,7 +607,7 @@ msgid ""
 "it has come from. Lush jungle lies all around, full of potential, energy, and life. What "
 "could lie within?"
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
 "Вокруг располагаются густые джунгли, полные потенциала, энергии и жизни. Что может "
 "находиться внутри?"
 
@@ -933,7 +933,7 @@ msgid ""
 "it has come from. The land all around seems harsh and empty, but the land below is "
 "teeming with unseen life, waiting to be explored and discovered."
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
 "Земля вокруг кажется суровой и пустой, но под этой землёй кипит неведомая жизнь, "
 "ожидающая исследования и открытия."
 
@@ -1032,7 +1032,7 @@ msgid ""
 "it has come from. Canyons dotted with intricate carvings can be seen in the distance, "
 "beckoning to be explored."
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
 "Вдали виднеются каньоны, усеянные затейливой резьбой, которые манят к себе "
 "исследователей."
 
@@ -1270,8 +1270,8 @@ msgid ""
 "it has come from. A forest of burnt trees can be seen in the distance… what could lie "
 "beyond it?"
 msgstr ""
-"Странное судно, выброшенное на берег... никто на острове не знает, откуда оно взялось. "
-"Вдалеке виднеется лес сожжённых деревьев... что может скрываться за ним?"
+"Странное судно, выброшенное на берег... Никто на острове не знает, откуда оно взялось. "
+"Вдалеке виднеется лес сожжённых деревьев... Что может скрываться за ним?"
 
 #. Key:	CodexPage_TaKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_TaKini.Default__LocationEntry_TaKini_C.Location Description
@@ -1896,7 +1896,7 @@ msgstr "Турага Венуа"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man1.Default__DL_420man1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_420man1_PlayerResponse_1"
 msgid "Are you alright, you seem... Strange."
-msgstr "Ты в порядке? Ты выглядишь... Странно."
+msgstr "Ты в порядке? Ты выглядишь... странно."
 
 #. Key:	DL_420man2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_420man2.Default__DL_420man2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -1961,14 +1961,14 @@ msgstr "У тебя неплохо получается, ремесленник.
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar3.Default__DL_Akamar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar3_PlayerResponse_1"
 msgid "I... See..."
-msgstr "Всё... Ясно..."
+msgstr "Всё... ясно..."
 
 #. Key:	DL_Akamar4_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar4.Default__DL_Akamar4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Akamar4_PlayerResponse_1"
 msgid "Right... Thank you... I think."
-msgstr "Да... Спасибо... Наверное."
+msgstr "Да... спасибо... Наверное."
 
 #. Key:	DL_Akamar_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Akamar.Default__DL_Akamar_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -2322,7 +2322,7 @@ msgstr "Я ищу Маторана по имени Кохи. Мне сказал
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager2.Default__DL_BoatManager2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_BoatManager2_PlayerResponse_2"
 msgid "Your accent, it's quite different from others I've heard."
-msgstr "Твой говор... он отличается от того, с чем мне пришлось столкнуться ранее."
+msgstr "Твой говор... Он отличается от того, с чем мне пришлось столкнуться ранее."
 
 #. Key:	DL_BoatManager3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_BoatManager3.Default__DL_BoatManager3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5859,7 +5859,7 @@ msgstr "Я {G}|gender(вернулся, вернулась), Турага."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka1.Default__DL_NujuCovoKopaka1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuCovoKopaka1_PlayerResponse_1"
 msgid "That’s what I’ve been doing... is something the matter?"
-msgstr "Я это и делал... Что-то не так?"
+msgstr "Я это и делаю... Что-то не так?"
 
 #. Key:	DL_NujuCovoKopaka3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6998,7 +6998,7 @@ msgid ""
 msgstr ""
 "Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в Ко-Коро, а "
 "затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жесток по отношению к "
-"своим Маторанами?"
+"своим Маторанам?"
 
 #. Key:	DL_RacePohatuPodu2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu2.Default__DL_RacePohatuPodu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7040,7 +7040,7 @@ msgstr "Голосуй-не голосуй, всё равно я не буду �
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy6.Default__DL_RacePohatuWhy6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_RacePohatuWhy6_PlayerResponse_1"
 msgid "I’d hardly call running across a vast, empty desert “Fun.”"
-msgstr "Я вряд ли назвал бы бег вокруг огромной пустыни «весельем»."
+msgstr "Я вряд ли назвал бы бег по бескрайней и безжизненной пустыне «весельем»."
 
 #. Key:	DL_RacePohatuWhy7_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy7.Default__DL_RacePohatuWhy7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7064,8 +7064,8 @@ msgid ""
 "You mistake me for one who cares about such things. Lewa would have been a much better "
 "choice to tempt with this mindless game."
 msgstr ""
-"Ты путаешь меня с кем-то, кого волнует такое. Лева подошёл бы гораздо лучше, чтобы "
-"соблазниться такой бессмысленной игрой."
+"Ты путаешь меня с кем-то, кого заботят подобные вещи. Лева куда охотнее поддался бы на "
+"такую бессмысленную игру."
 
 #. Key:	DL_RahiAboutTemple_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/CaveTemple/DL_RahiAboutTemple.Default__DL_RahiAboutTemple_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -13161,9 +13161,9 @@ msgid ""
 "riding birds... And I even head some crazy myth once about a Ko-Matoran that could ride "
 "a Mahi! What a load of protodermis that is."
 msgstr ""
-"Ну, я слышал о Га-Маторанах, использующих огромных рыб для каких-то вещей, о Ле-"
+"Ну, я слышал о Га-Маторанах, использующих огромных рыб для каких-то вещей... о Ле-"
 "Маторанах, приручивших птиц... Я даже слышал байку о том, как Ко-Маторан смог приручить "
-"Махи! Как по мне, звучит как брехня."
+"Махи! Как по мне, звучит как брехня из протодермиса."
 
 #. Key:	DL_MatoranTransporter12
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter12.Default__DL_MatoranTransporter12_C.DialogueText
@@ -22403,7 +22403,7 @@ msgstr "В каком смысле?"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Whatisit"
 msgid "What is it?"
-msgstr "Что это?"
+msgstr "О чём идёт речь?"
 
 #. Key:	WhatYouHave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -24408,7 +24408,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_Jump.Tut_Jump.Text
 msgctxt "Tutorial_Text,Tut_Jump"
 msgid "Press <Key>{Action1}</> to jump"
-msgstr "Нажмите <Key>{Action1}</> для того, чтобы прыгнуть"
+msgstr "Нажмите <Key>{Action1}</> для прыжка"
 
 #. Key:	Tut_LookAround
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_LookAround.Tut_LookAround.Text
@@ -24469,8 +24469,8 @@ msgstr ""
 msgctxt "Tutorial_Text,Tut_NothingCanDo"
 msgid "<Makuta>You can do nothing to save them. You can do nothing to save yourself.</>"
 msgstr ""
-"<Makuta>Вы ничего не можете сделать, чтобы спасти их. Вы ничего не можете сделать, чтобы "
-"спасти себя.</>"
+"<Makuta>Вы ничего не сможете сделать, чтобы спасти их. Вы ничего не сможете сделать, "
+"чтобы спасти себя.</>"
 
 #. Key:	Tut_OpenMap
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_OpenMap.Tut_OpenMap.Text
