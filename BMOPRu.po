@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 14:52+0300\n"
+"PO-Revision-Date: 2026-01-31 15:07+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10273,7 +10273,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoCamping.Default__DL_DameoCamping_C.DialogueText
 msgctxt "Dialogue_Text,DL_DameoCamping"
 msgid "Toa! I didn't expect to see you again."
-msgstr "Тоа! Не ожидал встретить вас вновь."
+msgstr "Тоа! Не ожидал снова встретить вас."
 
 #. Key:	DL_DameoCamping1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DameoCamping1.Default__DL_DameoCamping1_C.DialogueText
@@ -11589,7 +11589,7 @@ msgid ""
 "Toa $T, It's great to see you again! I'm alright my head is a bit clearer than it was "
 "when last I saw you."
 msgstr ""
-"Тоа $T, рад вас видеть вновь! Со мной всё в порядке. В сравнении с нашей прошлой "
+"Тоа $T, рад снова вас видеть! Со мной всё в порядке. В сравнении с нашей прошлой "
 "встречей, в голове всё немного прояснилось."
 
 #. Key:	DL_KoFishSellerAbandonedLekoro1
@@ -12275,7 +12275,7 @@ msgstr "Готовьте свои кирки, готовьте своих... Т�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAbandoned1.Default__DL_KoTownSellerAbandoned1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownSellerAbandoned1"
 msgid "It's good to see you again my friend, what brings you to Onu-Koro?"
-msgstr "Рад вас видеть вновь, друг мой! Что вас привело в Ону-Коро?"
+msgstr "Рад снова вас видеть, друг мой! Что вас привело в Ону-Коро?"
 
 #. Key:	DL_KoTownSellerAbandoned2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAbandoned2.Default__DL_KoTownSellerAbandoned2_C.DialogueText
@@ -14308,7 +14308,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned1.Default__DL_NumaiAbandoned1_C.DialogueText
 msgctxt "Dialogue_Text,DL_NumaiAbandoned1"
 msgid "Nice to see you again Toa."
-msgstr "Рад вас видеть вновь, Тоа."
+msgstr "Снова рад вас видеть, Тоа."
 
 #. Key:	DL_NumaiAbandoned2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiAbandoned2.Default__DL_NumaiAbandoned2_C.DialogueText
@@ -14562,7 +14562,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn.Default__DL_OnepuReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_OnepuReturn"
 msgid "Love to chat but I'm rather busy at the moment."
-msgstr "Я бы с радостью поговорил, но я сейчас очень занят."
+msgstr "Я бы с радостью поболтал, но я сейчас очень занят."
 
 #. Key:	DL_OnepuReturn1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuReturn1.Default__DL_OnepuReturn1_C.DialogueText
@@ -15250,10 +15250,10 @@ msgid ""
 "impossible. Tarakava don't live in Po-Wahi, and this is much too far from anywhere they "
 "WOULD live! I suppose it could be the fabled Sand-Tarakava, but those are just a myth..."
 msgstr ""
-"Один из стражников подумал, что увидел Таракаву, покидающую пределы По-Коро, но это "
-"невозможно. Таракавы не живут в По-Вахи, да и это далеко от мест, где они МОГУТ обитать! "
-"Я полагаю, что это может быть легендарный Песчаный Таракава, но они существуют лишь в "
-"мифах..."
+"Один из стражников подумал, что увидел Таракаву, удаляющуюся от По-Коро... но это "
+"невозможно. Таракавы не водятся в По-Вахи, да и это далеко от мест, где они МОГУТ "
+"обитать! Я полагаю, что это может быть легендарный Песчаный Таракава, но они существуют "
+"лишь в мифах..."
 
 #. Key:	DL_PotMakerWhatHappened4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_PotMakerWhatHappened4.Default__DL_PotMakerWhatHappened4_C.DialogueText
@@ -17014,7 +17014,7 @@ msgid ""
 "legend standith before me!"
 msgstr ""
 "Ааа! Вы чуть было не лишили меня о-сознания! До сих пор не могу поверить, что предо мною "
-"стоит легендарный Тоа!"
+"стоит Я же {G}|gender(легендарный, легендарная) Тоа!"
 
 #. Key:	DL_Talok5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok5.Default__DL_Talok5_C.DialogueText
@@ -17998,7 +17998,7 @@ msgid ""
 "don't have one, we do have the next best thing, a Toa of legend."
 msgstr ""
 "Да. Впрочем, такие вопросы обычно считаются обязанностями Тураги. Хотя у нас его нет, у "
-"нас есть не менее важная личность – легендарный Тоа."
+"нас есть не менее важная личность – Я же {G}|gender(легендарный, легендарная) Тоа."
 
 #. Key:	DL_WhagnaMeeting_Parhi19
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi19.Default__DL_WhagnaMeeting_Parhi19_C.DialogueText
