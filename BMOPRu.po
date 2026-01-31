@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 15:53+0300\n"
+"PO-Revision-Date: 2026-01-31 20:02+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -3385,14 +3385,14 @@ msgstr "Не бойся, я тебя не трону!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2_2.Default__DL_InsaneMatoran2_2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_InsaneMatoran2_2_PlayerResponse_1"
 msgid "Wait, I'm not lying!!"
-msgstr "Постой, я не вру!!"
+msgstr "Постой, я не вру!!!"
 
 #. Key:	DL_InsaneMatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2.Default__DL_InsaneMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2.Default__DL_InsaneMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_InsaneMatoran2_PlayerResponse_1"
 msgid "Wait, I'm not lying!!"
-msgstr "Постой, я не вру!!"
+msgstr "Постой, я не вру!!!"
 
 #. Key:	DL_Jala1_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_Jala1.Default__DL_Jala1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -11069,35 +11069,35 @@ msgstr "Импортные растения, Харакеке, Бамбук и �
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran1.Default__DL_InsaneMatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_InsaneMatoran1"
 msgid "AHHH!? A... A Toa?! NO! You're not supposed to be here!!"
-msgstr "АААА!? Т... Тоа?! НЕТ! Тебя не должно тут быть!!"
+msgstr "АААА!? Т... Тоа?! НЕТ! Тебя не должно тут быть!!!"
 
 #. Key:	DL_InsaneMatoran1_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran1_2.Default__DL_InsaneMatoran1_2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran1_2.Default__DL_InsaneMatoran1_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_InsaneMatoran1_2"
 msgid "AHHH!? A... A Toa?! NO! You're not supposed to be here!!"
-msgstr "АААА!? Т... Тоа?! НЕТ! Тебя не должно тут быть!!"
+msgstr "АААА!? Т... Тоа?! НЕТ! Тебя не должно тут быть!!!"
 
 #. Key:	DL_InsaneMatoran2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2.Default__DL_InsaneMatoran2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2.Default__DL_InsaneMatoran2_C.DialogueText
 msgctxt "Dialogue_Text,DL_InsaneMatoran2"
 msgid "LIAR!! Yes, they always lie. You won't get me that easily Toa!!"
-msgstr "ВРЁШЬ!! Да, они всегда врут. Тебе так просто меня не достать, Тоа!!"
+msgstr "ВРЁШЬ!!! Да, они всегда врут... Тебе так просто меня не достать, Тоа!!!"
 
 #. Key:	DL_InsaneMatoran2_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2_2.Default__DL_InsaneMatoran2_2_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoran2_2.Default__DL_InsaneMatoran2_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_InsaneMatoran2_2"
 msgid "LAIR!! Yes, they always lie. You won't get me that easily Toa!!"
-msgstr "ВРЁШЬ!! Да, они всегда врут. Тебе так просто меня не достать, Тоа!!"
+msgstr "ВРЁШЬ!!! Да, они всегда врут... Тебе так просто меня не достать, Тоа!!!"
 
 #. Key:	DL_InsaneMatoranGetAway
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoranGetAway.Default__DL_InsaneMatoranGetAway_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/DL_InsaneMatoranGetAway.Default__DL_InsaneMatoranGetAway_C.DialogueText
 msgctxt "Dialogue_Text,DL_InsaneMatoranGetAway"
 msgid "Get away from me!! Makuta help me!"
-msgstr "Уйди от меня!! Макута, спаси меня!"
+msgstr "Уйди от меня!!! Макута, спаси меня!"
 
 #. Key:	DL_Jala1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_Jala1.Default__DL_Jala1_C.DialogueText
@@ -23612,7 +23612,7 @@ msgstr "Нуи-Джага Ахи"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LavaTarakava"
 msgid "Poak Tarakava"
-msgstr "Таракава Пок"
+msgstr "Лавовая Таракава"
 
 #. Key:	Names_Le-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
