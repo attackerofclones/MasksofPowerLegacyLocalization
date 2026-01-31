@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-01-31 15:36+0300\n"
+"PO-Revision-Date: 2026-01-31 15:43+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -1820,7 +1820,7 @@ msgstr "Святилище Та-Вахи"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_TealTarakava"
 msgid "River Tarakava"
-msgstr "Речной Таракава"
+msgstr "Речная Таракава"
 
 #. Key:	CodexPage_Telescope
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Telescope.Default__LocationEntry_Telescope_C.Location Name
@@ -15252,7 +15252,7 @@ msgid ""
 msgstr ""
 "Один из стражников подумал, что увидел Таракаву, удаляющуюся от По-Коро... но это "
 "невозможно. Таракавы не водятся в По-Вахи, да и это далеко от мест, где они МОГУТ "
-"обитать! Я полагаю, что это может быть легендарный Песчаный Таракава, но они существуют "
+"обитать! Я полагаю, что это может быть легендарная Песчаная Таракава, но они существуют "
 "лишь в мифах..."
 
 #. Key:	DL_PotMakerWhatHappened4
@@ -22139,7 +22139,7 @@ msgstr "Странно. Видимо, не оползень перекрыл в�
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,TarakavaOfFrost_Line2"
 msgid "That's one huge Tarakava!"
-msgstr "Это здоровенный Таракава!"
+msgstr "Это здоровенная Таракава!"
 
 #. Key:	TarakavaOfFrost_Line3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -23612,7 +23612,7 @@ msgstr "Нуи-Джага Ахи"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LavaTarakava"
 msgid "Poak Tarakava"
-msgstr "Лавовый Таракава"
+msgstr "Лавовая Таракава"
 
 #. Key:	Names_Le-Matoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24025,7 +24025,7 @@ msgstr "Река"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_RiverTarakava"
 msgid "River Tarakava"
-msgstr "Речной Таракава"
+msgstr "Речная Таракава"
 
 #. Key:	Names_RukiFish
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24046,7 +24046,7 @@ msgstr "Руру"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_SandTarakava"
 msgid "Sand Tarakava"
-msgstr "Песчаный Таракава"
+msgstr "Песчаная Таракава"
 
 #. Key:	Names_ScaredMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
