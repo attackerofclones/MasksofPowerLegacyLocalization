@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-02 11:02+0300\n"
+"PO-Revision-Date: 2026-02-02 11:07+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -13283,7 +13283,7 @@ msgid ""
 "one can survive in there for long..."
 msgstr ""
 "Да, если не затруднит. Я волнуюсь за его безопасность, ведь снежные барханы – место "
-"жёсткое и опасное, там никто не сможет продержаться так долго..."
+"суровое и опасное, там никто не сможет продержаться очень долго..."
 
 #. Key:	DL_Matoro5
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Quests/NujuQuest/DL_Matoro5.Default__DL_Matoro5_C.DialogueText
