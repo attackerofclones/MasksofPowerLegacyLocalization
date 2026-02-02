@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-01 14:56+0300\n"
+"PO-Revision-Date: 2026-02-02 10:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12073,8 +12073,8 @@ msgid ""
 "Well, I was trying to melt down the tools we found, and even with my furnace as hot as "
 "it could go they still weren't begining to."
 msgstr ""
-"Ну, я попытался расплавить найденные нами инструменты, но даже в моей раскалённой до "
-"предела печи они по-прежнему не поддавались."
+"Ну, я попытался расплавить найденные нами инструменты, но даже в моей раскалённой "
+"докрасна печи они по-прежнему не поддавались."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered4.Default__DL_KoTownKohiProtosteelDiscovered4_C.DialogueText
@@ -15776,7 +15776,7 @@ msgstr "Ну... да, так было записано в бланке зака�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvoWho.Default__DL_ScaredConvoWho_C.DialogueText
 msgctxt "Dialogue_Text,DL_ScaredConvoWho"
 msgid "WHAT DO YOU MEAN? Omak didn't send you? Gah!"
-msgstr "В СМЫСЛЕ? Вас прислал не Омак? Блин!"
+msgstr "В СМЫСЛЕ!? Вас прислал не Омак? АААААА, БЛИН!"
 
 #. Key:	DL_Scholar1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_Scholar1.Default__DL_Scholar1_C.DialogueText
@@ -18488,7 +18488,7 @@ msgid ""
 "Fair enough I suppose... though if you ever have a change of appetite you know the "
 "salesman to buy from!"
 msgstr ""
-"Справедливо, я полагаю... но если у вас разыграется аппетит, то вы знаете у кого нужно "
+"Справедливо, я полагаю... но если у вас разыграется аппетит, то вы знаете, у кого нужно "
 "покупать!"
 
 #. Key:	Engine_ProjectDisplayTitle
