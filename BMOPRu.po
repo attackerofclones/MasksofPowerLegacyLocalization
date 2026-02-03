@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-02 12:43+0300\n"
+"PO-Revision-Date: 2026-02-03 11:11+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5859,14 +5859,14 @@ msgstr "Я {G}|gender(вернулся, вернулась), Турага."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka1.Default__DL_NujuCovoKopaka1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuCovoKopaka1_PlayerResponse_1"
 msgid "That’s what I’ve been doing... is something the matter?"
-msgstr "Я это и делаю... Что-то не так?"
+msgstr "Я этим и занимаюсь... Что-то не так?"
 
 #. Key:	DL_NujuCovoKopaka3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoKopaka3.Default__DL_NujuCovoKopaka3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NujuCovoKopaka3_PlayerResponse_1"
 msgid "Hmph. Very well."
-msgstr "Хмпф. Ну ладно."
+msgstr "*Хмпф* Ну ладно."
 
 #. Key:	DL_NujuCovoSafe_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kini/DL_NujuCovoSafe.Default__DL_NujuCovoSafe_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5971,7 +5971,7 @@ msgstr "Ты на меня обижен?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_NumaiFixed2.Default__DL_NumaiFixed2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NumaiFixed2_PlayerResponse_1"
 msgid "That is true, but I stand by my decision."
-msgstr "Это верно, но я буду при своём мнении."
+msgstr "Это верно, но я останусь при своём мнении."
 
 #. Key:	DL_Nuparu1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Nuparu1.Default__DL_Nuparu1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -16632,7 +16632,7 @@ msgid ""
 "Huff - Of course I knew that! You... You really shouldn't sneak up on someone like that "
 "Toa."
 msgstr ""
-"Хмпф! Конечно я знала об этом! Вам... Вам действительно не стоит вот так подкрадываться "
+"*Хмпф* Конечно я знала об этом! Вам... Вам действительно не стоит вот так подкрадываться "
 "к другим, Тоа."
 
 #. Key:	DL_TafallQuestion
@@ -17530,7 +17530,8 @@ msgstr "Ваше время подошло к концу, Тоа. Вы наве�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta3.Default__DL_TutCorruptedMakuta3_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutCorruptedMakuta3"
 msgid "Hmph. If you cannot see your own destiny, then perhaps I will need to show you."
-msgstr "Хмпф. Если вы не можете увидеть свою судьбу, то… может, мне стоит вам её показать."
+msgstr ""
+"*Хмпф* Если вы не можете увидеть свою судьбу, то… может, мне стоит вам её показать."
 
 #. Key:	DL_TutFinalDialouge1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutFinalDialouge1.Default__DL_TutFinalDialouge1_C.DialogueText
@@ -17702,7 +17703,7 @@ msgid ""
 "Hmm, you don't have a map? I remember giving you one... Hmpf, very well - I can give you "
 "my spare, it's only for Ta-wahi but It may help."
 msgstr ""
-"Хмм, у тебя нет карты? Я помню, что давал тебе одну... Хмпф, ну да ладно – я могу дать "
+"Хмм, у тебя нет карты? Я помню, что давал тебе одну... *Хмпф* Ну да ладно, я могу дать "
 "запасную. На ней только Та-Вахи, но это может помочь."
 
 #. Key:	DL_VakamaBeforeRescueWhatDo
@@ -18178,8 +18179,8 @@ msgid ""
 "respect for your Turaga, but apparently not. Why, back in my prime I would have- ...oh, "
 "never mind. Please just help me down!"
 msgstr ""
-"Хмпф. Предполагаю, ты думаешь, что это смешно? Я уж надеялся, что у Тоа вроде тебя будет "
-"куда больше уважения к Турагам, но нет. А вот в моё время было... ладно, проехали. "
+"*Хмпф* Предполагаю, ты думаешь, что это смешно? Я уж надеялся, что у Тоа вроде тебя "
+"будет куда больше уважения к Турагам, но нет. А вот в моё время было... ладно, проехали. "
 "Пожалуйста, просто помоги мне спуститься!"
 
 #. Key:	DL_WhenuaKoro
@@ -18251,11 +18252,11 @@ msgid ""
 "temple, preventing us from burrowing into the temple from below again. It was a great "
 "convenience which is, unfortunately, lost."
 msgstr ""
-"Как ты можешь видеть с нашей великой шахтой, фрагменты туннелей Ону-Вахи стали куда "
-"менее стабильными, чем раньше. Обвалы стали происходить гораздо чаще, что даже начало "
-"оказывать влияние на поверхность. По-видимому, эти толчки повлияли на храм Ону-Кини, что "
-"снова лишает нас возможности попасть в храм снизу. Это было большое удобство, которого "
-"мы, к сожалению, лишились."
+"Как ты мог заметить по нашей великой шахте, фрагменты туннелей Ону-Вахи стали куда менее "
+"стабильными, чем раньше. Обвалы происходят гораздо чаще, что даже начало сказываться на "
+"поверхности. По-видимому, эти толчки затронули и храм Ону-Кини, что снова лишает нас "
+"возможности прорваться туда снизу. Это было большим удобством, которого мы, к сожалению, "
+"лишились."
 
 #. Key:	DL_WhenuaOnua3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua3.Default__DL_WhenuaOnua3_C.DialogueText
@@ -18268,8 +18269,8 @@ msgid ""
 "caused."
 msgstr ""
 "Ты не... Ой! Прошу прощения, Онуа. Мы ранее пытались попасть в Ону-Кини другими "
-"методами, дабы попытаться избежать угроз Макуты. ...Всё в рамках подготовки к твоему "
-"прибытию. Я извиняюсь за... любую возможную путаницу, которую я мог допустить."
+"методами, стремясь избежать угроз Макуты. ...Всё в рамках подготовки к твоему прибытию. "
+"Извиняюсь за... то, что мог ввести тебя в заблуждение."
 
 #. Key:	DL_WhenuaOnua4real
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua4real.Default__DL_WhenuaOnua4real_C.DialogueText
