@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-04 20:25+0300\n"
+"PO-Revision-Date: 2026-02-04 20:32+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18716,7 +18716,7 @@ msgid ""
 "$M."
 msgstr ""
 "Небольшое устройство, созданное Метону по чертежам Нупару. Оно позволит найти ближайшую "
-"маску следующего типа: $M."
+"маску Канохи следующего типа: $M."
 
 #. Key:	Item_MaskLocator_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_MaskLocator.Item_MaskLocator.Description
