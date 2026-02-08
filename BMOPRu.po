@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-04 20:32+0300\n"
+"PO-Revision-Date: 2026-02-08 10:24+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -26151,7 +26151,7 @@ msgid ""
 "the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая странным чёрным веществом. Материал на поверхности маски "
-"медленно пульсирует, и как будто дышит... "
+"медленно пульсирует, словно дышит... "
 
 #. Key:	Cosmetics_CopperMask_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
@@ -26220,7 +26220,7 @@ msgid ""
 "This strange orange ball may fit over your mask. Perhaps it will give you unspoken "
 "powers if you wear it?"
 msgstr ""
-"Этот странный оранжевый шар может налезть на вашу маску. Возможно, он даст какие-то "
+"Этот странный оранжевый шар может налезть на вашу маску. Быть может, он даст какие-то "
 "немыслимые силы при надевании?"
 
 #. Key:	Cosmetics_MaskOfTime_Description
