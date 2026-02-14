@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-12 19:19+0300\n"
+"PO-Revision-Date: 2026-02-14 11:39+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -90,11 +90,12 @@ msgid ""
 "which are known to attack travellers who make their way through. Make sure to exercise "
 "caution if you choose to make your way through."
 msgstr ""
-"Снежные барханы Ко-Вахи – один из самых суровых и опасных районов Ко-Вахи. Сильный ветер "
-"и обильный снег снижают видимость практически до нуля. Некоторые Матораны используют "
-"флаги для того, чтобы проложить маршрут через заснеженные районы. Но даже в таком случае "
-"вам нужно остерегаться Рахи, которые могут напасть на неудачливых путешественников, "
-"проходящих через этот район. Если вы всё же отважитесь пройти, будьте очень внимательны."
+"Снежные барханы Ко-Вахи – один из самых суровых и опасных районов этого региона. Сильный "
+"ветер и обильный снег снижают видимость практически до нуля. Некоторые Матораны "
+"используют флаги для того, чтобы проложить маршрут через заснеженные районы. Но даже в "
+"таком случае вам нужно остерегаться Рахи, которые могут напасть на неудачливых "
+"путешественников, проходящих через этот район. Если вы всё же отважитесь пройти, будьте "
+"очень внимательны."
 
 #. Key:	CodexPage_FikouNui_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_FikouNui.Default__LocationEntry_FikouNui_C.Location Description
@@ -124,7 +125,7 @@ msgid ""
 msgstr ""
 "Скорпионообразные Рахи, управляемые Макутой. Красную их разновидность можно встретить "
 "преимущественно в Та-Вахи. Они больше стандартных Нуи-Джаг и способны ходить по лаве, "
-"что усложняет побег от них. Особенно если они вас заметили."
+"что усложняет побег от них... особенно если они вас заметили."
 
 #. Key:	CodexPage_GaKini_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_GaKini.Default__LocationEntry_GaKini_C.Location Description
@@ -272,7 +273,7 @@ msgid ""
 msgstr ""
 "Канохи Хуна: Благородная Маска Невидимости. Эта маска позволит вам стать невидимым и "
 "поможет пройти мимо Рахи без сражения с ними. Это полезная маска для тех случаев, когда "
-"вы хотите избежать сражений или быстро прекратить их."
+"вы хотите избежать сражений или быстро выйти из них."
 
 #. Key:	CodexPage_IceNuiJaga_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_IceNuiJaga.Default__LocationEntry_IceNuiJaga_C.Location Description
@@ -286,7 +287,7 @@ msgid ""
 "them all."
 msgstr ""
 "Скорпионообразные Рахи, управляемые Макутой. Белую их разновидность можно найти "
-"преимущественно в Ко-Вахи. Хотя они появляются не очень часто, они, как правило, "
+"преимущественно в Ко-Вахи. Хотя они встречаются не очень часто, они, как правило, "
 "появляются в достаточно больших стаях. Если вы увидели их стаю, будьте готовы "
 "разобраться со всеми."
 
@@ -532,9 +533,9 @@ msgid ""
 msgstr ""
 "Ле-Коро – деревня Воздуха. Сооружённая на деревьях высоко над землёй, деревня позволяет "
 "Ле-Маторанам жить на воздухе – в месте, где они чувствуют себя как дома. Также это "
-"обеспечивает защиту от наземных Рахи, но она остаётся уязвимой к летающим Рахи, вроде "
-"Нуи-Рамы. Лифт, ведущий от деревни до озера Канае, обеспечивает доступ в деревню для "
-"других Маторанов. Весёлый и озорной дух Ле-Маторанов становится очевиден в процессе "
+"обеспечивает защиту от наземных Рахи, однако она остаётся уязвимой к летающим Рахи, "
+"вроде Нуи-Рамы. Лифт, ведущий от деревни до озера Канае, обеспечивает доступ в деревню "
+"для других Маторанов. Весёлый и озорной дух Ле-Маторанов становится очевиден в процессе "
 "времяпрепровождения в их деревне. Также с деревьев нередко можно услышать их музыку."
 
 #. Key:	CodexPage_LeTemple_Desc
@@ -550,10 +551,10 @@ msgid ""
 "and reflective nature of the Le-Matoran."
 msgstr ""
 "Этот храм был построен Ле-Маторанами не без помощи нескольких Ону-Маторанов. По решению "
-"Ле-Маторанов, храм был сооружён под землёй вдали от их дома – Ле-Коро. Хотя они "
-"чувствуют себя как дома в воздухе, этот подземный храм не давал практически никаких "
-"возможностей отвлечься от поклонения Мата Нуи. Пещера является олицетворением на "
-"редкость тихой и задумчивой природы Ле-Маторанов."
+"Ле-Маторанов храм был сооружён под землёй вдали от их дома – Ле-Коро. Хотя они чувствуют "
+"себя как дома в воздухе, этот подземный храм не давал практически никаких возможностей "
+"отвлечься от поклонения Мата Нуи. Пещера является олицетворением на редкость тихой и "
+"задумчивой природы Ле-Маторанов."
 
 #. Key:	CodexPage_Lewa_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Lewa.Default__LocationEntry_Lewa_C.Location Description
@@ -8890,7 +8891,7 @@ msgstr "Нет, спасибо."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta1.Default__DL_TutCorruptedMakuta1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TutCorruptedMakuta1_PlayerResponse_1"
 msgid "Stop this madness, Makuta!"
-msgstr "Останови это безумие, Макута!"
+msgstr "Прекрати это безумие, Макута!"
 
 #. Key:	DL_TutCorruptedMakuta2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta2.Default__DL_TutCorruptedMakuta2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -10839,7 +10840,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_GuardPickingSheildsTahu.Default__DL_GuardPickingSheildsTahu_C.DialogueText
 msgctxt "Dialogue_Text,DL_GuardPickingSheildsTahu"
 msgid "Wait what? I thought these where shields! Why do they all have to look the same!"
-msgstr "Чего? Я думал, что это щиты! Почему они все должны выглядеть одинаково!?"
+msgstr "Чего? Я думал, что это щиты! Почему они выглядят так одинаково!?"
 
 #. Key:	DL_Hahli1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_Hahli1.Default__DL_Hahli1_C.DialogueText
@@ -17516,7 +17517,7 @@ msgstr "Да, конечно!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta1.Default__DL_TutCorruptedMakuta1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TutCorruptedMakuta1"
 msgid "I believe that this has gone on long enough."
-msgstr "Я думаю, что это несколько подзатянулось."
+msgstr "Мне кажется, что это несколько подзатянулось."
 
 #. Key:	DL_TutCorruptedMakuta2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Tutorial/DL_TutCorruptedMakuta2.Default__DL_TutCorruptedMakuta2_C.DialogueText
@@ -18522,7 +18523,7 @@ msgid ""
 "The hypnotising material on the surface of the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая неким чёрным веществом. Она в трещинах и не функционирует. "
-"Завораживающий материал на поверхности маски медленно пульсирует, как будто дышит... "
+"Завораживающий материал на поверхности маски медленно пульсирует, словно дышит... "
 
 #. Key:	Item_BrothersNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
@@ -20652,7 +20653,7 @@ msgid ""
 "careful."
 msgstr ""
 "Странный Маторан направил вас в сторону холодной и зловещей пещеры на южном склоне "
-"вулкана Мангаи. Он сказал, что видел, как туда входит Тоа, но никогда не выходит; Лучше "
+"вулкана Мангаи. Он сказал, что видел, как туда входит Тоа, но никогда не выходит; лучше "
 "быть осторожным."
 
 #. Key:	Quest_Protosteel_Desc
@@ -25986,7 +25987,7 @@ msgid ""
 msgstr ""
 "<Key>Мы в Team Kanohi благодарим вас за то, что вы сыграли в нашу игру!</>\r\n"
 "\r\n"
-"<Key>Маски Силы находились в разработке более 6 лет.</>\r\n"
+"<Key>«Маски Силы» находились в разработке более 6 лет.</>\r\n"
 "<Key>Спасибо, что были с нами всё это время, мы надеемся, что вам понравилось, и вы с "
 "нетерпением ждёте наших новых проектов!</>\r\n"
 "\r\n"
@@ -26177,7 +26178,7 @@ msgstr ""
 #: [Script Bytecode]
 msgctxt "UIText_Description_Cosmetics,Cosmetics_FestiveHat_Description"
 msgid "A Naming day hat given to you during the festivities."
-msgstr "Шапка со дня Именин, врученная вам по случаю праздника."
+msgstr "Шапка со дня Именин, вручённая вам по случаю праздника."
 
 #. Key:	Cosmetics_GoldMasks_Description
 #. SourceLocation:	/Game/BluePrints/UI/CosmeticButton.CosmeticButton_C:ExecuteUbergraph_CosmeticButton [Script Bytecode]
