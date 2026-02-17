@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-14 11:52+0300\n"
+"PO-Revision-Date: 2026-02-17 14:44+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -91,7 +91,7 @@ msgid ""
 "caution if you choose to make your way through."
 msgstr ""
 "Снежные барханы Ко-Вахи – один из самых суровых и опасных районов этого региона. Сильный "
-"ветер и обильный снег снижают видимость практически до нуля. Некоторые Матораны "
+"ветер и обильный снег снижают видимость практически до нуля. Некоторые матораны "
 "используют флаги для того, чтобы проложить маршрут через заснеженные районы. Но даже в "
 "таком случае вам нужно остерегаться Рахи, которые могут напасть на неудачливых "
 "путешественников, проходящих через этот район. Если вы всё же отважитесь пройти, будьте "
@@ -363,7 +363,7 @@ msgid ""
 "hidden in the other Kinis across the island."
 msgstr ""
 "Кини-Нуи – великий храм Мата Нуи. Он считается священным и особенным местом, хранящим "
-"высокую духовную ценность для Маторанов. Но он также имеет и более злое предназначение, "
+"высокую духовную ценность для маторанов. Но он также имеет и более злое предназначение, "
 "служа входом в Мангайю – логово Макуты. Вход в Мангайю можно открыть только при наличии "
 "всех шести камней Макоки, спрятанных в других Кини по всему острову."
 
@@ -396,7 +396,7 @@ msgid ""
 "sacred building which houses prophecies as well as those who seek to decipher them."
 msgstr ""
 "Ко-Коро – деревня Льда. Жёсткий климат и удалённое расположение делают её "
-"труднодосягаемой даже для самых отважных Маторанов. Но тех, кто всё же решится, ждёт не "
+"труднодосягаемой даже для самых отважных маторанов. Но тех, кто всё же решится, ждёт не "
 "очень много достопримечательностей. Тихий, созерцательный характер Ко-Маторанов "
 "проявляется и в скудности их деревни. Им нужно немного для собственного благополучия, а "
 "своё уединение они используют для размышлений о воле Великого Духа в Санктуме – "
@@ -1596,7 +1596,7 @@ msgstr "Канистра Копаки"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_KoTower"
 msgid "The Cold Tower"
-msgstr "Холодная Башня"
+msgstr "Башня Холода"
 
 #. Key:	CodexPage_KoWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location Name
@@ -2079,7 +2079,7 @@ msgstr "Не за что."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran.Default__DL_Allknowingmatoran_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Allknowingmatoran_PlayerResponse_1"
 msgid "Me? I don't believe we've met."
-msgstr "Я? Не думаю, что мы встречались."
+msgstr "Меня? Не думаю, что мы встречались."
 
 #. Key:	DL_Allknowingmatoran_ThanksForSavingHim_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_ThanksForSavingHim.Default__DL_Allknowingmatoran_ThanksForSavingHim_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9801,7 +9801,7 @@ msgstr "Ммм хмм… Где же камни Великого Духа?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFOddMatoran.Default__DL_Allknowingmatoran_WDYFOddMatoran_C.DialogueText
 msgctxt "Dialogue_Text,DL_Allknowingmatoran_WDYFOddMatoran"
 msgid "Really? Hmm, did he say anything that stood out to you?"
-msgstr "Серьёзно? Хмм, сказал ли он что-то, что вас заинтересовало?"
+msgstr "Серьёзно? Хмм... сказал ли он что-то, что вас заинтересовало?"
 
 #. Key:	DL_Allknowingmatoran_WDYFStones
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_WDYFStones.Default__DL_Allknowingmatoran_WDYFStones_C.DialogueText
@@ -20799,7 +20799,7 @@ msgstr "Охота на Комету"
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.QuestName
 msgctxt "Quest_Name,Quest_DangerOnTheHorizon"
 msgid "Danger On The Horizon"
-msgstr "Опасность на Горизонте"
+msgstr "Опасность на горизонте"
 
 #. Key:	Quest_FindKumo
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.QuestName
@@ -21107,7 +21107,7 @@ msgstr "Примите вызов."
 #: /Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Challange_Objective_3"
 msgid "Beat Pohatu to Po-koro."
-msgstr "Обгоните Похату до По-Коро."
+msgstr "Обгоните Похату в гонке до По-Коро."
 
 #. Key:	Quest_CometHunt_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CometHunt.Default__Quest_CometHunt_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21558,21 +21558,21 @@ msgstr "Доложите Дамео."
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_1"
 msgid "Find Mask"
-msgstr "Найдите Маску."
+msgstr "Найдите маску."
 
 #. Key:	Quest_TheToaOfFire1_Objective_2
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_2"
 msgid "Pick Up Mask"
-msgstr "Подберите Маску."
+msgstr "Подберите маску."
 
 #. Key:	Quest_TheToaOfFire1_Objective_3
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 #: /Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(2).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_TheToaOfFire1_Objective_3"
 msgid "Use Mask Power"
-msgstr "Используйте Силу Маски."
+msgstr "Используйте силу маски."
 
 #. Key:	Quest_TheToaOfFire1_Objective_4
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Objectives(3).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -23004,7 +23004,7 @@ msgstr "Выход"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIResettoDefault"
 msgid "Reset to Default"
-msgstr "Сбросить к Стандартным"
+msgstr "Сбросить к стандартным"
 
 #. Key:	UISaveGame
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23032,7 +23032,7 @@ msgstr "Сохранения"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UIScroll"
 msgid "Scroll Wheel"
-msgstr "Колесо Мыши"
+msgstr "Колесо мыши"
 
 #. Key:	UISelect
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23053,7 +23053,7 @@ msgstr "Настройки"
 #: /Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
 msgctxt "ST_Localization,UITriggersLR"
 msgid "Left & Right Triggers"
-msgstr "Левый и Правый Триггеры"
+msgstr "Левый и правый триггеры"
 
 #. Key:	UIUnlimited
 #. SourceLocation:	/Game/BluePrints/UI/ST_UILocalization.ST_UILocalization
@@ -23158,7 +23158,7 @@ msgstr "Лодка"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_CandleSalesman"
 msgid "Candle Salesman"
-msgstr "Продавец Свеч"
+msgstr "Продавец свеч"
 
 #. Key:	Names_CanyonNui-Jaga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23270,7 +23270,7 @@ msgstr "Гали"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Grinch"
 msgid "Not Very Festive Ko-Matoran"
-msgstr "Не очень Весёлый Ко-Маторан"
+msgstr "Не очень весёлый Ко-Маторан"
 
 #. Key:	Names_GuardsmanIn-Training
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23291,7 +23291,7 @@ msgstr "Хали"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_HallucinatingLe-Matoran"
 msgid "Hallucinating Le-Matoran"
-msgstr "Глючащий Ле-Маторан"
+msgstr "Галлюцинирующий Ле-Маторан"
 
 #. Key:	Names_Harek
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23641,7 +23641,7 @@ msgstr "Лифт в Ле-Коро"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_LeElevatorGround"
 msgid "The Elevator to The Ground"
-msgstr "Лифт на Поверхность"
+msgstr "Лифт на поверхность"
 
 #. Key:	Names_LeKini
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -23753,7 +23753,7 @@ msgstr "Маторо"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_MeditationPoint"
 msgid "Meditation Point"
-msgstr "Точка Медитации"
+msgstr "Точка медитации"
 
 #. Key:	Names_Metonu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24089,7 +24089,7 @@ msgstr "Инспектор участка Кива"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_StatueSalesman"
 msgid "Statue Salesman"
-msgstr "Продавец Статуэток"
+msgstr "Продавец статуэток"
 
 #. Key:	Names_StrangeMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
