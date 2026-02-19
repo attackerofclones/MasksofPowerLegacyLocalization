@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-17 14:44+0300\n"
+"PO-Revision-Date: 2026-02-19 11:56+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12988,8 +12988,8 @@ msgid ""
 "of being trap-stuck up here."
 msgstr ""
 "Ну... нет. Пока ты тут стоишь внизу, может, придумаешь способ сбить-спустить меня "
-"отсюда? Без разницы как именно ты это сделаешь – мне просто надоело находиться в такой "
-"вот ловушке."
+"отсюда? Без разницы как именно ты это сделаешь – мне просто надоело находиться наверху в "
+"такой вот ловушке."
 
 #. Key:	DL_MatauInTreeHow
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Turaga/DL_MatauInTreeHow.Default__DL_MatauInTreeHow_C.DialogueText
@@ -12999,7 +12999,7 @@ msgid ""
 "Well, I was headed home from... eh... something- when two Nui-Rama quick-snatched me and "
 "threw me up into this tree!"
 msgstr ""
-"Ну, я направлялся домой с... эм... чего-то там, как вдруг две Нуи-Рамы быстро схватили "
+"Ну, я направлялся домой с... ээээ... чего-то там, как вдруг две Нуи-Рамы быстро схватили "
 "меня и забросили на это дерево!"
 
 #. Key:	DL_MatauKoro
@@ -14588,7 +14588,7 @@ msgid ""
 "temporary leader of Onu-Koro, not a great position for myself."
 msgstr ""
 "Вы спасли мою репутацию путём спасения Тураги! Я был бы известен как самый неудачный "
-"и.о. главы Ону-Коро, не совсем хорошая позиция для меня."
+"врио главы Ону-Коро, не совсем хорошая позиция для меня."
 
 #. Key:	DL_OnepuWhere
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_OnepuWhere.Default__DL_OnepuWhere_C.DialogueText
@@ -16400,7 +16400,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster.Default__DL_StaffSellerQuartermaster_C.DialogueText
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermaster"
 msgid "Oh dear, how wrong?"
-msgstr "О боже, насколько не так?"
+msgstr "О боже... насколько не так?"
 
 #. Key:	DL_StaffSellerQuartermaster2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster2.Default__DL_StaffSellerQuartermaster2_C.DialogueText
@@ -16468,7 +16468,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_StaffSellerQuartermasterRewardQuestion"
 msgid "Well, I suppose I could reward you with a large sum of widgets, would that suffice?"
 msgstr ""
-"Ну, я полагаю, что смогу вознаградить вас крупной суммой виджетов, этого будет "
+"Ну, я полагаю, что смогу вознаградить вас крупной суммой виджетов. Этого будет "
 "достаточно?"
 
 #. Key:	DL_StatueCarver1
@@ -16516,7 +16516,7 @@ msgid ""
 "have to stand still for... A few hours... or days..."
 msgstr ""
 "Я знал, что вам понравится! Так, а пока вы здесь, вы можете стать моделью для меня! Вам "
-"лишь следует стоять неподвижно в течение... Нескольких часов... или дней..."
+"лишь следует стоять неподвижно в течение... нескольких часов... или дней..."
 
 #. Key:	DL_StatueSeller
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_StatueSeller.Default__DL_StatueSeller_C.DialogueText
@@ -16838,9 +16838,9 @@ msgid ""
 "day he said, \"I Practice.\" and after I pressed him on it he said, \"I Practice in the "
 "Charred forest, where the Makuta has blinded himeself.\" no idea what that means."
 msgstr ""
-"Ну, я с ним вчера беседовал и всё, что он сказал на вопрос о том, чем он занимается, «Я "
-"практикуюсь.». Но, как следует надавив на него, он сказал: «Я практикуюсь в Сожжённом "
-"Лесу, где Макута ослепил себя.». Я так и не понял, что всё это значит."
+"Ну, я с ним вчера беседовал и всё, что он сказал на вопрос о том, чем он занимается – «я "
+"практикуюсь». Но затем, как следует надавив на него, он сказал: «Я практикуюсь в "
+"Сожжённом Лесу, где Макута ослепил себя». Я так и не понял, что всё это значит..."
 
 #. Key:	DL_TakoroGuardResponse4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse4.Default__DL_TakoroGuardResponse4_C.DialogueText
@@ -26271,7 +26271,7 @@ msgstr ""
 msgctxt "UIText_Description_Cosmetics,Cosmetics_VeryCoolHat_Description"
 msgid "A Very cool hat made by Podu, given to you by winning the Pohatu/Kopaka race."
 msgstr ""
-"Ну Очень крутая шапка, созданная Поду и врученная вам по результатам победы в гонке "
+"Ну Очень крутая шапка, созданная Поду и вручённая вам по результатам победы в гонке "
 "Похату/Копака."
 
 #. Key:	PausedGraphicsSettings_ColorBlindness_Deuteranope
