@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-20 17:48+0300\n"
+"PO-Revision-Date: 2026-02-20 17:50+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17729,7 +17729,7 @@ msgid ""
 "Turaga were less fortunate on their return journey..."
 msgstr ""
 "Мы собрались, чтобы обсудить кое-какие... важные дела в Кини-Нуи. По-видимому, другим "
-"Турага повезло меньше на их обратном пути..."
+"Турагам повезло меньше на их обратном пути..."
 
 #. Key:	DL_VakamaCutscene
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaCutscene.Default__DL_VakamaCutscene_C.DialogueText
