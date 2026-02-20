@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-19 22:15+0300\n"
+"PO-Revision-Date: 2026-02-20 17:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9003,7 +9003,7 @@ msgstr "Что именно?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar2.Default__DL_Ukkar2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Ukkar2_PlayerResponse_1"
 msgid "I've seen a fair amount of it."
-msgstr "Я {G}|gender(повидал, повидала) немало."
+msgstr "Я здесь {G}|gender(бывал, бывала) часто."
 
 #. Key:	DL_Ukkar3_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar3.Default__DL_Ukkar3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -17597,7 +17597,7 @@ msgstr "О, отлично..."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar2.Default__DL_Ukkar2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Ukkar2"
 msgid "Hah, Howdy Toa! Have you been in Po-Koro long?"
-msgstr "А, здоровеньки булы, Тоа! Вы давно в По-Коро?"
+msgstr "А, здоровеньки булы, Тоа! Как давно вы были По-Коро?"
 
 #. Key:	DL_Ukkar3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Ukkar3.Default__DL_Ukkar3_C.DialogueText
