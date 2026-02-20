@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-20 17:35+0300\n"
+"PO-Revision-Date: 2026-02-20 17:46+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -9024,7 +9024,7 @@ msgstr "Я тоже."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaBeforeRescue1.Default__DL_VakamaBeforeRescue1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_VakamaBeforeRescue1_PlayerResponse_2"
 msgid "Can you remind me how we met?"
-msgstr "Можете напомнить как мы встретились?"
+msgstr "Можете напомнить, как именно мы встретились?"
 
 #. Key:	DL_VakamaBeforeRescue2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Turaga/DL_VakamaBeforeRescue2.Default__DL_VakamaBeforeRescue2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -17741,8 +17741,8 @@ msgid ""
 "attempting to capture a frightening beast that had been sighted by more than a few "
 "villagers. Little did they know that they were searching for you... "
 msgstr ""
-"Боже-боже, твой разум работает очень странно, Тоа. Ну хорошо, я расскажу тебе... Капитан "
-"стражи собрал небольшую команду охотников и отправился в сожжённый лес, они пытались "
+"Боже-боже, твой разум работает очень странно, Тоа. Ну что ж, я расскажу тебе... Капитан "
+"Стражи собрал небольшую команду охотников и отправился в сожжённый лес, они пытались "
 "поймать страшного и жуткого зверя, замеченного несколькими жителями. Но они не знали, "
 "что искали-то тебя..."
 
