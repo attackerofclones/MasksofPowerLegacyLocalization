@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-22 18:09+0300\n"
+"PO-Revision-Date: 2026-02-22 18:20+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -7270,7 +7270,7 @@ msgstr "Не за что – и спасибо."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo1.Default__DL_ScaredConvo1_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_ScaredConvo1_PlayerResponse_2"
 msgid "Omak sent me, you're the couriers for this shipment?"
-msgstr "Омак прислал меня, вы являетесь перевозчиками этого груза?"
+msgstr "Омак прислал меня. Вы являетесь перевозчиками этого груза?"
 
 #. Key:	DL_ScaredConvo2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ScaredConvo2.Default__DL_ScaredConvo2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
