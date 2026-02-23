@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-22 18:20+0300\n"
+"PO-Revision-Date: 2026-02-23 09:13+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -16126,7 +16126,7 @@ msgstr "Этот объём стоит куда больше 80 виджетов
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Selling2.Default__DL_Selling2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Selling2"
 msgid "But are you sure you can't at least drop the price a little?"
-msgstr "Ты уверен, что не можешь хотя бы немножко снизить цену?"
+msgstr "А ты уверен, что не сможешь скинуть цену... ну хотя бы немножко?"
 
 #. Key:	DL_Selling3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Selling3.Default__DL_Selling3_C.DialogueText
