@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-26 15:58+0300\n"
+"PO-Revision-Date: 2026-02-27 22:37+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 "Эти доки позволят вам путешествовать между различными точками на Мата Нуи. Они "
 "чрезвычайно полезны для перемещения по огромному острову, так что обязательно ищите их. "
-"Марка, начальница дока, не особо любит давать кому-то свои лодки, так что лучше просто "
+"Марка, начальница доков, не особо любит давать кому-то свои лодки, так что лучше просто "
 "передать штурвал ей."
 
 #. Key:	CodexPage_Drifts_Desc
@@ -575,7 +575,7 @@ msgstr ""
 "его безрассудное поведение нередко приводит к неприятностям. Лева нередко излишне "
 "самоуверен в своих способностях как Тоа, часто рискует, когда это не нужно, а также "
 "действует без раздумий. Видимо, ему ещё стоит много узнать о том, что значит быть "
-"героем, но это всё равно не мешает ему действовать так, как он считает нужным. Атака его "
+"героем. Но это всё равно не мешает ему действовать так, как он считает нужным. Атака его "
 "стихии заключается в выстреле потоком воздуха, который далеко отталкивает врагов. Хотя "
 "она не наносит много урона, она лучше всего подходит для удержания Рахи на расстоянии, "
 "чтобы не перегружать вас."
@@ -718,8 +718,8 @@ msgid ""
 msgstr ""
 "Матау – Турага Ле-Коро. Известный среди Ле-Маторанов как «Певец Ле-Коро», Матау управлял "
 "своей деревней с оптимизмом на лице, даже в самые трудные времена, с которыми "
-"приходилось сталкиваться Маторанам. Матау считается другом и наставником, на него хотят "
-"равняться все Ле-Матораны."
+"приходилось сталкиваться Маторанам. Матау считается хорошим другом и наставником, на "
+"него хотят равняться все Ле-Матораны."
 
 #. Key:	CodexPage_Matoran_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Matoran.Default__LocationEntry_Matoran_C.Location Description
@@ -967,8 +967,9 @@ msgid ""
 msgstr ""
 "Этот храм хотя и был построен Ону-Маторанами, расположен над землёй в По-Вахи. Он был "
 "сконструирован очень, очень давно, ещё до окончания строительства тоннелей Ону-Вахи. "
-"Многие Ону-Матораны по-прежнему предпочитают пересекать трудный путь по жёсткой, светлой "
-"пустыне, чтобы отдать дань уважения Мата Нуи – в качестве знака их веры и преданности."
+"Многие Ону-Матораны по-прежнему предпочитают пересекать трудный путь по жёсткой и "
+"светлой пустыне. Всё чтобы отдать дань уважения Мата Нуи – в качестве знака их веры и "
+"преданности."
 
 #. Key:	CodexPage_Overlook_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Overlook.Default__LocationEntry_Overlook_C.Location Description
@@ -1117,7 +1118,7 @@ msgid ""
 "harsh environment around them."
 msgstr ""
 "Пустыни По-Вахи, мягко говоря, неприветливы. Каменные каньоны могут скрывать Рахи, "
-"готовых напасть на неудачливых путешественников, а пустыня Мотара на севере и вовсе "
+"готовых напасть на неудачливых путешественников. Пустыня Мотара на севере и вовсе "
 "является безжизненной пустошью. Но несмотря на это, По-Матораны всё равно решаются "
 "преодолеть эти опасности, украшая скалистые ландшафты фигурами и скульптурами. Всё для "
 "того, чтобы вдохнуть жизнь в этот суровый край."
@@ -1254,8 +1255,8 @@ msgid ""
 "you forward, allowing you to quickly get up close to attack an enemy."
 msgstr ""
 "Таху – вспыльчивый и упрямый Тоа Огня. Он нередко является зачинщиком множества споров в "
-"своей команде Тоа и часто может показаться наглым или неуважительным. Но несмотря на его "
-"недостатки, он полон решимости помочь и защитить Маторанов любой ценой. Набор Таху "
+"своей команде Тоа и часто может показаться наглым или неуважительным. Но несмотря на "
+"свои недостатки, он полон решимости помочь и защитить Маторанов любой ценой. Набор Таху "
 "является самым узнаваемым среди всех наборов Бионикл, а его маска – Канохи Хау, является "
 "чуть ли не знаковым изображением. Атака его стихии использует огонь, чтобы сделать "
 "быстрый рывок вперёд, позволяя подобраться близко к врагу и атаковать его."
@@ -1356,8 +1357,8 @@ msgid ""
 msgstr ""
 "Эти опасные Рахи славятся своими мощными передними лапами, с помощью которых они атакуют "
 "свою добычу. Их голубую разновидность можно встретить преимущественно в Га-Вахи. Их "
-"сложнее одолеть, чем обычных Таракав, так что старайтесь не привлечь внимание большой их "
-"группы на себя."
+"сложнее одолеть, чем обычных Таракав, так что постарайтесь не привлечь внимание большой "
+"их группы на себя."
 
 #. Key:	CodexPage_Telescope_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Telescope.Default__LocationEntry_Telescope_C.Location Description
@@ -1440,7 +1441,7 @@ msgid ""
 msgstr ""
 "Вакама – Турага Та-Коро. Он пользуется уважением за свои мудрость и доброту как среди "
 "Маторанов, так и среди других Турага, которые считают Вакаму своего рода лидером. Его "
-"нередко можно найти смотрящим в огни Мангайи, где он, по его же словам, видит будущее."
+"нередко можно найти смотрящим в огни Мангаи, где он, по его же словам, видит будущее."
 
 #. Key:	CodexPage_Volcano_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_Volcano.Default__LocationEntry_Volcano_C.Location Description
@@ -2723,14 +2724,14 @@ msgid ""
 "moved on."
 msgstr ""
 "Тебе, наверное, не стоило восстанавливать течение реки самостоятельно. Будет лучше, если "
-"ты двинешься дальше."
+"ты просто пойдёшь дальше по жизни."
 
 #. Key:	DL_DamemoRukiDanger_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRukiDanger.Default__DL_DamemoRukiDanger_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRukiDanger.Default__DL_DamemoRukiDanger_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamemoRukiDanger_PlayerResponse_2"
 msgid "Hmm, If that's how you feel. I must get going now."
-msgstr "Хм, если ты так считаешь. Мне уже пора идти."
+msgstr "Хм, если ты так считаешь... Мне уже пора идти."
 
 #. Key:	DL_DamemoRukiSell_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoRukiSell.Default__DL_DamemoRukiSell_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3040,7 +3041,7 @@ msgstr "Я не {G}|gender(хотел, хотела) беспокоить теб
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_GreavingMatoran2_PlayerResponse_1"
 msgid "I found your note, you haven't forgiven him for leaving?"
-msgstr "Я {G}|gender(нашёл, нашла) твою записку, ты не смог простить его за уход?"
+msgstr "Я {G}|gender(нашёл, нашла) твою записку. Ты не смог простить его за уход?"
 
 #. Key:	DL_GreavingMatoran2_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran2.Default__DL_GreavingMatoran2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -3084,7 +3085,7 @@ msgctxt "Dialogue_Response,DL_Grinch1_PlayerResponse_1"
 msgid ""
 "Well, I'm sorry you don't like the festivities, but it's not like you can do anything "
 "about it."
-msgstr "Ну, мне жаль, что тебе не нравятся праздники, но я тут ничем не могу помочь."
+msgstr "Ну, мне жаль, что тебе не нравятся праздники... но я тут ничем не могу помочь."
 
 #. Key:	DL_Grinch2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Holidays/DL_Grinch2.Default__DL_Grinch2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4207,7 +4208,7 @@ msgstr "Твои цвета отличаются от остальных По-М
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyer3.Default__DL_KoTownBuyer3_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownBuyer3_PlayerResponse_1"
 msgid "You spoke of a \"Protosteel\", I'm not familiar with this material."
-msgstr "Ты говорил о «Протостали», я ничего не знаю про этот материал."
+msgstr "Ты говорил о «Протостали», но я ничего не знаю про этот материал."
 
 #. Key:	DL_KoTownBuyer3_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownBuyer3.Default__DL_KoTownBuyer3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4231,7 +4232,7 @@ msgid ""
 "I've never heard of this Protosteel, wouldn't a Protodermis pickaxe be a stronger tool "
 "for mining?"
 msgstr ""
-"Я ничего не знаю об этой Протостали, разве кирка из Протодермиса не является более "
+"Я ничего не знаю об этой Протостали. Разве кирка из Протодермиса не является более "
 "крепким инструментом для копания?"
 
 #. Key:	DL_KoTownBuyerGainQuest_PlayerResponse_1
@@ -4291,7 +4292,7 @@ msgstr "А это?"
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteel3_PlayerResponse_2"
 msgid ""
 "I hate to ask you this Kohi, but did you have anything to do with the attack on Whagna?"
-msgstr "Не хочу спрашивать тебя об этом, Кохи, но связан ли ты с нападением на Вагну?"
+msgstr "Не хочу спрашивать тебя об этом, Кохи... но связан ли ты с нападением на Вагну?"
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered2.Default__DL_KoTownKohiProtosteelDiscovered2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4411,7 +4412,7 @@ msgstr "И что это?"
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_2"
 msgid ""
 "I hate to ask you this Kohi, but did you have anything to do with the attack on Whagna?"
-msgstr "Не хочу спрашивать тебя об этом, Кохи, но связан ли ты с нападением на Вагну?"
+msgstr "Не хочу спрашивать тебя об этом, Кохи... но связан ли ты с нападением на Вагну?"
 
 #. Key:	DL_KoTownSeller1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller1.Default__DL_KoTownSeller1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4446,7 +4447,7 @@ msgstr "Что ещё ты можешь рассказать мне об это�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller4.Default__DL_KoTownSeller4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownSeller4_PlayerResponse_1"
 msgid "The Po-Matoran that was here, asking about Protosteel."
-msgstr "По-Маторан, который был здесь, спрашивал про Протосталь."
+msgstr "По-Маторан, который был здесь. Он спрашивал про Протосталь."
 
 #. Key:	DL_KoTownSeller5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller5.Default__DL_KoTownSeller5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4523,7 +4524,7 @@ msgstr "Почему ты здесь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAbandonedSeen.Default__DL_KoTownSellerAbandonedSeen_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownSellerAbandonedSeen_PlayerResponse_2"
 msgid "It's been good to see you again, but it is time for me to go."
-msgstr "Было радостно снова увидеть вас, но мне нужно идти."
+msgstr "Было радостно снова увидеть тебя, но мне нужно идти."
 
 #. Key:	DL_KoTownSellerAttack_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerAttack.Default__DL_KoTownSellerAttack_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4664,7 +4665,7 @@ msgstr "Да, давайте начнём."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixingReturn.Default__DL_KoTownSellerFixingReturn_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KoTownSellerFixingReturn_PlayerResponse_2"
 msgid "I'm afraid I'm still busy, sorry."
-msgstr "Боюсь, я всё ещё {G}|gender(занят, занята), мне жаль."
+msgstr "Боюсь, я всё ещё {G}|gender(занят, занята). Мне жаль."
 
 #. Key:	DL_Kufa2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Kufa2.Default__DL_Kufa2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4713,7 +4714,7 @@ msgstr "Как скажешь."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaReading.Default__DL_KylmaReading_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_KylmaReading_PlayerResponse_1"
 msgid "It was no trouble."
-msgstr "Это не составило труда."
+msgstr "Это было нетрудно."
 
 #. Key:	DL_KylmaRuins_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaRuins.Default__DL_KylmaRuins_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4811,14 +4812,14 @@ msgstr "Нет."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGood.Default__DL_LeQuestKumoGood_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LeQuestKumoGood_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
+msgstr "На юге. Но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoGoodAddQuest_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGoodAddQuest.Default__DL_LeQuestKumoGoodAddQuest_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_LeQuestKumoGoodAddQuest_PlayerResponse_1"
 msgid "South, but wouldn't you like me to take you there? There are Rahi about!"
-msgstr "На юге, но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
+msgstr "На юге. Но не хотел бы ты, чтобы я отвёл тебя туда? Вокруг много Рахи!"
 
 #. Key:	DL_LeQuestKumoHelp_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoHelp.Default__DL_LeQuestKumoHelp_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5007,7 +5008,7 @@ msgstr "Думаешь, что какие-то сокровища Чёрной �
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_Maren3.Default__DL_Maren3_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Maren3_PlayerResponse_2"
 msgid "The Ga-Matoran tell stories of Blackmask. But they are only stories."
-msgstr "Га-Матораны рассказывают истории о Чёрной Маске. Но это лишь истории."
+msgstr "Га-Матораны рассказывают истории о Чёрной Маске. Но это всего лишь рассказы."
 
 #. Key:	DL_Maren3_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_Maren3.Default__DL_Maren3_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5028,7 +5029,7 @@ msgstr "Я {G}|gender(был, была) бы не прочь купить тво
 #: /Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenGaliStories.Default__DL_MarenGaliStories_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MarenGaliStories_PlayerResponse_1"
 msgid "You think some of Blackmask's treasure is around here?"
-msgstr "Думаешь, что какие-то сокровища Чёрной Маски где-то рядом?"
+msgstr "Думаешь, что какие-то сокровища Чёрной Маски где-то недалеко?"
 
 #. Key:	DL_MarenGaliStories_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/LeWahi/DL_MarenGaliStories.Default__DL_MarenGaliStories_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -5698,14 +5699,14 @@ msgstr "Как вы умудрились оказаться здесь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack2.Default__DL_NokamaHeadBack2_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaHeadBack2_PlayerResponse_2"
 msgid "Before you go, you mentioned a meeting, what sort of meeting?"
-msgstr "Перед тем, как вы вернётесь, вы упоминали о собрании. Что это за собрание?"
+msgstr "Перед тем, как вы вернётесь... вы упоминали о собрании. Что это за собрание?"
 
 #. Key:	DL_NokamaHeadBack_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack.Default__DL_NokamaHeadBack_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaHeadBack.Default__DL_NokamaHeadBack_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_NokamaHeadBack_PlayerResponse_2"
 msgid "Before you go, you mentioned a meeting, what sort of meeting?"
-msgstr "Перед тем, как вы вернётесь, вы упоминали о собрании. Что это за собрание?"
+msgstr "Перед тем, как вы вернётесь... вы упоминали о собрании. Что это за собрание?"
 
 #. Key:	DL_NokamaKoro_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Turaga/DL_NokamaKoro.Default__DL_NokamaKoro_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -6996,16 +6997,16 @@ msgid ""
 "him here, on the edge of the Po-Wahi desert? Are you always this cruel to your own "
 "Matoran?"
 msgstr ""
-"Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в Ко-Коро, а "
-"затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жесток по отношению к "
-"своим Маторанам?"
+"Сказать ему, что у тебя какая-то «архиважная» миссия, заставлять его ждать в Ко-Коро... "
+"а затем посылать его сюда, на окраину пустыни По-Вахи? Ты всегда так жесток по отношению "
+"к своим Маторанам?"
 
 #. Key:	DL_RacePohatuPodu2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu2.Default__DL_RacePohatuPodu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuPodu2.Default__DL_RacePohatuPodu2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_RacePohatuPodu2_PlayerResponse_1"
 msgid "...What do you want."
-msgstr "...Что ты хочешь?"
+msgstr "...Чего ты хочешь?"
 
 #. Key:	DL_RacePohatuWhy2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Meet/DL_RacePohatuWhy2.Default__DL_RacePohatuWhy2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -7382,7 +7383,7 @@ msgstr "Станет ли тебе легче, если я дам слово п�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran1.Default__DL_SellerConsumablesHewtiniiGamatoran1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_SellerConsumablesHewtiniiGamatoran1_PlayerResponse_1"
 msgid "M-My apologies! I did not mean to misidentify you..!"
-msgstr "М-Мои извинения! Не {G}|gender(хотел, хотела) тебя неправильно идентифицировать..!"
+msgstr "И-извиняюсь! Не {G}|gender(хотел, хотела) тебя неправильно идентифицировать..!"
 
 #. Key:	DL_SellerConsumablesHewtiniiGamatoran2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerConsumablesHewtiniiGamatoran2.Default__DL_SellerConsumablesHewtiniiGamatoran2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8149,7 +8150,8 @@ msgstr "Ясно, а Тафал не может тебя учить потому
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned5.Default__DL_TafallAbandoned5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TafallAbandoned5_PlayerResponse_1"
 msgid "Perhaps you could just let Tafall tag along, help out?"
-msgstr "Может, тебе просто дать Тафол возможность сопровождать тебя и оказать помощь?"
+msgstr ""
+"Может, тебе стоит просто дать Тафол возможность сопровождать тебя и оказать помощь?"
 
 #. Key:	DL_TafallAbandoned6_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned6.Default__DL_TafallAbandoned6_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8163,7 +8165,7 @@ msgstr "Тафал?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned7.Default__DL_TafallAbandoned7_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_TafallAbandoned7_PlayerResponse_1"
 msgid "There we go. Settling conflicts, it's what Toa do... Sometimes."
-msgstr "Ну, вот. Разрешение конфликтов – то, что делает Тоа... Иногда."
+msgstr "Ну, вот. Разрешение конфликтов – то, что делает Тоа... Время от времени."
 
 #. Key:	DL_TafallAbandoned8_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned8.Default__DL_TafallAbandoned8_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8495,7 +8497,7 @@ msgstr "Это всё?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok9.Default__DL_Talok9_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Talok9_PlayerResponse_1"
 msgid "I would be honored."
-msgstr "Это честь для меня."
+msgstr "Это большая честь для меня."
 
 #. Key:	DL_TalokDone1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_TalokDone1.Default__DL_TalokDone1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -8828,14 +8830,14 @@ msgstr "Когда ты это закончишь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Thuei3Onua_PlayerResponse_2"
 msgid "I'm honored... I think. When will you finish it?"
-msgstr "Это большая честь... Мне кажется. Когда ты это закончишь?"
+msgstr "Это большая честь... Как мне кажется. Когда ты это закончишь?"
 
 #. Key:	DL_Thuei3Onua_PlayerResponse_3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3Onua.Default__DL_Thuei3Onua_C.Responses(2).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_Thuei3Onua_PlayerResponse_3"
 msgid "I'm honored... I think. When will you finish it?"
-msgstr "Это большая честь... Мне кажется. Когда ты это закончишь?"
+msgstr "Это большая честь... Как мне кажется. Когда ты это закончишь?"
 
 #. Key:	DL_ThueiFinish_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinish.Default__DL_ThueiFinish_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9202,14 +9204,14 @@ msgstr "Ясно, я постараюсь сделать «как лучше»."
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi19.Default__DL_WhagnaMeeting_Parhi19_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WhagnaMeeting_Parhi19_PlayerResponse_1"
 msgid "You should stay and repair Whagna, It will be hard - but this is your home."
-msgstr "Вам лучше остаться и восстановить Вагну. Будет тяжело, да – но это ваш дом."
+msgstr "Вам лучше остаться и восстановить Вагну. Да, будет нелегко, но это – ваш дом."
 
 #. Key:	DL_WhagnaMeeting_Parhi19_PlayerResponse_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi19.Default__DL_WhagnaMeeting_Parhi19_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi19.Default__DL_WhagnaMeeting_Parhi19_C.Responses(1).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_WhagnaMeeting_Parhi19_PlayerResponse_2"
 msgid "You should go back to your own Koros, It's too dangerous for Matoran out this far."
-msgstr "Вам лучше вернуться в свои Коро, здесь слишком опасно находиться Маторанам."
+msgstr "Вам лучше вернуться в свои Коро – здесь слишком опасно находиться Маторанам."
 
 #. Key:	DL_WhagnaMeeting_ReturnStay_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_ReturnStay.Default__DL_WhagnaMeeting_ReturnStay_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -9846,9 +9848,9 @@ msgid ""
 "And After a while, I woke up."
 msgstr ""
 "Однажды, я прилёг отдохнуть. Когда я уснул, я увидел в видениях странное место на "
-"горе... Это было холодное место, полное темноты. Но вдруг я почувствовал тепло за "
-"спиной, я мог почувствовать, что это был Тоа. Тоа вошёл, но я не видел, чтобы он оттуда "
-"вышел... И спустя некоторое время я проснулся."
+"горе... Это было холодное и очень тёмное место. Но вдруг я почувствовал тепло за спиной, "
+"я мог почувствовать, что это был Тоа. Тоа вошёл, но я не видел, чтобы он оттуда вышел... "
+"И спустя некоторое время я проснулся."
 
 #. Key:	DL_Allknowingmatoran_Whathesaw_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestPOTM/DL_Allknowingmatoran_Whathesaw_2.Default__DL_Allknowingmatoran_Whathesaw_2_C.DialogueText
@@ -9861,7 +9863,7 @@ msgid ""
 "After a while, I woke up."
 msgstr ""
 "Однажды, я прилёг отдохнуть. Когда я уснул, я увидел в видениях тёмное место на горе... "
-"Это было холодное место, полное темноты. Но вдруг я почувствовал тепло за спиной, я мог "
+"Это было холодное и очень тёмное место. Но вдруг я почувствовал тепло за спиной, я мог "
 "почувствовать, что это был Тоа. Тоа вошёл, но я не видел, чтобы он оттуда вышел... И "
 "спустя некоторое время я проснулся."
 
@@ -9873,8 +9875,8 @@ msgid ""
 "I don't know specifically, but I do know that you can see Le-Koro from there, so perhaps "
 "the southern side of Mangai."
 msgstr ""
-"Я точно не знаю, но я знаю, что вы оттуда можете увидеть Ле-Коро. Поэтому, возможно, на "
-"южном склоне Мангаи."
+"Я точно не знаю, но я знаю, что вы оттуда можете увидеть Ле-Коро. Поэтому оно, возможно, "
+"находится на южном склоне Мангаи."
 
 #. Key:	DL_BandGreeting1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Band/DL_BandGreeting1.Default__DL_BandGreeting1_C.DialogueText
@@ -10023,7 +10025,7 @@ msgstr "Приветствую, Тоа! Чем я могу вам помочь?"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntro_2.Default__DL_CartographerIntro_2_C.DialogueText
 msgctxt "Dialogue_Text,DL_CartographerIntro_2"
 msgid "I craft masks, replacements - ususally for Matoran. Do you require my services?"
-msgstr "Я создаю маски, заменители – как правило, для Маторанов. Вам нужны мои услуги?"
+msgstr "Я создаю маски и их заменители – как правило, для Маторанов. Вам нужны мои услуги?"
 
 #. Key:	DL_CartographerIntroNoKakama
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerIntroNoKakama.Default__DL_CartographerIntroNoKakama_C.DialogueText
@@ -10072,8 +10074,8 @@ msgid ""
 "The Pillar-Lands don't really have lots of pillars, just large natural rock formations. "
 "It's very beautiful, but quite hard to get to. Maybe not for a toa though."
 msgstr ""
-"В Столбовых Землях в действительности нет множества столбов, лишь природные скальные "
-"образования. Место красивое, но туда сложно попасть. Ну, возможно, не для Тоа."
+"В Столбовых Землях в действительности нет множества столбов – там лишь природные "
+"скальные образования. Место красивое, но туда сложно попасть. Ну, возможно, не для Тоа."
 
 #. Key:	DL_CartographerQuestStart
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.DialogueText
@@ -10314,8 +10316,8 @@ msgid ""
 msgstr ""
 "Совершенно верно. Это озеро – дом для редких и находящихся на грани исчезновения "
 "Розовохвостых Руки. Они плывут вверх по реке, чтобы обустроить гнездо и вниз по реке, "
-"чтобы поесть. Деревня неподалёку ловит этих рыб и продаёт. Если ситуация не изменится, "
-"то в течение пяти лет Розовохвостые Руки вымрут."
+"чтобы поесть. Деревня, расположенная неподалёку, ловит этих рыб и продаёт. Если ситуация "
+"не изменится, то в течение пяти лет Розовохвостые Руки вымрут."
 
 #. Key:	DL_DamMaster4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMaster4.Default__DL_DamMaster4_C.DialogueText
@@ -10328,7 +10330,7 @@ msgid ""
 msgstr ""
 "Думаю, что можно сказать и так, да. Единственный способ, который мне удалось найти для "
 "защиты этих Рахи – перекрыть течение реки и заставить их плыть дальше. Но я быстро "
-"понял, что сюда может прийти кто угодно и разрушить мои труды, поэтому мне пришлось "
+"понял, что сюда может прийти кто угодно и вернуть всё, как было. Поэтому мне пришлось "
 "поставить «охранника» на место."
 
 #. Key:	DL_DamMaster5
@@ -10348,7 +10350,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_DamMaster6"
 msgid "Please Toa $T, I beg you do not make me send these Ruki to their extinction."
 msgstr ""
-"Пожалуйста, Тоа $T. Я прошу вас: не заставляйте меня посылать этих Руки на верную смерть."
+"Пожалуйста, Тоа $T. Я прошу вас: не заставляйте меня посылать этих Руки на верную смерть!"
 
 #. Key:	DL_DamMasterLeave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLeave.Default__DL_DamMasterLeave_C.DialogueText
@@ -10552,8 +10554,8 @@ msgstr "*Зевает* Здравствуй, Тоа. Как дела?"
 msgctxt "Dialogue_Text,DL_GeneralKokoranbyprotopool_4"
 msgid "It's always sort of been there. Not sure what it does really."
 msgstr ""
-"Он практически всё время был тут. Честно говоря, не до конца уверен в том, что он на "
-"самом деле делает."
+"Он практически всё время был тут. Честно говоря, я не до конца уверен в том, что он "
+"делает на самом деле."
 
 #. Key:	DL_GeneralKokoranGreeting
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_GeneralKokoranGreeting.Default__DL_GeneralKokoranGreeting_C.DialogueText
@@ -10651,7 +10653,7 @@ msgid ""
 "That note was not meant for you Toa, but now that you've seen it I suppose I could tell "
 "you the story..."
 msgstr ""
-"Эта записка предназначалась не вам, Тоа, но раз вы её увидели, то, полагаю, я могу "
+"Эта записка предназначалась не вам, Тоа. Но раз вы её увидели, то я, полагаю, могу "
 "рассказать вам историю..."
 
 #. Key:	DL_GreavingMatoran4
@@ -10674,7 +10676,7 @@ msgid ""
 "more food from Onu-Koro before out stores ran dry."
 msgstr ""
 "Но он к тому моменту уже ушёл. Обсуждение было бурным. Поэтому он решил достать ещё "
-"немного еды из Ону-Коро, пока наши запасы не иссякли."
+"немного еды из Ону-Коро, пока у нас не иссякли запасы."
 
 #. Key:	DL_GreavingMatoran6
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran6.Default__DL_GreavingMatoran6_C.DialogueText
@@ -10684,7 +10686,7 @@ msgid ""
 "It wasn't a week later that they did, Koha was late and I was hungry - So I made my way "
 "to Onu-Koro on my own."
 msgstr ""
-"Через неделю они закончились, Кохи не было, а я был голоден... Поэтому я добрался до Ону-"
+"Через неделю они закончились. Кохи не было, а я был голоден... Поэтому я добрался до Ону-"
 "Коро самостоятельно."
 
 #. Key:	DL_GreavingMatoran7
@@ -10695,8 +10697,8 @@ msgid ""
 "I asked the vendors in the village if they had seen my brother, but no one had. I was "
 "worried but I assumed maybe we had just missed eachother."
 msgstr ""
-"Я спросил у продавцов, видели ли они моего брата. Но никто его не видел. Я был "
-"взволнован, но предположил, что мы просто разошлись."
+"Я спросил у продавцов: видели ли они моего брата... Но никто его не видел. Я "
+"разволновался, но предположил, что мы просто разминулись."
 
 #. Key:	DL_GreavingMatoran8
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Island/DL_GreavingMatoran8.Default__DL_GreavingMatoran8_C.DialogueText
@@ -10963,8 +10965,8 @@ msgid ""
 "Hmm, very well then. Perhaps they're just decorative then? Ahh, either way you can keep "
 "that one $T."
 msgstr ""
-"Хм, ладно. Значит, это просто украшения? Эээ, в любом случае, вы можете оставить одну "
-"себе, $T."
+"Хм, ну ладно... Значит, это просто украшения? Эээ, в любом случае, вы можете оставить "
+"одну себе, $T."
 
 #. Key:	DL_Huki1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_Huki1.Default__DL_Huki1_C.DialogueText
@@ -11194,7 +11196,7 @@ msgid ""
 "me with my shipment issue."
 msgstr ""
 "А, Река. Глупыш, скучный, озабочен Колхи – прям как половина деревни, я полагаю. Если он "
-"вас послал сюда, то вам наверняка нужно немножко виджетов, да? Думаю, вы можете мне "
+"вас послал сюда, то вам наверняка нужна парочка виджетов, да? Думаю, вы можете мне "
 "помочь с моим грузом."
 
 #. Key:	DL_JobmasterJobSneak
@@ -11264,7 +11266,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturnFinal.Default__DL_JobmasterReturnFinal_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterReturnFinal"
 msgid "Please don't speak to me Toa."
-msgstr "Прошу, не разговаривайте со мной, Тоа."
+msgstr "Прошу вас... не разговаривайте со мной, Тоа."
 
 #. Key:	DL_JobmasterShipment
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterShipment.Default__DL_JobmasterShipment_C.DialogueText
@@ -11305,7 +11307,7 @@ msgid ""
 msgstr ""
 "Доставка опаздывает, она очень важна. Мне нужно, чтобы вы отправились в центр доставки "
 "грузов в Ону-Коро и узнали, почему они так долго этим занимаются. Если курьеры уже "
-"отправились в путь, вам нужно найти их."
+"отправились в путь, вам нужно будет найти их."
 
 #. Key:	DL_JobmasterTuraga
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterTuraga.Default__DL_JobmasterTuraga_C.DialogueText
@@ -11602,8 +11604,8 @@ msgid ""
 "them..."
 msgstr ""
 "Ну... Немножко получше. Остальные считали, что покинуть селение и жить в месте, не "
-"обозначенном на карте – очень смелый шаг. Они не знали, что я сделал это для того, чтобы "
-"уйти от них."
+"обозначенном на карте – очень смелый шаг. Но они не знали, что я сделал это для того, "
+"чтобы уйти от них."
 
 #. Key:	DL_KoFishSellerAbandonedLekoro2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoFishSellerAbandonedLekoro2.Default__DL_KoFishSellerAbandonedLekoro2_C.DialogueText
@@ -11810,7 +11812,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_KoMatoranCold.Default__DL_KoMatoranCold_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoMatoranCold"
 msgid "BRR! I'm so cold, and can't get warm, why can't I get warm?"
-msgstr "БРР! Я замёрз и не могу согреться! Почему я не могу согреться?"
+msgstr "БРР! Я замёрз и не могу согреться! Почему я не могу согреться?!"
 
 #. Key:	DL_Kongu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/Kongu/DL_Kongu.Default__DL_Kongu_C.DialogueText
@@ -11905,7 +11907,7 @@ msgid ""
 "So we are doomed to fail no matter how many times we confront Makuta? To relive this "
 "same battle countless times?"
 msgstr ""
-"То есть, мы обречены на поражение, несмотря на то, сколько раз мы сталкивались с "
+"То есть... мы обречены на поражение, несмотря на то, что мы много раз сталкивались с "
 "Макутой? Обречены переживать одну и ту же битву бесчисленное множество раз?"
 
 #. Key:	DL_Kopeke1
@@ -12048,7 +12050,7 @@ msgid ""
 "lead to find this. Shame they got attacked though, I hope no one was hurt."
 msgstr ""
 "Ух, вы меня напугали, Тоа! Вагна – не мой дом, я лишь искал там зацепки, чтобы найти "
-"это. Жаль, конечно, что на них напали, надеюсь, что никто не пострадал."
+"это. Жаль, конечно, что на них напали. Я надеюсь, что никто не пострадал."
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered.Default__DL_KoTownKohiProtosteelDiscovered_C.DialogueText
@@ -12098,7 +12100,7 @@ msgid ""
 "shop, free of charge."
 msgstr ""
 "За вашу помощь в данном деле, мне хотелось бы предоставить вам первую вещичку из "
-"Протостали, совершенно бесплатно."
+"Протостали. Причём совершенно бесплатно."
 
 #. Key:	DL_KoTownKohiProtosteelGift1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGift1.Default__DL_KoTownKohiProtosteelGift1_C.DialogueText
@@ -12130,7 +12132,7 @@ msgid ""
 "my forge in Po-Koro later, and I might have something for you."
 msgstr ""
 "С этой и некоторыми другими вещами, я смогу раскрыть секрет Протостали. Загляните как-"
-"нибудь в мою кузницу в По-Коро, у меня для вас кое-что есть."
+"нибудь в мою кузницу в По-Коро. У меня для вас кое-что есть."
 
 #. Key:	DL_KoTownKohiProtosteelGive2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelGive2.Default__DL_KoTownKohiProtosteelGive2_C.DialogueText
@@ -12144,7 +12146,7 @@ msgstr "Ах, прекрасно!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelHelp.Default__DL_KoTownKohiProtosteelHelp_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownKohiProtosteelHelp"
 msgid "I understand, but for that I must ask a favor of you. I need that."
-msgstr "Я понимаю, но для этого сделайте мне одно одолжение. Мне оно нужно."
+msgstr "Я понимаю, но для этого сделайте мне одно одолжение. Мне оно очень нужно."
 
 #. Key:	DL_KoTownKohiProtosteelPlan
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelPlan.Default__DL_KoTownKohiProtosteelPlan_C.DialogueText
@@ -12207,7 +12209,7 @@ msgstr "Приветствую, Тоа $T, добро пожаловать в Л
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller1.Default__DL_KoTownSeller1_C.DialogueText
 msgctxt "Dialogue_Text,DL_KoTownSeller1"
 msgid "Pickaxes mostly, and some other various tools. In Bronze, and Protodermis."
-msgstr "Преимущественно кирки и некоторые другие инструменты. В Бронзе и Протодермисе."
+msgstr "Преимущественно кирки и некоторые другие инструменты. В бронзе и протодермисе."
 
 #. Key:	DL_KoTownSeller2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller2.Default__DL_KoTownSeller2_C.DialogueText
@@ -12349,7 +12351,7 @@ msgid ""
 "sure why though, perhaps you would speak to him?"
 msgstr ""
 "А, это потому, что Нумаи – единственный, кто не в настроении. Я до сих пор не уверен "
-"почему. Быть может, вам удастся поговорить с ним?"
+"почему... Быть может, вам удастся поговорить с ним?"
 
 #. Key:	DL_KoTownSellerFixedWall
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSellerFixedWall.Default__DL_KoTownSellerFixedWall_C.DialogueText
@@ -12565,7 +12567,7 @@ msgstr "Здесь тоже нет, значит, они должны быть..
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.DialogueText
 msgctxt "Dialogue_Text,DL_LavaFarmerBreak"
 msgid "Hello Toa. I'm just taking a break, Lava farming is hard work!"
-msgstr "Здравствуй, Тоа. Я лишь отдыхаю, добыча лавы – дело трудное!"
+msgstr "Здравствуй, Тоа. Я лишь отдыхаю, ведь добыча лавы – дело трудное!"
 
 #. Key:	DL_LeQuest1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuest1.Default__DL_LeQuest1_C.DialogueText
@@ -12608,7 +12610,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumo.Default__DL_LeQuestKumo_C.DialogueText
 msgctxt "Dialogue_Text,DL_LeQuestKumo"
 msgid "Hello Toa, are you here to save me?"
-msgstr "Здравствуй, Тоа. Вы пришли, чтобы спасти меня?"
+msgstr "Приветствую, Тоа. Вы пришли, чтобы спасти меня?"
 
 #. Key:	DL_LeQuestKumoGood
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuestKumoGood.Default__DL_LeQuestKumoGood_C.DialogueText
@@ -12708,7 +12710,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.DialogueText
 msgctxt "Dialogue_Text,DL_Lockedout"
 msgid "Hey again Toa-Hero, Guess what! I finally found my key."
-msgstr "И снова здравствуй, герой Тоа. Знаешь что? Я всё-таки нашёл свой ключ!"
+msgstr "И снова приветствую вас, герой Тоа. Знаете что? Я всё-таки нашёл свой ключ!"
 
 #. Key:	DL_Lockedout_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout_2.Default__DL_Lockedout_2_C.DialogueText
@@ -13828,7 +13830,7 @@ msgstr "Хмм, это интересно."
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_NixieResponse.Default__DL_NixieResponse_C.DialogueText
 msgctxt "Dialogue_Text,DL_NixieResponse"
 msgid "Ahh, Hello Toa $T, It's nothing just studying the stars."
-msgstr "А, здравствуй, Тоа $T. Ничего особенного, я лишь изучаю звёзды."
+msgstr "А, приветствую, Тоа $T. Ничего особенного, я лишь изучаю звёзды."
 
 #. Key:	DL_NixieResponse1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/DL_NixieResponse1.Default__DL_NixieResponse1_C.DialogueText
@@ -15960,14 +15962,15 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasks1.Default__DL_SellerMasks1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasks1"
 msgid "My my a Toa, what luck! I carry something you may be interested in, Masks!"
-msgstr "Боже, боже, какая удача, Тоа! Я продаю то, что вам может пригодиться – Маски!"
+msgstr ""
+"Боже-боже, какая удача, Тоа! Я продаю то, что вам наверняка может пригодиться – Маски!"
 
 #. Key:	DL_SellerMasksNobua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua.Default__DL_SellerMasksNobua_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua.Default__DL_SellerMasksNobua_C.DialogueText
 msgctxt "Dialogue_Text,DL_SellerMasksNobua"
 msgid "Oh uhh. Hello Toa, Nobua here."
-msgstr "Ой, э-э-э. Здравствуй, Тоа, это Нобуа."
+msgstr "Ой, э-э-э. Приветствую, Тоа. Это Нобуа."
 
 #. Key:	DL_SellerMasksNobua1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua1.Default__DL_SellerMasksNobua1_C.DialogueText
@@ -15985,8 +15988,8 @@ msgid ""
 "Masks! Or... mask replacements anyways. We don't get a lot of sales to be honest, not "
 "sure how the company keeps us in business."
 msgstr ""
-"Маски! Или... заменители масок, скорее. Продажи у нас, если честно, низкие, не знаю, как "
-"нам удаётся держаться на плаву."
+"Маски! Ну... скорее заменители масок. Продажи у нас, если честно, низкие. Не знаю, как "
+"компания позволяет нам держаться на плаву."
 
 #. Key:	DL_SellerMasksNobua3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerMasksNobua3.Default__DL_SellerMasksNobua3_C.DialogueText
@@ -16032,7 +16035,7 @@ msgid ""
 "AH HA! Exactly the one who should visit my shop, you must have stumbled across some "
 "metalic objects in your travels Toa! If so, I'd buy them at a high price!"
 msgstr ""
-"АГА! Как раз тот, кто должен посетить мою лавку! Вы наверняка натыкались на какие-то "
+"АГА! Как раз тот, кто должен посетить мою лавку! Вы же наверняка натыкались на какие-то "
 "металлические предметы в процессе приключений, Тоа! Я их куплю по высоким ценам!"
 
 #. Key:	DL_SellerNone
@@ -16057,8 +16060,8 @@ msgid ""
 "It's those two next door, they won't stop arguing! My head is killing me I can't sell, "
 "much less think!"
 msgstr ""
-"Те двое по соседству, они никак не могут перестать спорить! Моя голова раскалывается и я "
-"не могу продавать, не говоря уже про раздумья!"
+"Те двое по соседству – они никак не могут перестать спорить! Моя голова раскалывается и "
+"я не могу продавать, не говоря уже про раздумья!"
 
 #. Key:	DL_SellerNotes
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerNotes.Default__DL_SellerNotes_C.DialogueText
@@ -16079,7 +16082,7 @@ msgid ""
 "Kolhii, Kolhii, Kolhii! Welcome to my shop Toa, I sell everything you'll ever need for a "
 "Kolhii match!"
 msgstr ""
-"Колхи, Колхи, Колхи! Добро пожаловать в мою лавку, Тоа, я продаю всё, что вам нужно для "
+"Колхи, Колхи, Колхи! Добро пожаловать в мою лавку, Тоа! Я продаю всё, что вам нужно для "
 "матчей по Колхи!"
 
 #. Key:	DL_SellerSports1
@@ -16098,7 +16101,7 @@ msgid ""
 "profit! He cares nothing about the actual game, the sportsmanship!"
 msgstr ""
 "Нет, он мне не нравится! Он эгоистичный шарлатан, который продаёт мячи для Колхи "
-"исключительно ради заработка! Его не волнует сама игра, дух спорта!"
+"исключительно ради заработка! Его не интересует сама игра, дух спорта!"
 
 #. Key:	DL_SellerTrade
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_SellerTrade.Default__DL_SellerTrade_C.DialogueText
@@ -16212,8 +16215,8 @@ msgid ""
 "This is the Onu-Koro shipping center, we ship things from Koro to Koro. I know it seems "
 "like we're in Po-Wahi but we're actually just on the edge of Onu-Wahi!"
 msgstr ""
-"Это центр доставки грузов Ону-Коро, мы доставляем вещи из Коро в Коро. Знаю, может "
-"показаться, что мы находимся в По-Вахи, но на самом деле мы на окраине Ону-Вахи!"
+"Это центр доставки грузов Ону-Коро, мы доставляем вещи из Коро в Коро. Знаю, вам может "
+"показаться, что мы находимся в По-Вахи… но на самом деле мы на окраине Ону-Вахи!"
 
 #. Key:	DL_ShipperIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_ShipperIntro.Default__DL_ShipperIntro_C.DialogueText
@@ -16280,7 +16283,7 @@ msgid ""
 "An Ussal that can talk? I've gotta see this... *He opens his eyes.* Oh. It's just you, "
 "Toa $T... I mean, not that i'm not glad to see you, that is!"
 msgstr ""
-"Уссал, который может говорить? Я должен это увидеть... *Открывает глаза* А, это вы, Тоа "
+"Уссал, который может говорить? Я должен это увидеть! *Открывает глаза* А, это вы, Тоа "
 "$T... В смысле, я не то что не рад вас видеть... очень даже наоборот!"
 
 #. Key:	DL_ShipperIntroToa
@@ -16323,7 +16326,7 @@ msgid ""
 "work here anyway."
 msgstr ""
 "Мы – официальный центр доставки грузов для селения, поскольку мы – единственный крупный "
-"порт Ону-Вахи, но не все грузы из Ону-Коро проходят через нас. Более того, наш начальник "
+"порт Ону-Вахи. Но не все грузы из Ону-Коро проходят через нас. Более того, наш начальник "
 "даже не посещает это место так часто. Это немножко странно, я не до конца понимаю как "
 "это работает. Но я всё равно работаю здесь."
 
@@ -16335,7 +16338,7 @@ msgid ""
 "Oh, Mr Khalo's shipment? I think my couriers started on their way with it yesterday. "
 "Come to think of it, they should be back by now."
 msgstr ""
-"А, груз мистера Кало? Я думаю, что наши курьеры начали его доставку вчера. Если "
+"А, груз господина Кало? Я думаю, что наши курьеры начали его доставку вчера. Если "
 "подумать, то они должны были уже вернуться."
 
 #. Key:	DL_ShipperQuestWhichWay
@@ -16413,7 +16416,7 @@ msgid ""
 msgstr ""
 "Балин! Я так и знал, что перепутаю их рано или поздно, они же выглядят совершенно "
 "одинаково! Я исправлю это незамедлительно... Хмм, может тогда вы вернёте мне обратно "
-"класс два?"
+"посохи класса два?"
 
 #. Key:	DL_StaffSellerQuartermaster3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Quartermaster/DL_StaffSellerQuartermaster3.Default__DL_StaffSellerQuartermaster3_C.DialogueText
@@ -16555,7 +16558,8 @@ msgid ""
 "to start building a new boat, ontop of everything else I need to get finished already!"
 msgstr ""
 "Как я уже говорил ранее, Тафол, я сейчас не могу тебя учить! К тому же, Марка попросила "
-"меня начать строительство новой лодки, не говоря обо всём остальном, что нужно закончить!"
+"меня начать строительство новой лодки! И это я не говорю обо всём остальном, что нужно "
+"закончить!"
 
 #. Key:	DL_TafallAbandoned3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_TafallAbandoned3.Default__DL_TafallAbandoned3_C.DialogueText
@@ -16644,7 +16648,7 @@ msgid ""
 "Yes we have very similar names, but to be honest, there's not much of a story there Toa "
 "- I just don't like being confused with him."
 msgstr ""
-"Да, у нас имена очень похожи, но, по правде говоря, тут нет ничего особенного, Тоа – я "
+"Да, у нас имена очень похожи... но, по правде говоря, тут нет ничего особенного, Тоа – я "
 "просто не люблю, когда меня всё время с ним путают."
 
 #. Key:	DL_Tahu1
@@ -16710,7 +16714,7 @@ msgstr "Тоа! Давайте завершим дело, которое нам 
 #: /Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold.Default__DL_TahuNoGold_C.DialogueText
 msgctxt "Dialogue_Text,DL_TahuNoGold"
 msgid "*Humpf* It appears we are not all ready, go collect all your golden masks."
-msgstr "*Хмпф* Похоже, что мы ещё не все готовы, соберите все свои золотые маски."
+msgstr "*Хмпф* Похоже, что мы ещё не все готовы. Соберите свои золотые маски."
 
 #. Key:	DL_TahuNoGold1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/KiniNui/DL_TahuNoGold1.Default__DL_TahuNoGold1_C.DialogueText
@@ -16735,8 +16739,8 @@ msgid ""
 "Oh a Toa! Yes I am, Onepu said to prepare for a special mission with him, and I'm afraid "
 "I don't exactly know which picaxe to chose."
 msgstr ""
-"О, Тоа! Да, Онепу сказал подготовиться к специальной миссии с ним, а я не знаю какую "
-"кирку мне выбрать."
+"О, Тоа! Да, Онепу сказал подготовиться к специальной миссии с ним. Но я по-прежнему не "
+"знаю: какую кирку мне выбрать."
 
 #. Key:	DL_Taipu3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_Taipu3.Default__DL_Taipu3_C.DialogueText
@@ -16744,7 +16748,7 @@ msgstr ""
 msgctxt "Dialogue_Text,DL_Taipu3"
 msgid "That's alright, Onepu said I'd have plenty of time to decide."
 msgstr ""
-"Всё хорошо, Онепу говорит, что у меня есть достаточно времени, чтобы принять решение."
+"Всё хорошо. Онепу говорит, что у меня есть достаточно времени, чтобы принять решение."
 
 #. Key:	DL_TakoroGuardGreeting1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardGreeting1.Default__DL_TakoroGuardGreeting1_C.DialogueText
@@ -16814,7 +16818,7 @@ msgid ""
 "Oh hello there Toa! It's true the Ta-Koro guard does supply pikes, but if you buy your "
 "own you can get one in better condition, and even get it customised!"
 msgstr ""
-"О, приветствую, Тоа! Это правда, что страже Та-Коро поставляют посохи, но если вам "
+"О, приветствую, Тоа! Это правда, что страже Та-Коро поставляют посохи. Но если вам "
 "удастся купить свой собственный, то вы получите один в хорошем состоянии. Вы даже можете "
 "кастомизировать его!"
 
@@ -16827,7 +16831,7 @@ msgid ""
 "meeting with the other Turaga, and Kapura is as weird as ever."
 msgstr ""
 "Ну, не совсем. Такуа снова слоняется без дела, Вакама недавно вернулся со встречи с "
-"другими Турага, а Капура ведёт себя странно, как и всегда."
+"другими Турага… а Капура ведёт себя странно, как и всегда."
 
 #. Key:	DL_TakoroGuardResponse3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Guards/DL_TakoroGuardResponse3.Default__DL_TakoroGuardResponse3_C.DialogueText
@@ -16878,7 +16882,7 @@ msgid ""
 msgstr ""
 "Я начал бежать до тех пор, пока не наткнулся на эту комнату. У меня были остатки фруктов "
 "Маду, но я чутка запаниковал и выбросил их, когда я впервые нашёл путь внутрь... но "
-"спасибо за расчистку, я теперь могу уйти!"
+"спасибо за расчистку, ведь теперь я смогу уйти!"
 
 #. Key:	DL_Takua4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/DL_Takua4.Default__DL_Takua4_C.DialogueText
@@ -17004,7 +17008,7 @@ msgid ""
 "Hai... Haikus! Yeah, Don't start telling me about how \"Haikus\" don't have to rhyme!"
 msgstr ""
 "Твои поэмы даже не имеют рифмы, не нужно мне говорить про... Эмм... Ха... Хайку! Да, не "
-"говори мне о том, что «Хайку» не должны рифмоваться!"
+"рассказывай мне про то, что «Хайку» не должны рифмоваться!"
 
 #. Key:	DL_Talok4
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/Talok/DL_Talok4.Default__DL_Talok4_C.DialogueText
@@ -17164,7 +17168,7 @@ msgid ""
 "requests. I don't want to let them down!"
 msgstr ""
 "Ну, я своего рода главный чинила селения – все на меня рассчитывают в выполнении своих "
-"просьб. Я не хочу их подводить!"
+"просьб. И я не хочу их подводить!"
 
 #. Key:	DL_Taphal3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal3.Default__DL_Taphal3_C.DialogueText
@@ -17421,7 +17425,7 @@ msgstr "Большое спасибо, что спасли Кумо! Вы и п�
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei2.Default__DL_Thuei2_C.DialogueText
 msgctxt "Dialogue_Text,DL_Thuei2"
 msgid "No, no no! Toa, you're not supposed to see this yet! I'm still working on it!"
-msgstr "Нет, нет, нет! Тоа, вы ещё не должны это видеть! Я над этим ещё работаю!"
+msgstr "Нет, нет, нет! Тоа, вы ещё не должны это видеть! Я всё ещё работаю над этим!"
 
 #. Key:	DL_Thuei3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_Thuei3.Default__DL_Thuei3_C.DialogueText
@@ -17454,7 +17458,7 @@ msgid ""
 "Oh... wouldn't it be cool if Onua was riding the Muaka instead? Maybe you're there too..."
 msgstr ""
 "Скоро. Очень скоро. Мне просто нужно поменять кое-что и всё будет прекрасно. Ох... было "
-"бы круто, если бы Онуа сидел верхом на Муаке. Может и с вами..."
+"бы круто, если бы Онуа сидел верхом на Муаке. Может и вместе с вами..."
 
 #. Key:	DL_ThueiFinishOnua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFinishOnua.Default__DL_ThueiFinishOnua_C.DialogueText
@@ -17465,7 +17469,7 @@ msgid ""
 "Oh... wouldn't it be cool if you were riding the Muaka instead? Maybe Lewa's there too..."
 msgstr ""
 "Скоро. Очень скоро. Мне просто нужно поменять кое-что и всё будет прекрасно. Ох... было "
-"бы круто, если бы вы сидели верхом на Муаке. Может и с Левой..."
+"бы круто, если бы вы сидели верхом на Муаке. Может и вместе с Левой..."
 
 #. Key:	DL_ThueiFun
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoWahi/DL_ThueiFun.Default__DL_ThueiFun_C.DialogueText
@@ -17494,7 +17498,7 @@ msgid ""
 "the pillarlands two weeks ago! I've gotta go... just after I finish adjusting this... "
 "hmm..."
 msgstr ""
-"Спасибо, $T. Стоп... Мата Нуи! Я забыл закончить мост, который Река попросил меня "
+"Спасибо, $T. Стоп... Мата Нуи! Я забыл закончить мост, который Кало попросил меня "
 "соорудить в столбовых землях две недели назад! Мне нужно идти... после того, как я "
 "закончу с этим... хмм..."
 
@@ -17693,7 +17697,7 @@ msgid ""
 "troubled. I shall stay here and meditate upon the will of Mata Nui."
 msgstr ""
 "Да, и ещё. Пока ты ищешь маски, присмотри ещё за... ладно, неважно. Он наверняка "
-"прибудет вовремя. Прошу меня извинить, Тоа. Мой разум всё ещё неспокоен. Я останусь "
+"прибудет вовремя... Прошу меня извинить, Тоа – мой разум всё ещё неспокоен. Я останусь "
 "здесь и буду медитировать во имя воли Мата Нуи."
 
 #. Key:	DL_VakamaBeforeRescueMap
@@ -17704,7 +17708,7 @@ msgid ""
 "Hmm, you don't have a map? I remember giving you one... Hmpf, very well - I can give you "
 "my spare, it's only for Ta-wahi but It may help."
 msgstr ""
-"Хмм, у тебя нет карты? Я помню, что давал тебе одну... *Хмпф* Ну да ладно, я могу дать "
+"Хмм, у тебя нет карты? Я помню, что давал тебе одну... хм... ну да ладно, я могу дать "
 "запасную. На ней только Та-Вахи, но это может помочь."
 
 #. Key:	DL_VakamaBeforeRescueWhatDo
@@ -17918,7 +17922,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Numai4.Default__DL_WhagnaMeeting_Numai4_C.DialogueText
 msgctxt "Dialogue_Text,DL_WhagnaMeeting_Numai4"
 msgid "You would be working yourself to death Taphal, there's no need for that!"
-msgstr "Ты будешь работать до смерти, Тафал, в этом риске нет необходимости!"
+msgstr "Ты заработаешься до смерти, Тафал! В этом риске нет необходимости!"
 
 #. Key:	DL_WhagnaMeeting_NumaiStay
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_NumaiStay.Default__DL_WhagnaMeeting_NumaiStay_C.DialogueText
@@ -17936,7 +17940,7 @@ msgid ""
 "$T, however only time will tell."
 msgstr ""
 "Эм... позвольте перефразировать. Я считаю, что вы совершаете критическую ошибку в "
-"суждении, $T, но, как говорится, время покажет."
+"суждении, $T... но, как говорится, время покажет."
 
 #. Key:	DL_WhagnaMeeting_Parhi1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi1.Default__DL_WhagnaMeeting_Parhi1_C.DialogueText
@@ -17988,8 +17992,8 @@ msgid ""
 "Toa $T, with the vote in a deadlock - and our deciding vote being completely out of it, "
 "I'd like to defer to your wisdom in this matter."
 msgstr ""
-"Тоа $T, ввиду ничейного результата голосования – и моего невмешательства в сей процесс, "
-"я доверюсь вашей мудрости в этом деле."
+"Тоа $T, ввиду равенства голосов – и моего невмешательства в сей процесс, я доверюсь "
+"вашей мудрости в этом деле."
 
 #. Key:	DL_WhagnaMeeting_Parhi18
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/Meeting/DL_WhagnaMeeting_Parhi18.Default__DL_WhagnaMeeting_Parhi18_C.DialogueText
@@ -18212,14 +18216,14 @@ msgid ""
 "climbed up here to escape them."
 msgstr ""
 "Я возвращался в Ону-Коро, как вдруг из ниоткуда появился рой Нуи-Джаг и погнался за "
-"мной. Я забрался сюда, чтобы спрятаться от них."
+"мной. Я забрался сюда, чтобы укрыться от них."
 
 #. Key:	DL_WhenuaLost3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaLost3.Default__DL_WhenuaLost3_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaLost3.Default__DL_WhenuaLost3_C.DialogueText
 msgctxt "Dialogue_Text,DL_WhenuaLost3"
 msgid "Well... yes I do. I’m not particularly fond of heights..."
-msgstr "Ну... в общем-то да. Я не большой фанат высоты."
+msgstr "Ну... в общем-то да. Я не большой любитель высоты."
 
 #. Key:	DL_WhenuaOnua
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua.Default__DL_WhenuaOnua_C.DialogueText
@@ -18253,11 +18257,11 @@ msgid ""
 "temple, preventing us from burrowing into the temple from below again. It was a great "
 "convenience which is, unfortunately, lost."
 msgstr ""
-"Как ты мог заметить по нашей великой шахте, фрагменты туннелей Ону-Вахи стали куда менее "
-"стабильными, чем раньше. Обвалы происходят гораздо чаще, что даже начало сказываться на "
-"поверхности. По-видимому, эти толчки затронули и храм Ону-Кини, что снова лишает нас "
-"возможности прорваться туда снизу. Это было большим удобством, которого мы, к сожалению, "
-"лишились."
+"Как ты мог заметить по нашей великой шахте, некоторые участки туннелей Ону-Вахи стали "
+"куда менее устойчивыми, чем раньше. Обвалы происходят гораздо чаще, что даже начало "
+"сказываться на поверхности. По-видимому, эти толчки затронули и храм Ону-Кини, что снова "
+"лишает нас возможности прорваться туда снизу. Это было большим удобством, которого мы, к "
+"сожалению, лишились."
 
 #. Key:	DL_WhenuaOnua3
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua3.Default__DL_WhenuaOnua3_C.DialogueText
@@ -18271,7 +18275,7 @@ msgid ""
 msgstr ""
 "Ты не... Ой! Прошу прощения, Онуа. Мы ранее пытались попасть в Ону-Кини другими "
 "методами, стремясь избежать угроз Макуты. ...Всё в рамках подготовки к твоему прибытию. "
-"Извиняюсь за... то, что мог ввести тебя в заблуждение."
+"Я извиняюсь за... то, что мог ввести тебя в заблуждение."
 
 #. Key:	DL_WhenuaOnua4real
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/Turaga/DL_WhenuaOnua4real.Default__DL_WhenuaOnua4real_C.DialogueText
@@ -18590,7 +18594,7 @@ msgid ""
 "very heavy."
 msgstr ""
 "Это небольшая статуэтка Нуи-Рамы. Как это ни странно, она сделана из чистого золота. Она "
-"очень тяжёлая."
+"достаточно тяжёлая."
 
 #. Key:	Item_GoldenRuki_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_GoldenRuki.Item_GoldenRuki.Description
@@ -18727,8 +18731,8 @@ msgid ""
 "A small device crafted by Metonu, Designed by Nuparu, that can be used to find near by "
 "$M."
 msgstr ""
-"Небольшое устройство, созданное Метону по чертежам Нупару, которое позволит найти "
-"ближайшую Канохи $M."
+"Небольшое устройство, созданное Метону по чертежам Нупару. Оно позволит найти ближайшую "
+"маску Канохи следующего типа: $M."
 
 #. Key:	Item_MetallicProtodermisIngots_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_MetallicProtodermisIngots.Item_MetallicProtodermisIngots.Description
@@ -18868,8 +18872,8 @@ msgid ""
 "The standard staves used by the Ta-Koro guard. Class 2s are slightly weaker and shorter "
 "than the superior Class 1s."
 msgstr ""
-"Стандартные посохи, используемые стражниками Та-Коро. Посохи Класса 2 несколько слабее и "
-"короче, в сравнении с более лучшим Классом 1."
+"Стандартные посохи, используемые стражниками Та-Коро. Посохи класса 2 несколько слабее и "
+"короче, в сравнении с более лучшим классом 1."
 
 #. Key:	Item_Statuette_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_Statuette.Item_Statuette.Description
@@ -19384,42 +19388,42 @@ msgstr "Покетдермис"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteBurns.Item_PoetNoteBurns.Name
 msgctxt "InvItem_Name,Item_PoetNoteBurns"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Талок: Баллада о Та-Коро, Часть 2"
+msgstr "Талок: Баллада о Та-Коро. Часть 2"
 
 #. Key:	Item_PoetNoteHot
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteHot.Item_PoetNoteHot.Name
 msgctxt "InvItem_Name,Item_PoetNoteHot"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Талок: Баллада о Та-Коро, Часть 2"
+msgstr "Талок: Баллада о Та-Коро. Часть 2"
 
 #. Key:	Item_PoetNoteLight
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteLight.Item_PoetNoteLight.Name
 msgctxt "InvItem_Name,Item_PoetNoteLight"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Талок: Баллада о Та-Коро, Часть 2"
+msgstr "Талок: Баллада о Та-Коро. Часть 2"
 
 #. Key:	Item_PoetNotePart1
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart1.Item_PoetNotePart1.Name
 msgctxt "InvItem_Name,Item_PoetNotePart1"
 msgid "Talok: The Ballad of Ta-koro Part 1"
-msgstr "Талок: Баллада о Та-Коро, Часть 1"
+msgstr "Талок: Баллада о Та-Коро. Часть 1"
 
 #. Key:	Item_PoetNotePart3
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNotePart3.Item_PoetNotePart3.Name
 msgctxt "InvItem_Name,Item_PoetNotePart3"
 msgid "Talok: The Ballad of Ta-koro Part 3"
-msgstr "Талок: Баллада о Та-Коро, Часть 3"
+msgstr "Талок: Баллада о Та-Коро. Часть 3"
 
 #. Key:	Item_PoetNoteSmoke
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_PoetNoteSmoke.Item_PoetNoteSmoke.Name
 msgctxt "InvItem_Name,Item_PoetNoteSmoke"
 msgid "Talok: The Ballad of Ta-koro Part 2"
-msgstr "Талок: Баллада о Та-Коро, Часть 2"
+msgstr "Талок: Баллада о Та-Коро. Часть 2"
 
 #. Key:	Item_PoMakoki
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_PoMakoki.Item_PoMakoki.Name
@@ -19482,7 +19486,7 @@ msgstr "Список покупок для Метону"
 #: /Game/BluePrints/Classes/Inventory/Items/Notes/Item_SouthernTipNote.Item_SouthernTipNote.Name
 msgctxt "InvItem_Name,Item_SouthernTipNote"
 msgid "Southern Tip Note"
-msgstr "Заметка о Южном Мысе"
+msgstr "Заметка о Южном мысе"
 
 #. Key:	Item_StaffClass2
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/Item_StaffClass2.Item_StaffClass2.Name
@@ -19657,14 +19661,14 @@ msgstr "Виджеты"
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WoodStatue.Item_WoodStatue.Name
 msgctxt "InvItem_Name,Item_WoodStatue"
 msgid "Wood Head Statue"
-msgstr "Деревянная Статуэтка Головы"
+msgstr "Деревянная статуэтка головы"
 
 #. Key:	Item_WorldMap
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
 #: /Game/BluePrints/Classes/Inventory/Items/Artifacts/Item_WorldMap.Item_WorldMap.Name
 msgctxt "InvItem_Name,Item_WorldMap"
 msgid "World Map"
-msgstr "Карта Мира"
+msgstr "Карта мира"
 
 #. Key:	KylmaNote
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/QuestItems/KylmaNote.KylmaNote.Name
@@ -20778,7 +20782,7 @@ msgstr "Среди сожжённых деревьев"
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.QuestName
 msgctxt "Quest_Name,Quest_CalmCave"
 msgid "A Calm Cave"
-msgstr "Тихая Пещера"
+msgstr "Тихая пещера"
 
 #. Key:	Quest_Challange
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.QuestName
@@ -20897,7 +20901,7 @@ msgstr "Храм Воздуха"
 #: /Game/BluePrints/Classes/Quests/Quest_LeTemple.Default__Quest_LeTemple_C.QuestName
 msgctxt "Quest_Name,Quest_LeTemple"
 msgid "A Temple in the Jungle"
-msgstr "Храм в Джунглях"
+msgstr "Храм в джунглях"
 
 #. Key:	Quest_Lewa
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Lewa.Default__Quest_Lewa_C.QuestName
@@ -21072,7 +21076,7 @@ msgstr "Турага Воды"
 #: /Game/BluePrints/Classes/Quests/Quest_Amongsttheburnttrees.Default__Quest_Amongsttheburnttrees_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_Amongsttheburnttrees_Objective_1"
 msgid "Talk to the Temple master of the Ta-wahi temple."
-msgstr "Поговорите с Хранителем храма в Та-Вахи."
+msgstr "Поговорите с хранителем храма в Та-Вахи."
 
 #. Key:	Quest_CalmCave_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21086,7 +21090,7 @@ msgstr "Одолейте всех Рахи."
 #: /Game/BluePrints/Classes/Quests/Quest_CalmCave.Default__Quest_CalmCave_C.Objectives(1).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_CalmCave_Objective_2"
 msgid "Talk to the Hiding matoran."
-msgstr "Поговорите с Прячущимся матораном."
+msgstr "Поговорите с прячущимся матораном."
 
 #. Key:	Quest_Challange_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_Challange.Default__Quest_Challange_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21121,7 +21125,7 @@ msgstr "Передайте Комеке Комету."
 #: /Game/BluePrints/Classes/Quests/Quest_DangerOnTheHorizon.Default__Quest_DangerOnTheHorizon_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
 msgctxt "Quest_Objective,Quest_DangerOnTheHorizon_Objective_1"
 msgid "Defeat the Tarakava guarding the Temple."
-msgstr "Одолейте Таракав, охраняющих Храм."
+msgstr "Одолейте Таракав, охраняющих храм."
 
 #. Key:	Quest_FindKumo_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_FindKumo.Default__Quest_FindKumo_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21299,7 +21303,7 @@ msgid ""
 "Reka has told you to find Khalo, the local Jobmaster; He may have a way for you to earn "
 "the widgets."
 msgstr ""
-"Река сказал вам найти Кало, местного ремесленника; Возможно, у него есть способ "
+"Река сказал вам найти Кало, местного ремесленника. Возможно, у него есть способ "
 "заработка пары виджетов."
 
 #. Key:	Quest_OnTheLine_Objective_2
@@ -21330,7 +21334,7 @@ msgstr ""
 msgctxt "Quest_Objective,Quest_OnTheLine_Objective_4"
 msgid ""
 "Jobmaster Khalo's shipment was filled with illegal ruki fish, confront him about this."
-msgstr "Груз ремесленника Кало заполнен незаконными рыбами Руки, поговорите с ним об этом."
+msgstr "Груз ремесленника Кало заполнен незаконными рыбами Руки. Поговорите с ним об этом."
 
 #. Key:	Quest_Onua_Objective_1
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_Onua.Default__Quest_Onua_C.Objectives(0).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -22342,7 +22346,7 @@ msgstr ">"
 #: /Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
 msgctxt "ST_DialogueGeneralLocalization,Riverdriedup"
 msgid "Do you know why the river dried up?"
-msgstr "Ты знаешь, почему река высохла?"
+msgstr "Ты знаешь, почему река обмелела?"
 
 #. Key:	TakeLook
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_DialogueGeneralLocalization.ST_DialogueGeneralLocalization
@@ -23907,7 +23911,7 @@ msgstr "Ону-Кини"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_Outcast"
 msgid "Outcast"
-msgstr "Изгнанник"
+msgstr "Изгой"
 
 #. Key:	Names_Pakari
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24201,7 +24205,7 @@ msgstr "Таракава Холода"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_TempleMaster"
 msgid "Temple Master"
-msgstr "Хранитель Храма"
+msgstr "Хранитель храма"
 
 #. Key:	Names_TheEnvironmentalist
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
@@ -24306,14 +24310,14 @@ msgstr "Уссал"
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_UssalOwner"
 msgid "Ussal Owner"
-msgstr "Владелец Уссала"
+msgstr "Владелец Уссалов"
 
 #. Key:	Names_UssalWaxer
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 #: /Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
 msgctxt "ST_Names,Names_UssalWaxer"
 msgid "Ussal Waxer"
-msgstr "Полировщик Уссала"
+msgstr "Полировщик Уссалов"
 
 #. Key:	Names_Yuma
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_Names.ST_Names
