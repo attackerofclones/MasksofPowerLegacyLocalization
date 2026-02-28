@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-28 10:41+0300\n"
+"PO-Revision-Date: 2026-02-28 10:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -5288,7 +5288,7 @@ msgstr "Я {G}|gender(хотел, хотела) спросить у тебя т�
 #: /Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter4.Default__DL_MatoranTransporter4_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_MatoranTransporter4_PlayerResponse_1"
 msgid "Interesting, may I ask what you're delivering?"
-msgstr "Интересно… Я могу узнать, что ты доставляешь?"
+msgstr "Интересно… Я могу узнать, что именно ты доставляешь?"
 
 #. Key:	DL_MatoranTransporter5_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_MatoranTransporter5.Default__DL_MatoranTransporter5_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -13210,7 +13210,7 @@ msgid ""
 "like a super powerful gemstone that will be used to invent the next big thing! But "
 "usally it just ends up being fish or wood - Something boring."
 msgstr ""
-"Да, типа того. Но иногда я люблю притворяться, что там лежит что-то ОЧЕНЬ важное, вроде "
+"Да, есть такое. Но иногда я люблю притворяться, что там лежит что-то ОЧЕНЬ важное, вроде "
 "очень крепкого камня, из которого можно сделать что-то крутое! Но обычно там оказывается "
 "рыба или древесина – что-то скучное."
 
