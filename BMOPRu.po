@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-02-28 10:54+0300\n"
+"PO-Revision-Date: 2026-03-01 15:05+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21844,7 +21844,7 @@ msgid ""
 "you need to suffer before they revealed their secrets?"
 msgstr ""
 "Похоже, что глупые Турага устали от своего же вранья. Сколько поражений вам пришлось "
-"претерпеть до того, как они раскрыли свои тайны?"
+"претерпеть до того, как они раскрыли свои секреты?"
 
 #. Key:	MakutaIntro_Line13
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21852,7 +21852,7 @@ msgstr ""
 msgctxt "ST_CutsceneDialogue,MakutaIntro_Line13"
 msgid ""
 "And how many other secrets do they still selfishly cling to after all of these years?"
-msgstr "И сколько секретов они по-прежнему эгоистично скрывают спустя все эти годы?"
+msgstr "И сколько тайн они по-прежнему эгоистично скрывают спустя все эти годы?"
 
 #. Key:	MakutaIntro_Line14
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
