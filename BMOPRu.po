@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-02 11:35+0300\n"
+"PO-Revision-Date: 2026-03-02 11:38+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -4291,7 +4291,7 @@ msgstr "А это?"
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteel3_PlayerResponse_2"
 msgid ""
 "I hate to ask you this Kohi, but did you have anything to do with the attack on Whagna?"
-msgstr "Не хочу спрашивать тебя об этом, Кохи… но связан ли ты с нападением на Вагну?"
+msgstr "Не хочу спрашивать с тебя об этом, Кохи… но связан ли ты с нападением на Вагну?"
 
 #. Key:	DL_KoTownKohiProtosteelDiscovered2_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownKohiProtosteelDiscovered2.Default__DL_KoTownKohiProtosteelDiscovered2_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
@@ -4411,7 +4411,7 @@ msgstr "И что это?"
 msgctxt "Dialogue_Response,DL_KoTownKohiProtosteelWhagnaattacked_PlayerResponse_2"
 msgid ""
 "I hate to ask you this Kohi, but did you have anything to do with the attack on Whagna?"
-msgstr "Не хочу спрашивать тебя об этом, Кохи… но связан ли ты с нападением на Вагну?"
+msgstr "Не хочу спрашивать с тебя об этом, Кохи… но связан ли ты с нападением на Вагну?"
 
 #. Key:	DL_KoTownSeller1_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_KoTownSeller1.Default__DL_KoTownSeller1_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
