@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-03-02 11:23+0300\n"
+"PO-Revision-Date: 2026-03-02 11:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -209,7 +209,7 @@ msgid ""
 "in this monument to the Great Spirit."
 msgstr ""
 "Га-Матораны миролюбивы по своей природе, что хорошо видно по храму, который они "
-"построили. Деревья, растущие внутри, открытый потолок, с которого открывается вид на "
+"соорудили. Деревья, растущие внутри, открытый потолок, с которого открывается вид на "
 "чистое небо Га-Вахи, благоговение перед раем, который подарил им Мата Нуи… Всё это можно "
 "увидеть невооружённым глазом в этом памятнике Великому Духу."
 
@@ -1748,7 +1748,7 @@ msgstr "По-Коро"
 #: Name
 msgctxt "CodexPage_Name,CodexPage_PoTemple"
 msgid "The Hidden Temple"
-msgstr "Скрытый Храм"
+msgstr "Скрытый храм"
 
 #. Key:	CodexPage_PoWahi
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_PoWahi.Default__LocationEntry_PoWahi_C.Location Name
@@ -17243,7 +17243,7 @@ msgid ""
 " </><Matoran>Over and over again and again The darkness controls the wheel</><Key> ... "
 "What could it mean..."
 msgstr ""
-" </><Matoran>Раз за разом, раз за разом, Тьма правит колесом</><Key> … Что бы это могло "
+" </><Matoran>Раз за разом, раз за разом, тьма правит колесом</><Key> …Что бы это могло "
 "значить…"
 
 #. Key:	DL_TelescopeMan1
@@ -17306,7 +17306,7 @@ msgstr ""
 "Так, посмотрим…  </><Matoran>Тьма будет побеждена, но ненадолго</><Key> Это вот оно… "
 "Затем идёт это. </><Matoran>Амнезия… Они сражаются против самих себя, а не против общего "
 "врага</><Key> Не совсем уверен насчёт этого, но я знаю про то, которое сбылось. </"
-"><Matoran>Шестеро потеряны, Шестеро похищены, Шестеро в ловушке. Всё это – часть плана</"
+"><Matoran>Шестеро потеряны, шестеро похищены, шестеро в ловушке. Всё это – часть плана</"
 "><Key> Мне кажется, что это отсылка к пропаже Тураг."
 
 #. Key:	DL_TempleMasterOtherTemples
@@ -17342,7 +17342,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran1.Default__DL_TempleMatoran1_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoran1"
 msgid "Thank you for making our Temple safe Toa!"
-msgstr "Спасибо, что спасли наш Храм, Тоа!"
+msgstr "Спасибо, что спасли наш храм, Тоа!"
 
 #. Key:	DL_TempleMatoran2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoran2.Default__DL_TempleMatoran2_C.DialogueText
@@ -17351,7 +17351,9 @@ msgctxt "Dialogue_Text,DL_TempleMatoran2"
 msgid ""
 "Toa! There are more Temples over the Island that have been overrun! Would you be willing "
 "to free them?"
-msgstr "Тоа! Есть ещё храмы, которые были захвачены! Не желаете ли вы освободить их?"
+msgstr ""
+"Тоа! На острове всё ещё остались храмы, которые были захвачены! Не желаете ли вы "
+"освободить их?"
 
 #. Key:	DL_TempleMatoranGetQuest
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranGetQuest.Default__DL_TempleMatoranGetQuest_C.DialogueText
@@ -17360,7 +17362,9 @@ msgctxt "Dialogue_Text,DL_TempleMatoranGetQuest"
 msgid ""
 "Toa! There are more Temples over the Island that have been overrun! Would you be willing "
 "to free them?"
-msgstr "Тоа! Есть ещё храмы, которые были захвачены! Не желаете ли вы освободить их?"
+msgstr ""
+"Тоа! На острове всё ещё остались храмы, которые были захвачены! Не желаете ли вы "
+"освободить их?"
 
 #. Key:	DL_TempleMatoranQuestGet
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/GaKoro/Quests/DangerOnTheHorizon/DL_TempleMatoranQuestGet.Default__DL_TempleMatoranQuestGet_C.DialogueText
@@ -17380,14 +17384,16 @@ msgctxt "Dialogue_Text,DL_TempleMatoranQuestIntro"
 msgid ""
 "Toa! There are more Temples around the Island that have been overrun! Would you be "
 "willing to free them?"
-msgstr "Тоа! Есть ещё храмы, которые были захвачены! Не желаете ли вы освободить их?"
+msgstr ""
+"Тоа! На острове всё ещё остались храмы, которые были захвачены! Не желаете ли вы "
+"освободить их?"
 
 #. Key:	DL_TempleMatoranThanks
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TempleMatoranThanks.Default__DL_TempleMatoranThanks_C.DialogueText
 #: /Game/BluePrints/Classes/Dialogue/Lines/Kokoro/DL_TempleMatoranThanks.Default__DL_TempleMatoranThanks_C.DialogueText
 msgctxt "Dialogue_Text,DL_TempleMatoranThanks"
 msgid "Thank you toa $T for saving our Temple!"
-msgstr "Спасибо, Тоа $T, что спасли наш Храм!"
+msgstr "Спасибо, Тоа $T, что спасли наш храм!"
 
 #. Key:	DL_Thankscavetemple
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/CaveTemple/DL_Thankscavetemple.Default__DL_Thankscavetemple_C.DialogueText
