@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-11 15:43+0300\n"
+"PO-Revision-Date: 2026-05-18 10:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24363,7 +24363,7 @@ msgstr ""
 "здоровье.\r\n"
 "\r\n"
 "\r\n"
-"Нажмите <Key>{Action1}</>для перехода в боевой режим"
+"Нажмите <Key>{Action1}</> для перехода в боевой режим"
 
 #. Key:	Tut_Crouch
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Crouch.Tut_Crouch.Text
