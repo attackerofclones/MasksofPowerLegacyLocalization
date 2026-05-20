@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-20 11:32+0300\n"
+"PO-Revision-Date: 2026-05-20 11:38+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18456,8 +18456,8 @@ msgstr "Поаккуратнее со словами, которые ты гов
 msgctxt "Dialogue_Text,DL_WinRacePohatuGift"
 msgid "What did I say? Stylish, right? And I’ve got enough for all six of us to wear!"
 msgstr ""
-"Что я говорил? Стильно-модно-молодёжно, да? И у меня их есть достаточно для всей нашей "
-"шестёрки!"
+"Ну, что я говорил? Стильно-модно-молодёжно, да? И у меня их есть достаточно для всей "
+"нашей шестёрки!"
 
 #. Key:	DL_YumaFishIntro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/Bazaar/DL_YumaFishIntro.Default__DL_YumaFishIntro_C.DialogueText
