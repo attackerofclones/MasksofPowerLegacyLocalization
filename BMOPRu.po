@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-20 11:38+0300\n"
+"PO-Revision-Date: 2026-05-21 12:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14100,7 +14100,7 @@ msgid ""
 "acknowledges his own misunderstandings, and believes that, ultimately, the correct "
 "decision was made by us both."
 msgstr ""
-"Нуджу понял всё то, что произошло. Хотя он не одобряет обман, он всё же признаёт "
+"Нуджу понял всё то, что произошло. Хотя он не одобряет обман, он всё же признаёт свои "
 "собственные ошибки и верит, что нами, в конечном счёте, было принято верное решение."
 
 #. Key:	DL_NujuCovoKiniReturnKopaka1
@@ -22017,7 +22017,7 @@ msgid ""
 "For I am THE PROPHET OF THE MAKUTA!"
 msgstr ""
 "Видимо, тебе удалось меня найти… Ты не сможешь остановить мою миссию… Ваше время придёт, "
-"Тоа… Ведь я – ПРОРОК МАКУТЫ!"
+"Тоа… Ибо я – ПРОРОК МАКУТЫ!"
 
 #. Key:	POTM_Line10
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -22079,7 +22079,7 @@ msgstr "Маторан сказал мне, где оно. А что?"
 #: /Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
 msgctxt "ST_CutsceneDialogue,POTM_Line6"
 msgid "Impossible! No one knows where it is! Except for..."
-msgstr "Невозможно! Этого никто не знает! Кроме…"
+msgstr "Невозможно! Этого никто не знает! Никто, кроме…"
 
 #. Key:	POTM_Line7
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
