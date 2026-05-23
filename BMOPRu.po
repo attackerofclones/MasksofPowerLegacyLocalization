@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-23 11:41+0300\n"
+"PO-Revision-Date: 2026-05-23 11:53+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -536,7 +536,7 @@ msgstr ""
 "обеспечивает защиту от наземных Рахи, однако она остаётся уязвимой к летающим Рахи, "
 "вроде Нуи-Рамы. Лифт, ведущий от деревни до озера Канае, обеспечивает доступ в деревню "
 "для других Маторанов. Весёлый и озорной дух Ле-Маторанов становится очевиден во время "
-"нахождения в их деревне. Также с деревьев нередко можно услышать их музыку."
+"пребывания в их деревне. Также с деревьев нередко можно услышать их музыку."
 
 #. Key:	CodexPage_LeTemple_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_LeTemple.Default__LocationEntry_LeTemple_C.Location Description
