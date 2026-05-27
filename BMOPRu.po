@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-27 20:18+0300\n"
+"PO-Revision-Date: 2026-05-27 20:32+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10080,8 +10080,9 @@ msgid ""
 "The Pillar-Lands don't really have lots of pillars, just large natural rock formations. "
 "It's very beautiful, but quite hard to get to. Maybe not for a toa though."
 msgstr ""
-"В Столбовых Землях в действительности нет множества столбов – там лишь природные "
-"скальные образования. Место красивое, но туда сложно попасть. Ну, возможно, не для Тоа."
+"Ну… в Столбовых Землях на самом деле нет столбов в привычном смысле слова – там лишь "
+"огромные скальные образования природного происхождения. Место красивое, но туда сложно "
+"попасть. Ну, возможно, не для Тоа."
 
 #. Key:	DL_CartographerQuestStart
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerQuestStart.Default__DL_CartographerQuestStart_C.DialogueText
@@ -10132,7 +10133,7 @@ msgid ""
 "lands. We call this entire region Po-Wahi."
 msgstr ""
 "Мы в деревне По-Коро, в районе пустыни Мотара. Недалеко отсюда расположены каньон Тиро и "
-"Столбовые земли. Этот регион целиком мы называем По-Вахи."
+"Столбовые земли. Этот регион целиком мы называем «По-Вахи»."
 
 #. Key:	DL_CaveInMatoran
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Onu-wahi/DL_CaveInMatoran.Default__DL_CaveInMatoran_C.DialogueText
