@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-28 19:37+0300\n"
+"PO-Revision-Date: 2026-05-28 19:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12526,7 +12526,7 @@ msgstr "Они на берегу небольшого островка у гра
 msgctxt "Dialogue_Text,DL_KylmaTrouble"
 msgid "Oh, Hello Toa $T! Well, simply put I cannot find some of my research."
 msgstr ""
-"О, здравствуй, Тоа $T! Ну, если совсем просто, я не могу найти некоторые записи "
+"О, доброго дня, Тоа $T! Ну, если совсем просто, я не могу найти некоторые записи "
 "исследований."
 
 #. Key:	DL_KylmaTrouble2
@@ -12572,7 +12572,7 @@ msgstr "Здесь тоже нет… Значит, они должны быть
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_LavaFarmerBreak.Default__DL_LavaFarmerBreak_C.DialogueText
 msgctxt "Dialogue_Text,DL_LavaFarmerBreak"
 msgid "Hello Toa. I'm just taking a break, Lava farming is hard work!"
-msgstr "Здравствуй, Тоа. Я лишь отдыхаю, ведь добыча лавы – дело трудное!"
+msgstr "Доброго времени суток, Тоа. Я лишь отдыхаю, ведь добыча лавы – дело трудное!"
 
 #. Key:	DL_LeQuest1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/QuestFindKumo/DL_LeQuest1.Default__DL_LeQuest1_C.DialogueText
