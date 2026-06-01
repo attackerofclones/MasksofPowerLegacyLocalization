@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-06-01 20:17+0300\n"
+"PO-Revision-Date: 2026-06-01 20:23+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -12527,7 +12527,7 @@ msgctxt "Dialogue_Text,DL_KylmaTrouble"
 msgid "Oh, Hello Toa $T! Well, simply put I cannot find some of my research."
 msgstr ""
 "О, доброго дня, Тоа $T! Ну, если совсем просто, я не могу найти некоторые записи "
-"исследований."
+"собственных исследований."
 
 #. Key:	DL_KylmaTrouble2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/Kylma/DL_KylmaTrouble2.Default__DL_KylmaTrouble2_C.DialogueText
