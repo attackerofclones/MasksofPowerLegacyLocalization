@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-05-28 19:47+0300\n"
+"PO-Revision-Date: 2026-06-01 20:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -24451,7 +24451,8 @@ msgstr ""
 #: /Game/BluePrints/Classes/Tutorial/Tut_MaskPickupUI.Tut_MaskPickupUI.Text
 msgctxt "Tutorial_Text,Tut_MaskPickupUI"
 msgid "Here you can select what toa to give the mask to, for now just click confirm."
-msgstr "Здесь вы можете выбрать Тоа, чтобы отдать ему маску. А пока нажмите «Подтвердить»."
+msgstr ""
+"Здесь вы можете выбрать Тоа, которому хотите отдать маску. А пока нажмите «Подтвердить»."
 
 #. Key:	Tut_Meditation
 #. SourceLocation:	/Game/BluePrints/Classes/Tutorial/Tut_Meditation.Tut_Meditation.Text
