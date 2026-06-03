@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-06-03 14:37+0300\n"
+"PO-Revision-Date: 2026-06-03 14:49+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -14955,8 +14955,8 @@ msgid ""
 "Well I’m just waiting for Toa Kopaka… I told him that this is where he needed to come, "
 "but I’m worried that he’s simply forgotten."
 msgstr ""
-"Ну, я жду Тоа Копаку… Я сказал ему, что он должен сюда прийти, но боюсь, что он об этом "
-"забыл."
+"Ну, я лишь жду Тоа Копаку… Я сказал ему, что он должен сюда прийти, но боюсь, что он об "
+"этом забыл."
 
 #. Key:	DL_PoduRaceKopaka
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopaka.Default__DL_PoduRaceKopaka_C.DialogueText
@@ -14992,7 +14992,7 @@ msgid ""
 "you have one. Some legends say there’s one in the hidden Temple..."
 msgstr ""
 "Спасибо, Копака. Да, и ещё: мне сказали, что вам лучше принести с собой Какаму, если она "
-"у вас есть. Какие-то легенды гласят, что её можно найти в скрытом Храме…"
+"у вас есть. Какие-то легенды гласят, что её можно найти в Скрытом храме…"
 
 #. Key:	DL_PoduRaceKopakaWhat
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWhat.Default__DL_PoduRaceKopakaWhat_C.DialogueText
@@ -15003,8 +15003,8 @@ msgid ""
 "hidden Temple, so your guess is as good as mine."
 msgstr ""
 "Я… честно говоря, не до конца уверен. Всё, что мне сказали, так это то, что это "
-"архисрочно. Кроме скрытого храма особенного ничего нет, поэтому ваши догадки будут на "
-"уровне моих."
+"архисрочно. Кроме Скрытого храма ничего особенного там нет, поэтому ваши догадки будут "
+"на уровне моих."
 
 #. Key:	DL_PoduRaceKopakaWho
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/Kokoro/DL_PoduRaceKopakaWho.Default__DL_PoduRaceKopakaWho_C.DialogueText
