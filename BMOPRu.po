@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-06-03 14:49+0300\n"
+"PO-Revision-Date: 2026-06-04 10:18+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -17130,7 +17130,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru.Default__DL_Tamaru_C.DialogueText
 msgctxt "Dialogue_Text,DL_Tamaru"
 msgid "Toa, Hi! It has been a long-while since we last talked!"
-msgstr "Тоа, п-приветствую! Мы давно не общались!"
+msgstr "Тоа, п-приветствую! Мы очень давно не общались!"
 
 #. Key:	DL_Tamaru1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Tamaru1.Default__DL_Tamaru1_C.DialogueText
@@ -17153,7 +17153,9 @@ msgctxt "Dialogue_Text,DL_Tamaru3"
 msgid ""
 "You are right, but I believe us to be Same-hearted. I consider us to be ever-long "
 "friends Toa $T."
-msgstr "Вы правы, но я считаю, что мы родные души. Я считаю нас лучшими друзьями, Тоа $T."
+msgstr ""
+"Вы правы, но я считаю, что мы дружественно-родные души. Я считаю нас наи-лучшими "
+"друзьями, Тоа $T."
 
 #. Key:	DL_Taphal1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Kokoro/KoTown/DL_Taphal1.Default__DL_Taphal1_C.DialogueText
@@ -18532,7 +18534,7 @@ msgid ""
 "The hypnotising material on the surface of the mask pulses slowly, as if breathing... "
 msgstr ""
 "Таинственная Комау, покрытая неким чёрным веществом. Она в трещинах и не функционирует. "
-"Завораживающий материал на поверхности маски медленно пульсирует, словно дышит… "
+"Завораживающий материал на поверхности маски медленно пульсирует, словно дышит…"
 
 #. Key:	Item_BrothersNote_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Inventory/Items/Notes/Item_BrothersNote.Item_BrothersNote.Description
