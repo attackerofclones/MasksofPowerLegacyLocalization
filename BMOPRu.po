@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-06-20 13:09+0300\n"
+"PO-Revision-Date: 2026-06-20 15:57+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -10096,7 +10096,7 @@ msgstr "Спасибо, что заглянули, Тоа $T."
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerReturn.Default__DL_CartographerReturn_C.DialogueText
 msgctxt "Dialogue_Text,DL_CartographerReturn"
 msgid "Hello again $T, can you pay for the mask yet?"
-msgstr "И снова приветствую, $T. Вы готовы заплатить за маску?"
+msgstr "И снова здравствуйте, $T. Вы готовы заплатить за маску?"
 
 #. Key:	DL_CartographerTiro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_CartographerTiro.Default__DL_CartographerTiro_C.DialogueText
@@ -10159,7 +10159,7 @@ msgstr "Приветствую, Тоа!"
 #: /Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Cleaning1.Default__DL_Cleaning1_C.DialogueText
 msgctxt "Dialogue_Text,DL_Cleaning1"
 msgid "Why I'm polishing your Suva of course!"
-msgstr "А, я полирую вашу Суву, конечно же!"
+msgstr "Ну, я полирую вашу Суву, конечно же!"
 
 #. Key:	DL_Cleaning2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_Cleaning2.Default__DL_Cleaning2_C.DialogueText
@@ -10173,7 +10173,7 @@ msgstr "Ох… Я польщён, но я – не он! Я всего лишь
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoExit.Default__DL_DamemoExit_C.DialogueText
 msgctxt "Dialogue_Text,DL_DamemoExit"
 msgid "Of course I won't keep you Toa, Good luck in your travels."
-msgstr "Конечно, не буду вас задерживать Тоа. Удачных вам путешествий."
+msgstr "Конечно, не буду вас задерживать, Тоа. Удачных вам путешествий."
 
 #. Key:	DL_DamemoLeave
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamemoLeave.Default__DL_DamemoLeave_C.DialogueText
@@ -11148,8 +11148,8 @@ msgid ""
 "Things have mostly been quiet, aside from Vakama’s return. I, for one, am grateful. "
 "Quiet is a rarity these days."
 msgstr ""
-"В последнее время ничего особенного не случилось, кроме возвращения Вакамы. Я этому, в "
-"какой-то степени, рад. Тишина – штука нынче редкая."
+"Ничего такого особенного не случилось… ну, кроме возвращения Вакамы. Я этому, в какой-то "
+"степени, рад. Тишина – штука нынче редкая."
 
 #. Key:	DL_JalaTakoro
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Jala/DL_JalaTakoro.Default__DL_JalaTakoro_C.DialogueText
@@ -11170,7 +11170,7 @@ msgid ""
 "Are... are you serious? I’m Jala, Captain of the Ta-Koro Guard and right hand to Turaga "
 "Vakama. I would assume that Mata Nui’s chosen heroes wouldn’t be this forgetful..."
 msgstr ""
-"Вы… вы сейчас серьёзно? Я Джала, капитан стражи Та-Коро и правая рука Тураги Вакамы. Я "
+"Вы… вы сейчас серьёзно?! Я Джала, капитан стражи Та-Коро и правая рука Тураги Вакамы. Я "
 "уж думал, что у избранных героев Мата Нуи не будет проблем с памятью…"
 
 #. Key:	DL_JobmasterIntro
@@ -11202,9 +11202,9 @@ msgid ""
 "If he sent you here, you must need a few extra widgets, right? I suppose you could help "
 "me with my shipment issue."
 msgstr ""
-"А, Река. Глупыш, скучный, озабочен Колхи – прям как половина деревни, я полагаю. Если он "
-"вас послал сюда, то вам наверняка нужна парочка виджетов, да? Думаю, вы можете мне "
-"помочь с моим грузом."
+"А, Река. Глупыш, скучный, озабочен Колхи – прям как половина деревни, я полагаю… Если он "
+"вас послал сюда, то вам наверняка нужна парочка виджетов, да? Думаю, вы сможете помочь "
+"мне с моим грузом."
 
 #. Key:	DL_JobmasterJobSneak
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterJobSneak.Default__DL_JobmasterJobSneak_C.DialogueText
@@ -11237,7 +11237,7 @@ msgstr "Приветствую, Тоа, вам удалось найти мой 
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn1.Default__DL_JobmasterReturn1_C.DialogueText
 msgctxt "Dialogue_Text,DL_JobmasterReturn1"
 msgid "Ahhck! That is very unfortunate."
-msgstr "Аргх! Это не очень хорошо."
+msgstr "Аргх! Это очень нехорошо."
 
 #. Key:	DL_JobmasterReturn2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/MapQuest/DL_JobmasterReturn2.Default__DL_JobmasterReturn2_C.DialogueText
@@ -11325,9 +11325,9 @@ msgid ""
 "his advanced age, I run the town mostly these days - I was the one that tasked Huki to "
 "wait for you."
 msgstr ""
-"Наш Турага, Онева, недавно пропал. Мы без него неплохо справляемся – из-за его "
-"преклонного возраста, поселением управляю преимущественно я. Именно я был тем, кто "
-"попросил Хьюки ждать вас."
+"Наш Турага, Онева, пропал без вести некоторое время назад. Мы без него неплохо "
+"справляемся – из-за его преклонного возраста, поселением управляю преимущественно я. "
+"Именно я был тем, кто попросил Хьюки ждать вас."
 
 #. Key:	DL_KapuraAdventures1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Ta-Koro/Citizens/DL_KapuraAdventures1.Default__DL_KapuraAdventures1_C.DialogueText
@@ -12715,7 +12715,7 @@ msgstr ""
 #: /Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout.Default__DL_Lockedout_C.DialogueText
 msgctxt "Dialogue_Text,DL_Lockedout"
 msgid "Hey again Toa-Hero, Guess what! I finally found my key."
-msgstr "И снова приветствую вас, герой Тоа. Знаете что? Я всё-таки нашёл свой ключ!"
+msgstr "И вновь приветствую вас, герой Тоа. Знаете что? Я всё-таки нашёл свой ключ!"
 
 #. Key:	DL_Lockedout_2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/Lekoro/DL_Lockedout_2.Default__DL_Lockedout_2_C.DialogueText
@@ -15567,7 +15567,7 @@ msgstr "Есть? Но как? А, ну да, вы же Тоа. Могу я…"
 #: /Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerComplete1.Default__DL_SadKolhiiPlayerComplete1_C.DialogueText
 msgctxt "Dialogue_Text,DL_SadKolhiiPlayerComplete1"
 msgid "Hello again toa!"
-msgstr "И снова приветствую вас, Тоа!"
+msgstr "И я вновь приветствую вас, Тоа!"
 
 #. Key:	DL_SadKolhiiPlayerComplete2
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/PoKoro/DL_SadKolhiiPlayerComplete2.Default__DL_SadKolhiiPlayerComplete2_C.DialogueText
@@ -15577,7 +15577,7 @@ msgid ""
 "Absolutely! I would be playing with it now but I've been feeling rather tired recently, "
 "I figured it would be better for me to rest for now."
 msgstr ""
-"Конечно! Я теперь буду с ним играть, но я что-то подустал в последнее время, поэтому я "
+"Конечно! Я теперь буду с ним играть! Но я что-то подустал в последнее время, поэтому я "
 "решил, что мне пока лучше передохнуть."
 
 #. Key:	DL_SadKolhiiPlayerCompleteQuest
