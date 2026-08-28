@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-08-18 14:12+0300\n"
+"PO-Revision-Date: 2026-08-28 12:35+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -18397,7 +18397,7 @@ msgstr "Я тоже, $T. Я тоже."
 msgctxt "Dialogue_Text,DL_WinRacePoduKopaka"
 msgid "Oh no, you won’t have to do any more racing. Pohatu had his fun."
 msgstr ""
-"Э, нет, тебе больше не придётся участвовать в гонках. Похату как следует повеселился."
+"Э нет, тебе больше не придётся участвовать в гонках. Похату как следует повеселился."
 
 #. Key:	DL_WinRacePoduPohatu
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/RaceQuest/WinRace/DL_WinRacePoduPohatu.Default__DL_WinRacePoduPohatu_C.DialogueText
