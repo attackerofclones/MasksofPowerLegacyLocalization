@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-10-16 11:34+0300\n"
+"PO-Revision-Date: 2026-10-16 12:06+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -465,8 +465,8 @@ msgstr ""
 "Эта сторожевая башня в Ко-Вахи давно заброшена. Иронично, что это здание, некогда "
 "созданное для защиты Маторанов, теперь является одним из самых опасных и недружелюбных "
 "мест острова, поскольку оно кишит Рахи. Когда-то стражники Ко-Матораны использовали эту "
-"башню в качестве одного из форпостов, делая её одним из немногих относительно безопасных "
-"мест Ко-Вахи за пределами Ко-Коро."
+"башню в качестве одного из своих форпостов, делая её одним из немногих относительно "
+"обитаемых мест Ко-Вахи за пределами Ко-Коро."
 
 #. Key:	CodexPage_KoWahi_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/LevelingSystem/Locations/LocationEntry_KoWahi.Default__LocationEntry_KoWahi_C.Location Description
@@ -2854,7 +2854,7 @@ msgstr "Лучше оставить её как есть."
 #: /Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLeave.Default__DL_DamMasterLeave_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
 msgctxt "Dialogue_Response,DL_DamMasterLeave_PlayerResponse_1"
 msgid "In future don't do this in secret, and less dangerously please."
-msgstr "В будущем лучше не делать это в тайне. И без рисков, пожалуйста."
+msgstr "В будущем лучше не делать этого втайне. И без фокусов, пожалуйста."
 
 #. Key:	DL_DamMasterLift_PlayerResponse_1
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/Lines/WaterfallQuest/DL_DamMasterLift.Default__DL_DamMasterLift_C.Responses(0).Responses.ResponseText_20_B7867F0F4B34A10C5D626B84DD15AB04
