@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-10-16 11:29+0300\n"
+"PO-Revision-Date: 2026-10-16 11:34+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -21429,7 +21429,7 @@ msgid ""
 "the strange matoran said the code would be Faith, Creation, Peace."
 msgstr ""
 "Теперь найдите Безумного Маторана. На двери пещеры, где он прячется, установлен замок. "
-"Странный Маторан говорит, что правильная комбинация – «Вера, Созидание, Мир»."
+"Странный Маторан говорит, что правильной комбинацией может быть «Вера, Созидание, Мир»."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
