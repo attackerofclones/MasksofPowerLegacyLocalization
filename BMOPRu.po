@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BMOPRus\n"
 "POT-Creation-Date: 2025-08-26 01:01\n"
-"PO-Revision-Date: 2026-10-13 21:18+0300\n"
+"PO-Revision-Date: 2026-10-16 11:29+0300\n"
 "Last-Translator: \n"
 "Language-Team: Denis Dolgorukov (aka Nemezidych)\n"
 "Language: ru_RU\n"
@@ -20717,8 +20717,7 @@ msgid ""
 "Dameo has asked you to restore the flow of the river and by extension restore his "
 "fishing town."
 msgstr ""
-"Дамео попросил вас восстановить течение реки и, в дополнение, восстановить его рыбацкий "
-"городок."
+"Дамео попросил вас восстановить течение реки и, в дополнение, его рыбацкий городок."
 
 #. Key:	Quest_TheToaOfFire1_Desc
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Main/Quest_TheToaOfFire1.Default__Quest_TheToaOfFire1_C.Description
@@ -21430,7 +21429,7 @@ msgid ""
 "the strange matoran said the code would be Faith, Creation, Peace."
 msgstr ""
 "Теперь найдите Безумного Маторана. На двери пещеры, где он прячется, установлен замок. "
-"Странный Маторан говорит, что кодом является «Вера, Созидание, Мир»."
+"Странный Маторан говорит, что правильная комбинация – «Вера, Созидание, Мир»."
 
 #. Key:	Quest_ProphetOfTheMakuta_Objective_6
 #. SourceLocation:	/Game/BluePrints/Classes/Quests/Quest_ProphetOfTheMakuta.Default__Quest_ProphetOfTheMakuta_C.Objectives(5).Objectives.ObjectiveDescription_47_E55EE7E84E5B1D4A152D00844ADD816F
@@ -21718,7 +21717,8 @@ msgstr "Вы все в порядке? Это хорошо."
 msgctxt "ST_CutsceneDialogue,MakutaExplode_Line10"
 msgid "Makuta used this to reset us to when we first arrived. Do you think…?"
 msgstr ""
-"Макута использовал это, чтобы вернуть нас в момент, когда мы впервые прибыли. Думаете…?"
+"Макута использовал это, чтобы вернуть нас в тот момент, когда мы впервые прибыли. "
+"Думаете…?"
 
 #. Key:	MakutaExplode_Line11
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
@@ -21912,8 +21912,8 @@ msgid ""
 "I enjoyed toying with you, Toa. Watching you struggle past all of my challenges only to "
 "fail again, and again, and again. But I believe... that time has passed."
 msgstr ""
-"Я наигрался с вами, Тоа. Наблюдал за тем, как вы бьётесь над моими испытаниями лишь для "
-"того, чтобы проваливать их раз за разом. Но мне кажется… то время уже прошло."
+"Я наигрался с вами, Тоа. Наблюдал за тем, как усердно вы бьётесь над моими испытаниями – "
+"лишь для того, чтобы раз за разом терпеть крах. Но мне кажется… то время уже прошло."
 
 #. Key:	MakutaIntro_Line19
 #. SourceLocation:	/Game/BluePrints/Classes/Dialogue/ST_CutsceneDialogue.ST_CutsceneDialogue
